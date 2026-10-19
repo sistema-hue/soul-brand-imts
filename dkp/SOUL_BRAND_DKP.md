@@ -622,3 +622,117 @@ Buscar a excelência não significa exigir perfeição absoluta ou ignorar os li
 Desejamos reunir pessoas que compartilhem essa disposição para evoluir e que compreendam a excelência como uma prática cotidiana, capaz de contribuir para o desenvolvimento individual, coletivo e empresarial.
 
 É dessa maneira que buscamos alcançar nosso máximo potencial e transformar nossas capacidades em resultados que realmente importam.
+
+### 05.4 | Valores
+
+#### Empatia
+
+*HUMANIDADE COM PROPÓSITO*
+
+**Reconhecemos a humanidade de cada pessoa e buscamos compreender suas necessidades antes de decidir como podemos contribuir.**
+
+A empatia começa quando reconhecemos que cada pessoa possui sua própria história, seus desafios e sua maneira de enxergar o mundo.
+
+Queremos cultivar relações nas quais as pessoas sejam ouvidas, respeitadas e consideradas em suas particularidades. Isso exige disposição para compreender perspectivas diferentes das nossas e reconhecer as consequências que nossas decisões podem produzir na vida dos outros.
+
+Para nós, agir com empatia não significa concordar com todas as opiniões ou deixar de tomar decisões difíceis. Significa conduzir essas situações com respeito, responsabilidade e atenção à dignidade humana.
+
+Acreditamos que essa atitude fortalece a confiança, melhora a colaboração e contribui para que nossas soluções façam sentido para as pessoas que desejamos atender.
+
+#### Coragem
+
+*VISÃO TRANSFORMADORA E CORAJOSA*
+
+**Temos coragem para imaginar novos caminhos, enfrentar incertezas e transformar nossas convicções em realizações.**
+
+Empreender exige coragem. Precisamos tomar decisões mesmo quando não temos todas as respostas e reconhecer oportunidades que ainda não foram plenamente exploradas.
+
+Valorizamos a disposição para questionar o convencional, experimentar alternativas e enfrentar desafios que exigem determinação.
+
+Mas coragem não deve ser confundida com imprudência. Queremos assumir riscos de maneira consciente, compreendendo suas consequências e utilizando os recursos disponíveis com responsabilidade.
+
+A coragem que cultivamos está na capacidade de agir com discernimento, perseverar quando existem razões para continuar e reconhecer quando é necessário mudar de direção.
+
+#### Protagonismo
+
+*RESPONSABILIDADE E PRESENÇA ATIVA*
+
+**Assumimos nosso papel na construção do futuro, respondendo pelas escolhas que fazemos e pelos compromissos que assumimos.**
+
+Acreditamos que cada pessoa pode contribuir para transformar sua realidade quando reconhece suas capacidades e assume responsabilidade por suas atitudes.
+
+Ser protagonista é participar ativamente, tomar decisões conscientes e compreender que nossas escolhas produzem consequências.
+
+Queremos que as pessoas encontrem espaço para desenvolver autonomia, apresentar ideias e contribuir com soluções, respeitando os compromissos e as responsabilidades compartilhadas.
+
+O protagonismo também exige maturidade para reconhecer erros, aprender com as experiências e compreender quando precisamos da contribuição de outras pessoas.
+
+Para nós, assumir o próprio papel não significa agir individualmente, mas contribuir de maneira responsável para realizações que também beneficiem o coletivo.
+
+#### Proatividade
+
+*INICIATIVA VISIONÁRIA*
+
+**Transformamos a capacidade de enxergar oportunidades na disposição de agir para torná-las possíveis.**
+
+Valorizamos pessoas que conseguem perceber o que precisa ser feito e assumem iniciativas para contribuir com soluções.
+
+A proatividade está na disposição para antecipar necessidades, identificar oportunidades e buscar alternativas antes que as dificuldades se tornem maiores.
+
+Queremos cultivar uma atitude construtiva, na qual os desafios sejam enfrentados com responsabilidade e disposição para aprender.
+
+Isso não significa agir sem planejamento ou assumir compromissos além de nossas capacidades. Significa compreender que boas ideias precisam de iniciativa, organização e execução para produzir resultados.
+
+Acreditamos que a proatividade fortalece nossa capacidade de adaptação e contribui para o desenvolvimento contínuo do ecossistema.
+
+#### Gratidão
+
+*CULTURA DA GRATIDÃO COLETIVA*
+
+**Valorizamos as pessoas que fazem parte da nossa história e reconhecemos que nossas conquistas também nascem das contribuições que recebemos.**
+
+Nenhuma trajetória é construída inteiramente sozinha. Ao longo da vida, encontramos pessoas que compartilham conhecimentos, oferecem oportunidades e nos ajudam a enfrentar dificuldades.
+
+A gratidão nos convida a reconhecer essas contribuições e compreender que nossas realizações também são resultado das relações que cultivamos.
+
+Queremos que esse reconhecimento faça parte da cultura da IMTS, valorizando o esforço, a dedicação e os aprendizados individuais e coletivos.
+
+Ser grato não significa ignorar problemas ou deixar de buscar melhorias. Significa reconhecer o que recebemos e preservar a disposição para contribuir com outras pessoas.
+
+Acreditamos que a gratidão fortalece os vínculos humanos e ajuda a construir relações mais maduras, generosas e colaborativas.
+
+#### Felicidade
+
+*MOTOR DE PROSPERIDADE E ALEGRIA*
+
+**Queremos prosperar sem perder a alegria de viver, valorizando o equilíbrio, as relações humanas e o sentido das nossas realizações.**
+
+Acreditamos que o desenvolvimento empresarial deve contribuir para uma vida que também tenha espaço para realização pessoal, saúde, família e relacionamentos.
+
+Queremos que o trabalho seja uma oportunidade de crescimento e contribuição, sem se tornar a única medida de valor de uma pessoa.
+
+A felicidade é uma experiência individual, influenciada por diferentes circunstâncias. Por isso, não pretendemos determinar como cada participante deve vivê-la.
+
+Nosso compromisso é cultivar um ambiente respeitoso, positivo e inspirador, no qual as pessoas encontrem condições para desenvolver suas capacidades e buscar uma vida mais equilibrada.
+
+Acreditamos que a prosperidade ganha maior significado quando pode ser acompanhada de bem-estar, gratidão e alegria.
+
+#### Excelência
+
+*EXCELÊNCIA REGENERATIVA*
+
+**Buscamos ser melhores a cada dia, não apenas para alcançar nossos objetivos, mas para contribuir com o desenvolvimento das pessoas e do mundo ao nosso redor.**
+
+A excelência representa nossa disposição para aprender, evoluir e realizar com responsabilidade.
+
+Queremos fazer o melhor possível com os recursos que temos, buscando aprimorar continuamente nossos conhecimentos, processos e resultados.
+
+Mas acreditamos que a excelência não deve ser compreendida apenas como desempenho individual ou empresarial. Ela também precisa considerar os benefícios que nossas realizações podem produzir para outras pessoas.
+
+Por isso, adotamos a Excelência Regenerativa como nosso valor principal. Uma excelência viva, evolutiva e orientada por propósito, que procura melhorar aquilo que fazemos e contribuir para transformar positivamente o ambiente em que atuamos.
+
+Ela nos desafia a cuidar, inovar e desenvolver soluções que possam produzir benefícios duradouros.
+
+Nossos demais Valores não existem isoladamente. Empatia, Coragem, Protagonismo, Proatividade, Gratidão e Felicidade são expressões complementares dessa busca consciente pelo melhor.
+
+Juntos, esses Valores formam uma cultura na qual o desenvolvimento individual e coletivo pode contribuir para gerar prosperidade, impacto positivo e um legado que ultrapasse nossas próprias realizações.
