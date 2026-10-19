@@ -22,6 +22,8 @@ O legado que desejamos construir nasce dessa combinação. Queremos que nossas e
 
 ### 05.2 | Visão de Futuro
 
+**Construir um ecossistema empresarial exponencial, humano e sustentável, onde pessoas e negócios prosperem juntos, transformando sonhos em realizações e deixando um legado de impacto positivo para as próximas gerações.**
+
 Imaginamos um futuro em que o Ecossistema IMTS seja reconhecido não apenas pelas empresas que reúne ou pelas tecnologias que desenvolve, mas principalmente pelas oportunidades que cria e pelos benefícios que consegue produzir para as pessoas.
 
 Queremos construir um ambiente no qual nossa Essência esteja presente em tudo o que fazemos. Sonhar com Ousadia, Conectar com Propósito, Realizar com Excelência e Compartilhar com Generosidade devem orientar a maneira como desenvolvemos negócios, cultivamos relações e assumimos responsabilidades.
