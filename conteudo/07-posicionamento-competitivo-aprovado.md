@@ -657,3 +657,208 @@ Nossa ambição é construir um ecossistema que combine alcance nacional e intel
 Queremos que nossas regionais sejam pontos de conexão entre necessidades, competências e oportunidades, contribuindo para fortalecer os empreendimentos e ampliar nossa capacidade de gerar valor.
 
 É dessa maneira que compreendemos a regionalização: uma estratégia de proximidade, integração e desenvolvimento, capaz de transformar a diversidade brasileira em oportunidades de colaboração, inovação e impacto positivo.
+
+### 07.6 | Setorização
+
+#### Texto original integral
+
+Atuamos estrategicamente nos clientes públicos e privados de forma setorizada.
+
+Clientes Públicos
+
+Administração Pública Geral
+Educação Pública
+Saúde Pública
+Justiça e Cidadania
+Segurança Pública
+Fazenda e Finanças Públicas
+Transparência e Controle
+Tecnologia e Inovação Pública
+Infraestrutura e Obras
+Assistência e Desenvolvimento Social
+Meio Ambiente e Sustentabilidade
+Cultura, Esporte e Turismo
+Trabalho e Emprego Público
+Defesa Civil e Gestão de Riscos
+
+#### Declaração Sintética | Oração de Impacto
+
+**Acreditamos que compreender a realidade de cada setor é essencial para transformar tecnologia em valor concreto. Na IMTS, nossa setorização aproxima competências especializadas dos desafios enfrentados por organizações públicas e privadas, permitindo desenvolver soluções mais relevantes, responsáveis e adequadas a cada contexto. Queremos contribuir para instituições mais eficientes, serviços melhores e oportunidades de desenvolvimento que produzam benefícios reais para as pessoas e para a sociedade.**
+
+#### Desenvolvimento Narrativo
+
+Acreditamos que organizações pertencentes a diferentes setores enfrentam desafios que não podem ser compreendidos apenas por sua dimensão, localização ou natureza jurídica.
+
+Cada setor possui responsabilidades, processos, necessidades e condições de funcionamento que influenciam diretamente a maneira como tecnologias e soluções devem ser desenvolvidas e aplicadas.
+
+Por isso, buscamos organizar nossa atuação de forma setorizada, aproximando as competências do ecossistema dos problemas concretos enfrentados pelos diferentes ambientes institucionais e empresariais.
+
+Nossa intenção é desenvolver conhecimento especializado, reconhecer oportunidades e construir propostas de valor compatíveis com as características de cada setor.
+
+Essa abordagem complementa nossa segmentação de mercados, nossa verticalização e nossa regionalização.
+
+No âmbito dos clientes públicos, reconhecemos quatorze campos de atuação.
+
+**Administração Pública Geral**
+
+Reconhecemos que a administração pública desempenha funções essenciais para a organização e o funcionamento das instituições governamentais.
+
+Seus desafios envolvem gestão de recursos, organização de processos, integração de informações e capacidade de prestar serviços de maneira eficiente e transparente.
+
+Queremos contribuir para iniciativas que fortaleçam a gestão administrativa, aprimorem processos e ampliem a capacidade institucional de atender às necessidades da sociedade.
+
+Acreditamos que tecnologias adequadamente aplicadas podem apoiar decisões, reduzir ineficiências e melhorar a qualidade dos serviços públicos.
+
+**Educação Pública**
+
+A educação pública representa um dos instrumentos fundamentais para ampliar oportunidades e promover o desenvolvimento humano e social.
+
+Reconhecemos que suas instituições enfrentam desafios relacionados à gestão educacional, à infraestrutura, ao acompanhamento da aprendizagem e à qualidade dos serviços oferecidos.
+
+Buscamos compreender essas necessidades e desenvolver soluções que apoiem educadores, gestores, estudantes e comunidades escolares.
+
+Queremos contribuir para a utilização responsável de tecnologias capazes de melhorar processos, ampliar o acesso à informação e fortalecer as condições de aprendizagem.
+
+**Saúde Pública**
+
+A saúde pública envolve responsabilidades essenciais para a proteção da vida e o bem-estar da população.
+
+Reconhecemos que seus desafios incluem gestão de serviços, integração de informações, acompanhamento de recursos e capacidade de resposta às necessidades das pessoas.
+
+Queremos desenvolver competências que contribuam para melhorar processos administrativos, apoiar a gestão de informações e fortalecer a eficiência dos serviços de saúde.
+
+Nossa atuação deve considerar a proteção de dados sensíveis, a segurança das informações e o respeito às responsabilidades dos profissionais e das instituições.
+
+**Justiça e Cidadania**
+
+Acreditamos que o fortalecimento das instituições de justiça e cidadania contribui para a proteção de direitos e para a qualidade da vida em sociedade.
+
+Reconhecemos que esse setor envolve processos complexos, informações relevantes e responsabilidades que exigem segurança, transparência e confiabilidade.
+
+Buscamos compreender suas necessidades e contribuir para iniciativas de modernização tecnológica, organização de informações e melhoria dos serviços institucionais.
+
+Queremos apoiar soluções que respeitem a autonomia das instituições, a integridade dos processos e os direitos dos cidadãos.
+
+**Segurança Pública**
+
+A segurança pública constitui uma responsabilidade fundamental do Estado e possui impacto direto sobre a vida das pessoas e das comunidades.
+
+Reconhecemos que suas instituições enfrentam desafios relacionados à prevenção, à coordenação operacional, à gestão de informações e à capacidade de resposta.
+
+Queremos desenvolver conhecimentos e soluções tecnológicas que contribuam para melhorar processos, apoiar decisões e fortalecer a eficiência institucional.
+
+Nossa atuação deve considerar os limites legais, a proteção dos direitos fundamentais e a responsabilidade no uso de tecnologias de monitoramento e análise.
+
+**Fazenda e Finanças Públicas**
+
+A gestão das finanças públicas é essencial para a sustentabilidade das instituições e para a utilização responsável dos recursos da sociedade.
+
+Reconhecemos que esse setor envolve atividades relacionadas à arrecadação, ao orçamento, à execução financeira e ao acompanhamento de informações fiscais.
+
+Buscamos desenvolver competências capazes de contribuir para melhorar processos, integrar informações e apoiar decisões fundamentadas em dados confiáveis.
+
+Queremos fortalecer iniciativas que promovam eficiência, transparência e responsabilidade na gestão dos recursos públicos.
+
+**Transparência e Controle**
+
+Acreditamos que a transparência e os mecanismos de controle são fundamentais para fortalecer a confiança nas instituições públicas.
+
+Reconhecemos que esse setor exige capacidade de organizar informações, acompanhar processos e apoiar atividades de fiscalização e prestação de contas.
+
+Queremos contribuir com soluções tecnológicas que facilitem o acesso a informações públicas, fortaleçam a rastreabilidade e melhorem a qualidade dos processos de controle.
+
+Nossa atuação deve respeitar as exigências legais de publicidade, proteção de dados e integridade institucional.
+
+**Tecnologia e Inovação Pública**
+
+A transformação digital representa uma oportunidade importante para ampliar a capacidade de atuação das instituições governamentais.
+
+Reconhecemos que a inovação pública exige compreender processos, integrar sistemas, desenvolver competências e criar condições para a adoção sustentável de novas tecnologias.
+
+Queremos apoiar iniciativas relacionadas à modernização tecnológica, à automação, à governança de dados e à melhoria das experiências dos usuários dos serviços públicos.
+
+Acreditamos que a inovação deve ser orientada por necessidades reais e resultados concretos para a administração e para os cidadãos.
+
+**Infraestrutura e Obras**
+
+A infraestrutura pública constitui uma base importante para o desenvolvimento econômico, a mobilidade, a qualidade de vida e a prestação de serviços essenciais.
+
+Reconhecemos que esse setor envolve planejamento, execução, acompanhamento e manutenção de ativos e empreendimentos complexos.
+
+Queremos explorar oportunidades de aplicação de tecnologias que contribuam para melhorar a gestão de projetos, o monitoramento de atividades e a utilização de recursos.
+
+Acreditamos que informações confiáveis e processos bem estruturados podem apoiar decisões e fortalecer a eficiência das iniciativas de infraestrutura.
+
+**Assistência e Desenvolvimento Social**
+
+Reconhecemos a importância das políticas e dos serviços de assistência social para a proteção de pessoas e comunidades em situações de vulnerabilidade.
+
+Esse setor exige sensibilidade humana, responsabilidade institucional e capacidade de compreender necessidades diversas.
+
+Queremos desenvolver soluções que contribuam para melhorar processos de gestão, organizar informações e apoiar a prestação de serviços.
+
+Nossa atuação deve preservar a dignidade das pessoas, a proteção de dados e o respeito às particularidades dos públicos atendidos.
+
+Acreditamos que a tecnologia pode contribuir para ampliar a eficiência dos serviços sem substituir a importância do cuidado e das relações humanas.
+
+**Meio Ambiente e Sustentabilidade**
+
+Acreditamos que a proteção ambiental e a utilização responsável dos recursos naturais são compromissos importantes para o desenvolvimento sustentável.
+
+Reconhecemos que esse setor envolve atividades de monitoramento, fiscalização, planejamento e gestão de informações ambientais.
+
+Queremos contribuir com competências tecnológicas que apoiem a compreensão das condições ambientais, o acompanhamento de indicadores e a melhoria dos processos institucionais.
+
+Buscamos aproximar inovação, inteligência analítica e monitoramento territorial das necessidades de preservação e gestão sustentável.
+
+**Cultura, Esporte e Turismo**
+
+Reconhecemos que a cultura, o esporte e o turismo contribuem para a identidade das comunidades, a qualidade de vida e o desenvolvimento econômico e social.
+
+Essas atividades envolvem diferentes públicos, equipamentos, serviços e oportunidades de participação.
+
+Queremos compreender seus desafios e explorar soluções tecnológicas que contribuam para melhorar a gestão, a comunicação e a experiência das pessoas.
+
+Acreditamos que iniciativas digitais adequadas podem fortalecer o acesso, ampliar a divulgação de oportunidades e apoiar o desenvolvimento dessas atividades.
+
+**Trabalho e Emprego Público**
+
+O trabalho e o emprego representam dimensões importantes do desenvolvimento econômico e da inclusão social.
+
+Reconhecemos que instituições responsáveis por políticas e serviços relacionados ao emprego enfrentam desafios de gestão, informação, qualificação e relacionamento com diferentes públicos.
+
+Queremos desenvolver competências que contribuam para organizar processos, integrar informações e apoiar iniciativas de formação e desenvolvimento profissional.
+
+Acreditamos que tecnologias responsáveis podem contribuir para aproximar oportunidades, competências e necessidades do mercado de trabalho.
+
+**Defesa Civil e Gestão de Riscos**
+
+A proteção das pessoas diante de desastres, emergências e situações de risco constitui uma responsabilidade institucional de grande relevância.
+
+Reconhecemos que esse setor exige planejamento, monitoramento, coordenação e capacidade de resposta em condições frequentemente complexas.
+
+Queremos explorar aplicações de tecnologias conectadas, inteligência analítica e monitoramento territorial capazes de contribuir para a prevenção e a gestão de riscos.
+
+Nossa atuação deve considerar a confiabilidade das informações, a continuidade dos serviços e a importância das decisões tomadas pelas autoridades competentes.
+
+Acreditamos que a inovação pode fortalecer capacidades institucionais de preparação, acompanhamento e resposta, contribuindo para a proteção das comunidades.
+
+**A setorização como instrumento de especialização estratégica**
+
+Não compreendemos a setorização apenas como uma lista de áreas de atuação.
+
+Ela representa uma maneira de organizar conhecimentos, reconhecer responsabilidades e compreender os problemas específicos enfrentados por diferentes instituições.
+
+Acreditamos que uma solução tecnológica somente produz valor relevante quando considera os processos, as pessoas e as condições reais do ambiente em que será aplicada.
+
+Por isso, queremos que nossas competências transversais sejam combinadas com conhecimento setorial, criando condições para desenvolver propostas mais adequadas e sustentáveis.
+
+Reconhecemos que diferentes setores podem compartilhar desafios semelhantes, mas também possuem exigências próprias que precisam ser respeitadas.
+
+Nossa intenção é aproveitar oportunidades de integração sem perder a capacidade de especialização.
+
+Embora o detalhamento apresentado contemple os clientes públicos, nossa visão de setorização também se aplica às organizações privadas, respeitando suas atividades, mercados e necessidades.
+
+Queremos desenvolver uma capacidade de atuação que combine conhecimento institucional, competências tecnológicas e compreensão dos desafios de cada setor.
+
+É dessa maneira que buscamos transformar a setorização em inteligência estratégica: aproximando nossas capacidades dos problemas reais, fortalecendo relacionamentos e contribuindo para soluções que produzam valor econômico, institucional e social.
