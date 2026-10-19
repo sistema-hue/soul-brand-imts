@@ -175,3 +175,23 @@ Por isso, queríamos desenvolver uma cultura na qual fosse possível questionar 
 Nosso compromisso era construir um ecossistema capaz de perseguir seus objetivos corporativos sem perder de vista as pessoas, as empresas e as comunidades com as quais se relaciona.
 
 Acreditávamos que essa coerência seria fundamental para produzir impacto positivo de maneira consistente. Afinal, o valor de nossos princípios não estaria apenas na forma como os escrevemos, mas na capacidade de transformá-los em decisões, comportamentos e realizações concretas.
+
+### 03.11 | Criando um Legado de Transformação
+
+Desde que começamos a construir o Ecossistema IMTS, acreditávamos que nossa história não deveria ser medida apenas pelo número de empresas criadas, pelos negócios realizados ou pelos resultados financeiros alcançados.
+
+Queríamos que essas conquistas existissem, naturalmente. Afinal, a prosperidade econômica é importante para sustentar empreendimentos, gerar oportunidades e permitir que novas iniciativas sejam desenvolvidas. Mas também desejávamos construir algo cujo valor pudesse ser percebido para além dos resultados empresariais.
+
+Imaginávamos o que significaria ajudar uma pessoa a descobrir suas capacidades, encontrar condições para empreender ou realizar um projeto que antes parecia distante. Pensávamos nas oportunidades que poderiam surgir para suas famílias, nos conhecimentos que seriam compartilhados e nos benefícios que essas realizações poderiam produzir nas comunidades.
+
+Foi assim que começamos a compreender o legado que desejávamos construir. Não apenas um conjunto de empresas ou um patrimônio empresarial, mas uma história formada por pessoas, oportunidades, aprendizados e realizações capazes de continuar produzindo benefícios ao longo do tempo.
+
+Sabíamos que não poderíamos determinar o caminho de cada participante do ecossistema. Cada pessoa possui seus próprios sonhos, convicções e responsabilidades. O que desejávamos era contribuir para que encontrassem condições de desenvolver suas capacidades e perseguir seus objetivos com paixão, integridade e compromisso com a excelência.
+
+Também compreendíamos que construir um legado exige mais do que boas intenções. É necessário realizar projetos, cumprir compromissos e desenvolver estruturas que possam continuar gerando valor, mesmo quando seus idealizadores já não estiverem diretamente envolvidos.
+
+Essa perspectiva nos levou a pensar no futuro de maneira mais ampla. Queríamos que nossas escolhas contribuíssem para a prosperidade dos negócios, mas também para o desenvolvimento humano e para a melhoria das condições de vida das pessoas que fossem alcançadas por nossas iniciativas.
+
+Acreditávamos que o verdadeiro significado dessa construção seria revelado com o tempo, nas histórias de quem encontrou oportunidades, nos empreendimentos que conseguiram prosperar e nos benefícios que permaneceram depois de cada realização.
+
+Era esse o legado que desejávamos deixar: uma contribuição concreta para que mais pessoas pudessem viver seus propósitos, desenvolver suas capacidades e participar da construção de um mundo melhor.
