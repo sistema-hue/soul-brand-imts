@@ -22,7 +22,7 @@
 
 - Prefácio: aprovado, 13 parágrafos e mensagem final.
 - Alvo e Impacto: aprovado, 2 tópicos e 6 parágrafos.
-- Origem e Trajetória: tópicos 03.1 a 03.14 aprovados; 03.15 a 03.16 pendentes.
+- Origem e Trajetória: tópicos 03.1 a 03.15 aprovados; 03.16 pendente.
 - Demais seções: pendentes de humanização e aceite.
 
 ## Fontes editoriais de referência
@@ -354,3 +354,27 @@ As experiências vividas fortaleceram nossa convicção de que o desenvolvimento
 Foi assim que começamos a compreender a IMTS não apenas como uma organização empresarial, mas como uma comunidade que desejava construir oportunidades, superar desafios e contribuir para um futuro mais justo, equilibrado e sustentável.
 
 A força que buscávamos desenvolver não estava na promessa de nunca enfrentar dificuldades, mas na capacidade de permanecer unidos, aprender com o que vivemos e continuar realizando aquilo em que acreditamos.
+
+### 03.15 | Nossa Missão Contínua
+
+Ao olhar para a trajetória que construímos até aqui, percebemos que nossa missão continua tão importante quanto no momento em que começamos a imaginar o Ecossistema IMTS. Muitas coisas mudaram ao longo do caminho, mas permanece o desejo de transformar oportunidades em realizações que contribuam para melhorar a vida das pessoas.
+
+Sabemos que os desafios do futuro serão diferentes daqueles que enfrentamos no passado. Novas tecnologias, transformações econômicas e mudanças nas necessidades da sociedade exigirão de nós capacidade de aprender, adaptar estratégias e desenvolver novas soluções.
+
+Não esperamos encontrar respostas prontas para todas essas situações. O que desejamos preservar é a disposição de compreender os problemas, reunir competências e trabalhar com responsabilidade para construir alternativas que façam sentido.
+
+Cada novo projeto representa uma oportunidade de colocar nossas convicções em prática. Quando desenvolvemos uma solução, apoiamos um empreendimento ou contribuímos para transformar uma ideia em realidade, estamos dando continuidade àquilo que motivou a criação do ecossistema.
+
+Queremos que essas realizações produzam resultados econômicos consistentes, mas também contribuam para o bem-estar coletivo e para o desenvolvimento sustentável da sociedade.
+
+Acreditamos que a inovação ganha significado quando encontra aplicação na vida das pessoas. Por isso, nossa responsabilidade não termina na criação de uma tecnologia ou na entrega de um projeto. Precisamos compreender seus efeitos, aprender com os resultados e buscar maneiras de melhorar continuamente.
+
+Também desejamos continuar inspirando as pessoas que fazem parte do ecossistema a sonhar grande, desenvolver suas capacidades e reconhecer o valor da colaboração. Sabemos que muitas realizações exigem conhecimentos e esforços que ultrapassam as possibilidades individuais.
+
+Essa inspiração não precisa ficar restrita à IMTS. Queremos que nossas experiências, projetos e relações possam contribuir para que outras pessoas e organizações encontrem oportunidades de inovar, empreender e realizar.
+
+Ao mesmo tempo, compreendemos que nossos propósitos precisam evoluir à medida que aprendemos e que a realidade se transforma. Permanecer fiel à nossa essência não significa repetir indefinidamente os mesmos caminhos, mas preservar aquilo em que acreditamos enquanto desenvolvemos novas maneiras de agir.
+
+É dessa forma que desejamos continuar construindo nosso legado: enfrentando os desafios do futuro com coragem, responsabilidade e perseverança, conectando pessoas e capacidades para transformar sonhos em realizações e contribuir para um mundo mais sustentável.
+
+Nossa missão não se encerra em uma conquista ou em determinado momento da história. Ela permanece viva em cada compromisso que assumimos e em cada oportunidade que encontramos para produzir impacto positivo.
