@@ -864,3 +864,31 @@ Nossa missão não é substituir o protagonismo de quem empreende, mas fortalece
 Queremos que cada empreendimento apoiado pelo ecossistema encontre oportunidades para prosperar, inovar e contribuir para a geração de impacto positivo.
 
 É assim que buscamos transformar nossa participação em valor concreto: apoiando empresas e projetos para que desenvolvam suas capacidades, realizem seus objetivos e contribuam para um futuro mais próspero, responsável e sustentável.
+
+### 05.6 | Nossa Missão
+
+**Apoiar as empresas e os projetos dos quais participamos para que alcancem seu máximo potencial de forma sustentável.**
+
+Nossa missão é contribuir para que as empresas e os projetos dos quais participamos encontrem condições de desenvolver suas capacidades e alcançar os objetivos que motivaram sua criação.
+
+Acreditamos que um empreendimento precisa de mais do que uma boa ideia para prosperar. É necessário reunir conhecimentos, organizar recursos, compreender os mercados, enfrentar dificuldades e tomar decisões que permitam transformar oportunidades em resultados.
+
+Queremos que o Ecossistema IMTS seja uma estrutura de apoio para essa jornada. Um ambiente no qual os empreendimentos possam encontrar orientação, competências complementares e oportunidades de colaboração que contribuam para seu desenvolvimento.
+
+Nosso compromisso é apoiar cada operação respeitando suas particularidades. Sabemos que empresas em diferentes estágios enfrentam desafios distintos e que nem todas precisam das mesmas soluções.
+
+Por isso, buscamos compreender suas necessidades, reconhecer suas capacidades e identificar onde nossa participação pode produzir contribuições relevantes.
+
+Queremos impulsionar o crescimento dos negócios, mas compreendemos que alcançar o máximo potencial não significa apenas aumentar receitas, conquistar mercados ou ampliar resultados financeiros.
+
+Também envolve desenvolver capacidades de inovação, fortalecer relações, melhorar processos e construir condições para que os empreendimentos continuem relevantes ao longo do tempo.
+
+A sustentabilidade faz parte dessa responsabilidade. Precisamos considerar a viabilidade econômica, a utilização adequada dos recursos e as consequências sociais e ambientais das decisões tomadas.
+
+Desejamos ser um alicerce sobre o qual empresas e projetos possam desenvolver suas próprias histórias, mantendo autonomia para realizar seus objetivos e encontrando apoio para enfrentar os desafios que surgirem.
+
+Nossa missão não é substituir o protagonismo de quem empreende, mas fortalecer suas condições de realização.
+
+Queremos que cada empreendimento apoiado pelo ecossistema encontre oportunidades para prosperar, inovar e contribuir para a geração de impacto positivo.
+
+É assim que buscamos transformar nossa participação em valor concreto: apoiando empresas e projetos para que desenvolvam suas capacidades, realizem seus objetivos e contribuam para um futuro mais próspero, responsável e sustentável.
