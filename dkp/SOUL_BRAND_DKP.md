@@ -2551,3 +2551,131 @@ Entretanto, sabemos que essa proposta somente se torna verdadeira quando é demo
 Nossa ambição é construir um ecossistema no qual ideias encontrem condições para se transformar em soluções, empreendimentos desenvolvam suas capacidades e oportunidades sejam convertidas em realizações relevantes.
 
 É dessa maneira que compreendemos nossa Proposta de Valor Única: conectar capacidades para fortalecer empreendimentos, gerar prosperidade responsável e contribuir para a construção de um futuro mais sustentável e justo.
+
+### 07.11 | Perfil Ideal de Cliente (PIP)
+
+#### Texto original integral
+
+Valores Alinhados: Priorizam a sustentabilidade, a inovação responsável e o impacto social positivo.
+
+Necessidades: Buscam soluções tecnológicas inovadoras que possam ser implementadas de forma sustentável, procuram uma comunidade de apoio e redes de colaboração.
+
+Desafios: Enfrentam barreiras ao tentar integrar sustentabilidade e inovação, precisam de acesso a financiamento e a uma rede de mentores e especialistas.
+
+Comportamento: Ativos na busca por parcerias e colaborações que promovam inovação sustentável, estão dispostos a investir em soluções que alinhem com seus valores.
+
+Demografia: Varia amplamente, desde startups até grandes corporações e ONGs, mas com um denominador comum de comprometimento com a inovação sustentável e impacto social.
+
+Combinando estes elementos, a IMTS se posiciona como líder no espaço de inovação sustentável, atraindo um público que não apenas busca soluções tecnológicas avançadas, mas que também está comprometido em fazer a diferença no mundo.
+
+“O posicionamento da nossa marca é a assinatura indelével no mundo dos negócios, uma declaração de intenções gravada não apenas em nossos produtos, mas na mente de cada cliente, simbolizando uma aliança inabalável com inovação tecnológica, integridade e impacto social.”
+
+#### Declaração Sintética | Oração de Impacto
+
+**Queremos construir relações com pessoas e organizações que compartilham nossa convicção de que inovação, prosperidade e responsabilidade podem caminhar juntas. Na IMTS, nosso cliente ideal não se define apenas por seu porte ou capacidade de investimento, mas pela convergência entre necessidades reais, disposição para inovar e compromisso com a geração de valor sustentável. Buscamos parceiros de jornada que reconheçam na tecnologia um caminho para transformar desafios em realizações e produzir impacto positivo.**
+
+#### Desenvolvimento Narrativo
+
+Acreditamos que os relacionamentos empresariais mais relevantes são construídos quando existe compatibilidade entre aquilo que uma organização necessita e o valor que somos capazes de oferecer.
+
+Na IMTS, desejamos compreender profundamente as características dos clientes e organizações com os quais buscamos desenvolver relações.
+
+Reconhecemos que diferentes públicos possuem necessidades, capacidades e objetivos distintos.
+
+Por isso, não compreendemos nosso Perfil Ideal de Cliente apenas como uma classificação comercial baseada em porte, localização ou capacidade financeira.
+
+Queremos identificar pessoas e organizações cujos desafios, valores e perspectivas de desenvolvimento encontrem correspondência nas competências e na proposta de valor de nosso ecossistema.
+
+Essa compreensão envolve cinco dimensões fundamentais.
+
+**Valores Alinhados**
+
+Acreditamos que a convergência de valores contribui para construir relacionamentos mais consistentes e duradouros.
+
+Buscamos clientes e organizações que reconheçam a importância da inovação responsável, da sustentabilidade e da geração de impacto positivo.
+
+Isso não significa exigir que todos compartilhem exatamente as mesmas convicções ou prioridades.
+
+Reconhecemos que diferentes organizações possuem culturas, estratégias e necessidades próprias.
+
+Entretanto, desejamos estabelecer relações nas quais exista respeito aos compromissos, abertura para a colaboração e disposição para construir resultados de maneira responsável.
+
+Acreditamos que essa compatibilidade fortalece a confiança e amplia as possibilidades de desenvolvimento conjunto.
+
+**Necessidades**
+
+Reconhecemos que nossos clientes ideais buscam soluções capazes de enfrentar desafios reais e contribuir para a evolução de suas atividades.
+
+Essas necessidades podem envolver transformação digital, melhoria de processos, desenvolvimento de novas capacidades, integração de tecnologias ou construção de oportunidades de negócio.
+
+Queremos compreender cada situação antes de propor soluções.
+
+Acreditamos que a inovação somente produz valor quando responde a necessidades relevantes e encontra condições adequadas para sua implementação.
+
+Também reconhecemos que alguns clientes valorizam relacionamentos que ultrapassam uma contratação pontual, buscando acesso a competências complementares, redes de colaboração e oportunidades de desenvolvimento.
+
+Nossa intenção é identificar onde o ecossistema pode oferecer contribuições consistentes e sustentáveis.
+
+**Desafios**
+
+Acreditamos que compreender os desafios enfrentados pelos clientes é fundamental para desenvolver propostas de valor relevantes.
+
+Reconhecemos que muitas organizações encontram dificuldades para conciliar inovação tecnológica, sustentabilidade e viabilidade econômica.
+
+Esses desafios podem envolver limitações de recursos, falta de competências especializadas, complexidade operacional, resistência a mudanças ou dificuldade para transformar oportunidades em projetos concretos.
+
+Empreendedores e empresas em desenvolvimento também podem enfrentar obstáculos relacionados ao acesso a capital, orientação estratégica e relacionamentos especializados.
+
+Queremos compreender essas barreiras e identificar onde nossas competências e conexões podem contribuir.
+
+Nossa intenção não é presumir que possuímos respostas para todos os problemas, mas desenvolver relações fundamentadas na compreensão das necessidades e na capacidade real de oferecer apoio.
+
+**Comportamento**
+
+Reconhecemos que a disposição para colaborar, aprender e desenvolver novas capacidades influencia significativamente a qualidade dos relacionamentos empresariais.
+
+Buscamos clientes e organizações que demonstrem abertura para compreender possibilidades, avaliar alternativas e participar ativamente da construção de soluções.
+
+Acreditamos que iniciativas de inovação exigem comprometimento, clareza de objetivos e disposição para enfrentar desafios.
+
+Valorizamos relacionamentos nos quais exista transparência sobre expectativas, responsabilidades e condições de realização.
+
+Também reconhecemos a importância da disposição para investir recursos proporcionais ao valor esperado e às capacidades de cada organização.
+
+Nossa intenção é construir parcerias nas quais ambas as partes compreendam seus compromissos e contribuam para alcançar resultados consistentes.
+
+**Demografia e características organizacionais**
+
+Nosso cliente ideal pode assumir diferentes formas.
+
+Ele pode ser uma startup em desenvolvimento, uma empresa consolidada, uma instituição pública, uma organização social ou outro empreendimento que encontre correspondência entre suas necessidades e nossas capacidades.
+
+Reconhecemos que o porte, o setor, a localização e a natureza institucional influenciam as condições de relacionamento e as necessidades de cada organização.
+
+Entretanto, não desejamos que essas características sejam utilizadas isoladamente para definir o valor potencial de uma relação.
+
+Acreditamos que a compatibilidade estratégica, a relevância dos desafios e a possibilidade de produzir resultados sustentáveis constituem critérios igualmente importantes.
+
+Queremos desenvolver abordagens adequadas às particularidades de cada público, preservando a coerência de nossa identidade institucional.
+
+**O Perfil Ideal de Cliente como referência estratégica**
+
+Não compreendemos o Perfil Ideal de Cliente como uma definição rígida ou imutável.
+
+Os mercados evoluem, novas necessidades surgem e nossas capacidades também se transformam.
+
+Por isso, acreditamos que essa referência precisa acompanhar o desenvolvimento do ecossistema e contribuir para orientar nossas escolhas.
+
+Queremos utilizá-la para reconhecer oportunidades, priorizar relacionamentos e compreender onde nossa proposta de valor possui maior potencial de contribuição.
+
+Reconhecemos que nem toda oportunidade comercial representa necessariamente uma relação adequada para ambas as partes.
+
+Nossa responsabilidade é avaliar a compatibilidade entre necessidades, capacidades, expectativas e compromissos.
+
+Acreditamos que essa compreensão contribui para construir relações mais transparentes, eficientes e sustentáveis.
+
+Nossa intenção é desenvolver uma base de clientes e parceiros que reconheçam na IMTS um ambiente de competência, confiança, colaboração e capacidade de realização.
+
+Queremos que nossa marca seja lembrada não apenas pelas tecnologias que oferece, mas pela qualidade dos relacionamentos que constrói e pelo valor que efetivamente entrega.
+
+É dessa maneira que compreendemos nosso Perfil Ideal de Cliente: pessoas e organizações que encontram em nossa proposta de valor oportunidades reais de desenvolvimento e compartilham a disposição para transformar inovação em resultados relevantes, sustentáveis e positivos para a sociedade.
