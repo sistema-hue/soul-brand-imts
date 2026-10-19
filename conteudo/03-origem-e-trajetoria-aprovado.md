@@ -45,3 +45,19 @@ Queríamos reunir pessoas com diferentes experiências, conhecimentos e habilida
 Também desejávamos construir um ambiente no qual o crescimento de um negócio pudesse abrir caminhos para outros. Uma estrutura viva, capaz de se fortalecer à medida que seus participantes evoluíssem, compartilhassem conquistas e encontrassem novas oportunidades de colaboração.
 
 Foi assim que começamos a conceber o ecossistema como um espaço de desenvolvimento contínuo, no qual sonhos não fossem apenas incentivados, mas encontrassem apoio, conhecimentos e condições concretas para se transformar em realizações.
+
+### 03.4 | Cultivando um Ambiente de Equilíbrio e Crescimento
+
+Desde que começamos a imaginar o Ecossistema IMTS, uma preocupação esteve presente: não queríamos que o sucesso de um empreendimento fosse alcançado à custa da saúde, da família ou da qualidade de vida das pessoas responsáveis por construí-lo.
+
+Sabíamos que empreender exige dedicação, esforço e, muitas vezes, decisões difíceis. Mas também acreditávamos que o trabalho deveria fazer parte de uma vida equilibrada, e não ocupar todos os espaços dela.
+
+Por isso, nossa visão foi além do desenvolvimento dos negócios. Queríamos criar um ambiente que respeitasse as necessidades pessoais e profissionais dos empreendedores e de suas famílias, reconhecendo que cada pessoa possui responsabilidades, limites e aspirações próprias.
+
+O cuidado com a saúde física, mental e espiritual passou a fazer parte dessa concepção. Entendíamos que o bem-estar não deveria ser tratado como uma recompensa reservada para depois do sucesso, mas como uma condição importante para construir uma trajetória empreendedora sustentável.
+
+Também percebíamos que ambientes saudáveis favorecem a criatividade, a colaboração e a disposição para inovar. Quando as pessoas encontram respeito, confiança e condições adequadas para desenvolver suas capacidades, tornam-se mais preparadas para enfrentar desafios e contribuir com novas ideias.
+
+Nossa intenção era cultivar um ecossistema em que crescimento empresarial e desenvolvimento humano pudessem caminhar juntos. Um lugar onde prosperar significasse não apenas alcançar resultados econômicos, mas também construir uma vida com mais equilíbrio, realização e sentido.
+
+Afinal, de que adiantaria ajudar alguém a construir um negócio bem-sucedido se, ao longo dessa jornada, essa pessoa perdesse aquilo que mais valoriza?
