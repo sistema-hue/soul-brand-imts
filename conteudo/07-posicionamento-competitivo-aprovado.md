@@ -545,3 +545,115 @@ Nossa intenção é desenvolver uma capacidade efetiva de compreender setores, r
 Acreditamos que a integração entre conhecimento setorial e capacidades tecnológicas constitui um diferencial importante para construir soluções relevantes e negócios sustentáveis.
 
 É dessa maneira que buscamos transformar nossa presença em diferentes verticais em uma força estratégica: aproximando tecnologia e conhecimento especializado para contribuir com a evolução dos mercados, o desenvolvimento dos empreendimentos e a geração de impacto positivo.
+
+### 07.5 | Regionalização
+
+#### Texto original integral
+
+Temos presença consultiva, comercial e de delivery em todas as regiões do Brasil.
+
+Regional Norte
+Regional Nordeste
+Regional Centro-Oeste
+Regional Sudeste
+Regional Sul
+
+#### Declaração Sintética | Oração de Impacto
+
+**Acreditamos que grandes oportunidades nascem da capacidade de compreender diferentes realidades e construir conexões relevantes. Na IMTS, nossa visão de regionalização aproxima competências, tecnologias e empreendimentos das necessidades de cada região brasileira. Queremos combinar alcance nacional e proximidade local, respeitando as particularidades dos territórios e contribuindo para o desenvolvimento sustentável dos mercados e das comunidades em que atuamos.**
+
+#### Desenvolvimento Narrativo
+
+O Brasil reúne uma extraordinária diversidade de realidades econômicas, sociais, culturais e territoriais.
+
+Acreditamos que compreender essa diversidade é fundamental para construir negócios relevantes e desenvolver soluções capazes de responder às necessidades concretas de diferentes mercados.
+
+Na IMTS, nossa visão de regionalização nasce do desejo de aproximar as competências do ecossistema das oportunidades existentes em todo o território brasileiro.
+
+Não queremos que nossa capacidade de atuação esteja limitada às fronteiras de uma única cidade ou região.
+
+Buscamos desenvolver uma presença consultiva, comercial e de entrega capaz de estabelecer relacionamentos, compreender demandas e mobilizar soluções em diferentes partes do país.
+
+Essa visão contempla cinco regionais.
+
+**Regional Norte**
+
+Reconhecemos que a Região Norte possui características territoriais, ambientais, econômicas e sociais que exigem abordagens especialmente atentas às realidades locais.
+
+Sua extensão geográfica, sua diversidade cultural e a importância de seus recursos naturais criam desafios e oportunidades singulares.
+
+Queremos compreender essas particularidades e desenvolver relações que permitam identificar necessidades e contribuir com soluções adequadas.
+
+Acreditamos que tecnologias aplicadas à conectividade, à gestão territorial, ao monitoramento e à melhoria dos serviços podem encontrar oportunidades relevantes nesse contexto.
+
+Nossa atuação deve considerar a sustentabilidade, o respeito às comunidades e as condições concretas de implantação e continuidade das soluções.
+
+**Regional Nordeste**
+
+O Nordeste reúne importantes capacidades humanas, culturais, econômicas e empreendedoras.
+
+Reconhecemos a diversidade de seus mercados, o desenvolvimento de diferentes atividades produtivas e as oportunidades relacionadas à transformação digital.
+
+Queremos fortalecer relacionamentos com empresas, instituições e organizações que buscam inovação, eficiência e desenvolvimento sustentável.
+
+Acreditamos que a combinação entre conhecimento regional e competências tecnológicas pode contribuir para criar soluções relevantes em diferentes setores.
+
+Nossa intenção é participar da construção de oportunidades que valorizem as capacidades locais e ampliem as possibilidades de desenvolvimento dos empreendimentos.
+
+**Regional Centro-Oeste**
+
+Reconhecemos a importância estratégica do Centro-Oeste para diferentes atividades econômicas e institucionais brasileiras.
+
+A região reúne oportunidades relacionadas à produção, à logística, à gestão territorial e à presença de importantes estruturas administrativas.
+
+Queremos compreender as necessidades de seus mercados e desenvolver relacionamentos capazes de conectar nossas competências às oportunidades identificadas.
+
+Acreditamos que tecnologias de monitoramento, inteligência analítica, automação e integração de informações podem contribuir para enfrentar desafios presentes em diferentes atividades regionais.
+
+Nossa atuação deve respeitar as particularidades econômicas, ambientais e institucionais de cada contexto.
+
+**Regional Sudeste**
+
+O Sudeste concentra importantes ambientes empresariais, financeiros, tecnológicos e institucionais.
+
+Reconhecemos que a diversidade e a complexidade de seus mercados criam oportunidades para o desenvolvimento de soluções especializadas e relacionamentos estratégicos.
+
+Queremos ampliar nossa capacidade de compreender as necessidades de organizações que buscam inovação, transformação digital e melhoria de desempenho.
+
+Acreditamos que a integração das competências do ecossistema pode contribuir para iniciativas relacionadas à modernização tecnológica, à eficiência operacional e à criação de novos negócios.
+
+Nossa intenção é construir relações consistentes, fundamentadas na competência, na confiança e na capacidade de produzir valor.
+
+**Regional Sul**
+
+A Região Sul reúne importantes atividades industriais, empresariais, tecnológicas e de serviços.
+
+Reconhecemos sua diversidade produtiva e as oportunidades relacionadas à inovação, à competitividade e à modernização das operações.
+
+Queremos compreender os desafios enfrentados por empresas e instituições regionais, desenvolvendo abordagens adequadas às suas necessidades.
+
+Acreditamos que nossas competências podem contribuir para iniciativas de automação, inteligência de negócios, integração tecnológica e desenvolvimento de novas capacidades.
+
+Buscamos construir relacionamentos que valorizem a experiência local, estimulem a colaboração e contribuam para o crescimento sustentável.
+
+**A integração regional como capacidade estratégica**
+
+Não compreendemos a regionalização apenas como uma divisão geográfica de mercados.
+
+Ela representa uma maneira de aproximar nossa atuação das realidades locais, desenvolver conhecimentos específicos e ampliar nossa capacidade de estabelecer relacionamentos.
+
+Cada regional deve contribuir para reconhecer oportunidades, compreender necessidades e mobilizar as competências disponíveis no ecossistema.
+
+Ao mesmo tempo, queremos que experiências, conhecimentos e soluções desenvolvidos em uma região possam contribuir para outras, respeitando as adaptações necessárias.
+
+Acreditamos que a integração entre as regionais pode fortalecer nossa capacidade de atuação nacional sem comprometer a proximidade com os mercados locais.
+
+Reconhecemos que presença regional não se constrói apenas por declarações institucionais. Ela depende de relacionamentos efetivos, capacidade operacional, conhecimento dos mercados e compromissos que possam ser cumpridos.
+
+Por isso, desejamos desenvolver nossa regionalização de maneira responsável, considerando oportunidades reais, capacidades disponíveis e sustentabilidade das operações.
+
+Nossa ambição é construir um ecossistema que combine alcance nacional e inteligência local.
+
+Queremos que nossas regionais sejam pontos de conexão entre necessidades, competências e oportunidades, contribuindo para fortalecer os empreendimentos e ampliar nossa capacidade de gerar valor.
+
+É dessa maneira que compreendemos a regionalização: uma estratégia de proximidade, integração e desenvolvimento, capaz de transformar a diversidade brasileira em oportunidades de colaboração, inovação e impacto positivo.
