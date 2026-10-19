@@ -15,3 +15,19 @@ Começamos a imaginar um ambiente em que diferentes capacidades pudessem se comp
 Não pretendíamos eliminar os riscos do empreendedorismo, porque sabemos que eles fazem parte dessa jornada. Queríamos encontrar maneiras de compreendê-los, administrá-los e construir condições mais favoráveis para que boas ideias tivessem oportunidades reais de prosperar.
 
 Foi dessa inquietação, alimentada pelo desejo de transformar a maneira como pessoas e negócios poderiam se desenvolver juntos, que começou a nascer o sonho de construir o Ecossistema IMTS.
+
+### 03.2 | A Concepção de um Ecossistema
+
+À medida que observávamos essa realidade, uma questão se tornava cada vez mais evidente: muitas pessoas tinham ideias promissoras, conhecimentos e vontade de empreender, mas não encontravam condições para dar o primeiro passo. O receio de perder a estabilidade financeira e comprometer a segurança da família acabava pesando mais do que o desejo de realizar.
+
+Percebemos, então, que não bastava incentivar essas pessoas a assumir riscos. Era necessário pensar em uma estrutura que pudesse apoiá-las, oferecendo condições para desenvolver seus projetos com mais segurança, compartilhar responsabilidades e enfrentar as incertezas do empreendedorismo sem precisar sacrificar tudo o que haviam conquistado.
+
+Começamos a imaginar um ambiente em que empreendedores não precisassem construir seus negócios de maneira isolada. Um lugar onde pudessem encontrar outras pessoas, trocar experiências, acessar conhecimentos e reunir competências complementares. Onde as dificuldades de um projeto pudessem ser enfrentadas com o apoio de uma estrutura maior, capaz de contribuir para sua continuidade e seu desenvolvimento.
+
+A segurança e o bem-estar das famílias também faziam parte dessa preocupação. Queríamos que empreender fosse uma possibilidade de realização e crescimento, sem representar necessariamente uma ruptura com a estabilidade pessoal e familiar.
+
+Foi assim que a ideia de um ecossistema começou a ganhar contornos mais claros. Em vez de criar apenas uma empresa, imaginamos uma estrutura capaz de conectar diferentes empreendimentos, pessoas e oportunidades, permitindo que seus participantes desenvolvessem seus projetos e, ao mesmo tempo, contribuíssem para o fortalecimento do conjunto.
+
+Sonhar, Conectar, Realizar e Compartilhar passaram a representar a maneira como desejávamos construir esse ambiente. Quatro atitudes que poderiam aproximar pessoas, transformar ideias em projetos e permitir que conhecimentos, recursos e conquistas circulassem entre os participantes.
+
+Dessa visão surgiu a proposta de desenvolver uma plataforma de fomento ao empreendedorismo, apoiada em tecnologias e inovação, na qual a colaboração, a integração de capacidades e o compromisso com o desenvolvimento humano fossem parte da própria estrutura do negócio.
