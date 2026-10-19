@@ -736,3 +736,103 @@ Ela nos desafia a cuidar, inovar e desenvolver soluções que possam produzir be
 Nossos demais Valores não existem isoladamente. Empatia, Coragem, Protagonismo, Proatividade, Gratidão e Felicidade são expressões complementares dessa busca consciente pelo melhor.
 
 Juntos, esses Valores formam uma cultura na qual o desenvolvimento individual e coletivo pode contribuir para gerar prosperidade, impacto positivo e um legado que ultrapasse nossas próprias realizações.
+
+### 05.5 | Prioridades
+
+#### Clientes
+
+**Colocamos nossos clientes no centro das nossas decisões, transformando suas necessidades em soluções e experiências que mereçam sua confiança.**
+
+Nossos clientes são a razão pela qual desenvolvemos soluções, organizamos competências e buscamos novas oportunidades de inovação.
+
+Queremos compreender seus problemas, suas expectativas e as circunstâncias em que atuam, reconhecendo que cada organização possui necessidades próprias.
+
+Acreditamos que uma experiência memorável começa pela capacidade de ouvir, compreender e entregar aquilo que realmente faz diferença.
+
+Nosso compromisso é construir relações duradouras, sustentadas pela confiança, pela qualidade das soluções e pela responsabilidade com os resultados assumidos.
+
+Desejamos que a satisfação e a fidelização sejam consequências do valor que conseguimos produzir, e não apenas de promessas comerciais.
+
+#### Colaboradores
+
+**Valorizamos as pessoas que constroem nossos negócios e criamos oportunidades para que cresçam, prosperem e realizem seu potencial.**
+
+Acreditamos que o desenvolvimento do ecossistema depende das pessoas que dedicam seus conhecimentos, experiências e capacidades à realização dos nossos projetos.
+
+Queremos cultivar um ambiente no qual os colaboradores encontrem respeito, oportunidades de aprendizado e condições para desenvolver suas trajetórias pessoais e profissionais.
+
+Valorizamos a contribuição individual e coletiva, reconhecendo o esforço, a dedicação e os resultados alcançados.
+
+Nosso compromisso é incentivar o crescimento contínuo, apoiar o desenvolvimento de competências e construir relações de trabalho baseadas em confiança, responsabilidade e reconhecimento.
+
+Desejamos que cada pessoa compreenda a importância de seu papel e encontre oportunidades para contribuir com aquilo que sabe fazer melhor.
+
+#### Investidos
+
+**Fortalecemos nossos investidos por meio de conexões estratégicas, oportunidades comerciais e capacidades que ampliem seu potencial de crescimento.**
+
+Nossos investidos representam empreendimentos nos quais reconhecemos oportunidades de desenvolvimento e geração de valor.
+
+Queremos contribuir para seu crescimento por meio do compartilhamento de conhecimentos, da aproximação com mercados e do acesso a relacionamentos e competências relevantes.
+
+Acreditamos que a integração ao ecossistema pode oferecer oportunidades que ultrapassem os recursos financeiros envolvidos em cada investimento.
+
+Buscamos desenvolver relações estratégicas e comerciais capazes de ampliar o alcance desses empreendimentos e fortalecer seu posicionamento competitivo.
+
+Nosso compromisso é apoiar a construção de negócios consistentes, respeitando suas particularidades e buscando oportunidades de crescimento sustentável.
+
+#### Partnerships
+
+**Construímos alianças que conectam competências, aproximam oportunidades e multiplicam nossa capacidade de realizar.**
+
+Acreditamos que muitas oportunidades se tornam possíveis quando organizações com conhecimentos e capacidades complementares decidem trabalhar juntas.
+
+Por isso, valorizamos alianças estratégicas que contribuam para desenvolver negócios, ampliar competências e fortalecer a realização dos nossos objetivos.
+
+Queremos que essas relações sejam construídas com clareza, confiança e respeito aos interesses legítimos de cada participante.
+
+Buscamos parceiros que compartilhem nosso compromisso com a inovação, a responsabilidade e a geração de valor.
+
+Nosso objetivo é que as alianças fortaleçam a capacidade de realização do ecossistema e ampliem o impacto positivo dos projetos desenvolvidos em conjunto.
+
+#### Associados
+
+**Incentivamos nossos associados a empreender, inovar e transformar suas capacidades em oportunidades de realização.**
+
+Queremos que nossos associados encontrem no ecossistema um ambiente favorável ao desenvolvimento de ideias, projetos e empreendimentos.
+
+Acreditamos que pessoas com diferentes experiências e conhecimentos podem contribuir para a criação de soluções relevantes quando encontram oportunidades de colaboração.
+
+Buscamos estimular a iniciativa, a criatividade e a disposição para questionar modelos estabelecidos, desenvolvendo alternativas capazes de gerar valor.
+
+Nosso compromisso é apoiar o empreendedorismo responsável, aproximando capacidades e criando condições para que novas oportunidades possam ser exploradas.
+
+Desejamos que a participação dos associados fortaleça nossa capacidade de inovação e contribua para o desenvolvimento dos setores em que atuamos.
+
+#### Investidores
+
+**Aproximamos investidores que acreditam no empreendedorismo responsável e desejam participar da construção de negócios com propósito e valor sustentável.**
+
+Reconhecemos a importância dos investidores para ampliar as possibilidades de desenvolvimento dos empreendimentos.
+
+Queremos construir relações com pessoas e organizações que compreendam nossa visão e compartilhem o compromisso com a geração de valor de longo prazo.
+
+Acreditamos que decisões de investimento precisam considerar oportunidades, riscos e a capacidade real dos negócios de produzir resultados.
+
+Por isso, valorizamos a transparência, a responsabilidade e a clareza sobre os compromissos assumidos.
+
+Buscamos investidores que reconheçam o potencial das tecnologias e da inovação e compreendam que prosperidade econômica e impacto positivo podem fazer parte de uma mesma estratégia empresarial.
+
+#### Acionistas
+
+**Construímos valor duradouro para nossos acionistas, conciliando prosperidade empresarial, integridade e compromisso com o futuro.**
+
+Nossos acionistas participam da construção e da continuidade dos empreendimentos que integram o ecossistema.
+
+Reconhecemos sua importância para o desenvolvimento dos negócios e para a sustentação de estratégias orientadas ao longo prazo.
+
+Queremos que a geração de valor esteja associada à qualidade das decisões, à utilização responsável dos recursos e à capacidade de construir empresas consistentes.
+
+Acreditamos que os interesses econômicos legítimos precisam ser conciliados com a integridade, a sustentabilidade e os compromissos assumidos com as pessoas e a sociedade.
+
+Nosso objetivo é desenvolver relações transparentes e responsáveis, nas quais a prosperidade empresarial contribua para fortalecer o ecossistema e preservar seu legado.
