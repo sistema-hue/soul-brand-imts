@@ -3540,3 +3540,183 @@ Acreditamos que inovação, prosperidade e impacto positivo precisam caminhar ao
 Não desejamos alcançar resultados relevantes por meio de práticas que contradigam nossos próprios valores.
 
 É dessa maneira que Mahatma Gandhi integra nossas referências inspiradoras: como uma trajetória que nos convida a cultivar a força dos princípios, liderar pelo exemplo e construir transformações fundamentadas na responsabilidade e no respeito humano.
+
+### 08.6 | Leonardo da Vinci
+
+#### Texto original integral
+
+(O Polímata do Renascimento) A história de Leonardo da Vinci é uma celebração da curiosidade insaciável e da genialidade criativa que transcenderam disciplinas, moldando o Renascimento e deixando um legado eterno nas artes e ciências. • Perfil: Polímata italiano do Renascimento, conhecido por sua profunda curiosidade e genialidade nas artes, ciência e invenção. • Síntese: Autor de algumas das obras de arte mais famosas do mundo e visionário em estudos de anatomia, voo, hidráulica e botânica. • Realizações: Criou obras-primas como “Mona Lisa” e “A Última Ceia”, além de deixar vastos cadernos que anteciparam muitas invenções modernas.
+
+História Nascido em 1452, em Vinci, na Itália, Leonardo da Vinci é frequentemente descrito como o arquétipo do “homem renascentista”, cujos interesses e contribuições abrangeram uma ampla gama de campos, incluindo arte, ciência, matemática, engenharia e anatomia. Leonardo é mais conhecido por suas obras-primas artísticas, como “Mona Lisa” e “A Última Ceia”, que continuam a fascinar o mundo pela sua profundidade técnica e emocional. Além de sua arte, Leonardo deixou um vasto legado de cadernos detalhados que revelam um gênio à frente de seu tempo. Nestes ele esboçou invenções que antecipavam tecnologias modernas, como helicópteros, tanques de guerra e pontes suspensas, e fez observações científicas profundas que só seriam reconhecidos séculos depois.
+
+Para explorar mais
+
+Livro: “Leonardo da Vinci” por Walter Isaacson (2017), baseado em milhares de páginas dos cadernos de Leonardo, oferece um retrato detalhado de sua vida, arte e invenções. Filme/Série/Documentário: “Leonardo” (2021) - Esta série dramática explora a vida de Leonardo da Vinci, mergulhando em sua genialidade, suas obras de arte icônicas e os mistérios que cercam sua pessoa e suas invenções. Recursos Adicionais Para aqueles inspirados pela incomparável curiosidade e criatividade de Leonardo da Vinci e buscando se aprofundar em sua história, os seguintes recursos são recomendados: Exposições e Museus: O Museu do Louvre, em Paris, abriga a “Mona Lisa”, enquanto a Galeria Nacional, em Londres, exibe outros trabalhos de Leonardo. Museus em todo o mundo frequentemente realizam exposições focadas em diferentes aspectos de sua vida e obra. Cadernos de Leonardo: Muitas das páginas dos cadernos de Leonardo foram digitalizadas e estão disponíveis online, oferecendo um vislumbre direto de seu processo de pensamento e invenções. Documentários: Diversos documentários, como “Leonardo da Vinci: The Universal Man” (2012), exploram sua vida, arte e contribuições científicas, disponíveis em plataformas de streaming e canais educacionais. Frases Inspiradoras “Aprender nunca esgota a mente.” “Onde há mais sentimento, há mais dor.” A vida de Leonardo da Vinci nos ensina o valor da curiosidade incessante e da busca pelo conhecimento em todas as suas formas. Ele demonstrou que a interseção da arte e da ciência é um terreno fértil para a inovação e que a verdadeira genialidade reside na capacidade de ver o mundo de maneiras novas e transformadoras. “Simplicidade é a 60 sofisticação suprema.” Uma máxima de Leonardo da Vinci que inspira empreendedores a buscar a elegância na simplicidade, incentivando a criação de inovações tecnológicas que são ao mesmo tempo poderosas e intuitivas, contribuindo para um mundo mais sustentável e acessível.
+
+#### Declaração Sintética | Oração de Impacto
+
+**Acreditamos que a inovação nasce da curiosidade, floresce na conexão entre conhecimentos e se realiza quando imaginação e competência encontram um propósito. Inspirados pela trajetória de Leonardo da Vinci, queremos ultrapassar fronteiras entre disciplinas, unir arte e ciência, cultivar a aprendizagem contínua e transformar complexidade em soluções elegantes. Na IMTS, buscamos desenvolver uma inteligência criativa capaz de observar profundamente, questionar convenções e construir possibilidades que ampliem o potencial humano e tecnológico.**
+
+#### Desenvolvimento Narrativo
+
+**A curiosidade como origem da inovação**
+
+Acreditamos que grandes descobertas começam quando alguém encontra disposição para observar o mundo com atenção e questionar aquilo que parece evidente.
+
+A trajetória de Leonardo da Vinci representa uma das referências mais conhecidas dessa maneira de compreender o conhecimento.
+
+Nascido em 1452, na região de Vinci, na Itália, Leonardo desenvolveu interesses que ultrapassaram os limites de uma única atividade.
+
+Sua curiosidade o conduziu à pintura, ao desenho, à anatomia, à engenharia, à matemática e ao estudo de fenômenos naturais.
+
+Reconhecemos que essa diversidade de interesses não deve ser compreendida apenas como uma coleção de habilidades extraordinárias.
+
+Ela também revela uma maneira de aprender fundamentada na observação, na experimentação e na busca por conexões entre diferentes campos.
+
+Na IMTS, queremos cultivar essa disposição para aprender continuamente e compreender problemas por diferentes perspectivas.
+
+Acreditamos que a inovação frequentemente surge quando conhecimentos aparentemente distantes encontram possibilidades de integração.
+
+**A união entre arte e ciência**
+
+Leonardo desenvolveu sua obra em um período no qual diferentes campos do conhecimento estavam passando por importantes transformações.
+
+Suas pinturas revelam atenção à anatomia, à luz, à perspectiva e à representação das expressões humanas.
+
+Ao mesmo tempo, seus estudos científicos demonstram interesse pela compreensão das estruturas e dos fenômenos presentes na natureza.
+
+Acreditamos que essa combinação entre sensibilidade artística e investigação técnica oferece uma reflexão importante para nossa cultura.
+
+Na IMTS, não desejamos compreender tecnologia e criatividade como capacidades separadas.
+
+Queremos desenvolver soluções nas quais engenharia, design, experiência humana e conhecimento especializado possam contribuir de maneira integrada.
+
+Reconhecemos que uma solução tecnicamente sofisticada nem sempre representa a melhor experiência para as pessoas.
+
+Da mesma maneira, uma ideia visualmente atraente precisa encontrar sustentação em capacidades reais de funcionamento e realização.
+
+Nossa intenção é aproximar precisão técnica e sensibilidade humana para construir soluções relevantes.
+
+**A observação como instrumento de aprendizagem**
+
+Os cadernos de Leonardo constituem uma parte fundamental de seu legado.
+
+Neles, registrou desenhos, estudos, perguntas, hipóteses e observações sobre diferentes aspectos do mundo natural e das atividades humanas.
+
+Acreditamos que essa prática demonstra a importância de transformar curiosidade em investigação organizada.
+
+Observar exige atenção.
+
+Compreender exige disposição para questionar.
+
+E aprender exige reconhecer que nossas primeiras interpretações podem estar incompletas.
+
+Na IMTS, queremos desenvolver uma cultura na qual problemas sejam estudados antes de serem transformados em soluções.
+
+Reconhecemos que decisões fundamentadas dependem da qualidade das informações disponíveis e da capacidade de interpretá-las.
+
+Nossa intenção é estimular a aprendizagem contínua, o registro de conhecimentos e o compartilhamento de experiências entre pessoas, células e operações.
+
+**A imaginação como antecipação de possibilidades**
+
+Leonardo produziu desenhos e estudos de mecanismos que exploravam possibilidades técnicas muito além das condições de realização disponíveis em seu tempo.
+
+Seus projetos relacionados ao voo, à hidráulica e a diferentes dispositivos mecânicos demonstram uma capacidade singular de imaginar soluções.
+
+Reconhecemos que muitos desses projetos permaneceram como estudos e concepções, sem se transformar em máquinas plenamente funcionais.
+
+Ainda assim, representam exemplos importantes da relação entre imaginação, conhecimento e experimentação.
+
+Na IMTS, acreditamos que a capacidade de imaginar possibilidades futuras constitui uma força relevante para o empreendedorismo e a inovação.
+
+Entretanto, queremos distinguir visão de realização.
+
+Uma ideia promissora precisa ser acompanhada de investigação, validação, desenvolvimento e condições adequadas para produzir resultados.
+
+Nossa ambição é conectar criatividade e capacidade de execução, transformando oportunidades em soluções que possam gerar valor concreto.
+
+**A excelência construída pela atenção aos detalhes**
+
+As obras artísticas de Leonardo continuam sendo estudadas e admiradas pela qualidade de sua execução e pela complexidade de suas técnicas.
+
+A “Mona Lisa” e “A Última Ceia” representam exemplos de uma busca por expressão, composição e domínio técnico.
+
+Acreditamos que essa atenção aos detalhes oferece uma reflexão importante sobre a excelência.
+
+Resultados relevantes dependem frequentemente de escolhas que podem parecer pequenas quando observadas isoladamente.
+
+A qualidade de uma experiência, de um produto ou de um serviço pode ser profundamente influenciada pela maneira como seus componentes são concebidos e integrados.
+
+Na IMTS, queremos desenvolver uma cultura de atenção à qualidade, sem confundir excelência com perfeccionismo incapacitante.
+
+Reconhecemos que realizar também exige estabelecer prioridades, concluir etapas e aprender com os resultados.
+
+Nossa intenção é combinar rigor, sensibilidade e capacidade de entrega.
+
+**Simplicidade como resultado de compreensão profunda**
+
+A simplicidade é frequentemente associada à trajetória e ao pensamento de Leonardo.
+
+Independentemente da autenticidade literal de algumas frases atribuídas a ele, sua obra oferece oportunidades para refletir sobre a relação entre complexidade e clareza.
+
+Acreditamos que soluções simples nem sempre são fáceis de desenvolver.
+
+Muitas vezes, exigem conhecimento aprofundado, capacidade de síntese e atenção às necessidades das pessoas.
+
+Na IMTS, queremos valorizar a simplicidade como expressão de inteligência aplicada.
+
+Não desejamos desenvolver tecnologias complexas apenas para demonstrar sofisticação técnica.
+
+Queremos compreender os problemas e organizar nossas capacidades para produzir soluções claras, eficientes e acessíveis.
+
+Reconhecemos que simplificar não significa eliminar requisitos essenciais ou ignorar riscos relevantes.
+
+Significa tornar a complexidade administrável e transformar conhecimento em experiências mais compreensíveis.
+
+**A integração de conhecimentos como capacidade estratégica**
+
+A trajetória de Leonardo demonstra como diferentes campos do conhecimento podem contribuir uns para os outros.
+
+Seus estudos de anatomia influenciaram sua representação artística do corpo humano.
+
+Sua observação da natureza alimentou investigações sobre movimento, estruturas e mecanismos.
+
+Acreditamos que essa disposição para estabelecer conexões oferece uma referência importante para nosso modelo de ecossistema.
+
+Na IMTS, reunimos competências tecnológicas e empresariais que podem encontrar oportunidades de colaboração.
+
+Queremos que nossas células não funcionem como estruturas isoladas, mas como capacidades complementares.
+
+Reconhecemos que desafios complexos frequentemente exigem a combinação de conhecimentos de diferentes áreas.
+
+Nossa intenção é desenvolver uma organização capaz de integrar perspectivas, compartilhar aprendizagens e transformar essa diversidade em soluções relevantes.
+
+**O legado de Leonardo da Vinci para a IMTS**
+
+Não buscamos reproduzir a genialidade individual de Leonardo ou construir nossa identidade em torno da idealização de personalidades históricas.
+
+Nossa intenção é compreender os princípios que podem fortalecer nossa maneira de aprender, inovar e realizar.
+
+A curiosidade diante do desconhecido.
+
+A disposição para observar e questionar.
+
+A integração entre arte, ciência e tecnologia.
+
+A capacidade de imaginar possibilidades futuras.
+
+A atenção à qualidade e aos detalhes.
+
+A valorização da simplicidade.
+
+E o compromisso com a aprendizagem contínua.
+
+Queremos que esses princípios estejam presentes na maneira como desenvolvemos nossos empreendimentos, organizamos nossas competências e construímos soluções.
+
+Acreditamos que a inovação se fortalece quando pessoas com conhecimentos distintos encontram condições para colaborar.
+
+Que a criatividade precisa caminhar ao lado da competência técnica.
+
+E que a imaginação alcança seu verdadeiro potencial quando encontra condições para produzir benefícios concretos.
+
+É dessa maneira que Leonardo da Vinci integra nossas referências inspiradoras: como uma trajetória que nos convida a aprender sem fronteiras, conectar conhecimentos e transformar curiosidade em inovação orientada à realização e ao desenvolvimento humano.
