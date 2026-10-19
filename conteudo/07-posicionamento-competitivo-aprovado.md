@@ -862,3 +862,113 @@ Embora o detalhamento apresentado contemple os clientes públicos, nossa visão 
 Queremos desenvolver uma capacidade de atuação que combine conhecimento institucional, competências tecnológicas e compreensão dos desafios de cada setor.
 
 É dessa maneira que buscamos transformar a setorização em inteligência estratégica: aproximando nossas capacidades dos problemas reais, fortalecendo relacionamentos e contribuindo para soluções que produzam valor econômico, institucional e social.
+
+### 07.7 | Posicionamento da Marca
+
+#### Texto original integral
+
+A IMTS, com sua abordagem inovadora e compromisso com sustentabilidade e impacto social, atrai um público específico e se posiciona de maneira única no mercado.
+
+#### Declaração Sintética | Oração de Impacto
+
+**Somos um ecossistema empresarial que transforma tecnologias, inovação e colaboração em oportunidades de desenvolvimento sustentável. Nosso posicionamento nasce da convicção de que prosperidade econômica e impacto positivo podem caminhar juntos. Na IMTS, buscamos construir negócios relevantes, conectar capacidades e gerar valor duradouro para empresas, pessoas e sociedade, fazendo da integridade, da excelência e da inovação os fundamentos de nossa identidade competitiva.**
+
+#### Desenvolvimento Narrativo
+
+Acreditamos que o posicionamento de uma marca não se constrói apenas por aquilo que ela comunica, mas principalmente pela maneira como atua, pelas escolhas que realiza e pelo valor que efetivamente entrega.
+
+Na IMTS, desejamos construir uma identidade competitiva que reflita nossa natureza como ecossistema empresarial orientado às tecnologias, à inovação e ao desenvolvimento sustentável.
+
+Não queremos ser reconhecidos apenas como uma organização que oferece produtos ou serviços tecnológicos.
+
+Nossa ambição é desenvolver um ambiente de negócios capaz de conectar empresas, pessoas, conhecimentos, tecnologias e oportunidades, transformando capacidades complementares em realizações relevantes.
+
+Acreditamos que essa maneira de atuar representa uma das características fundamentais de nosso posicionamento.
+
+**Inovação como capacidade de transformação**
+
+A inovação ocupa uma posição central em nossa identidade.
+
+Reconhecemos que tecnologias e modelos de negócio evoluem continuamente, criando novas possibilidades e transformando mercados.
+
+Queremos participar dessas transformações de maneira ativa, compreendendo necessidades, questionando modelos estabelecidos e desenvolvendo soluções capazes de produzir benefícios concretos.
+
+Entretanto, não compreendemos a inovação como um objetivo isolado.
+
+Acreditamos que seu valor se revela quando contribui para resolver problemas reais, melhorar experiências, ampliar oportunidades ou desenvolver capacidades que antes não estavam disponíveis.
+
+Nossa intenção é transformar conhecimento e criatividade em realizações relevantes para os mercados em que atuamos.
+
+**Sustentabilidade como compromisso com a continuidade**
+
+Acreditamos que o desenvolvimento empresarial precisa considerar sua capacidade de permanecer relevante e produzir valor ao longo do tempo.
+
+Por isso, compreendemos a sustentabilidade como uma dimensão essencial de nosso posicionamento.
+
+Ela envolve a viabilidade econômica dos empreendimentos, a utilização responsável dos recursos e a atenção às consequências sociais e ambientais de nossas decisões.
+
+Queremos construir negócios capazes de crescer, adaptar-se às transformações e preservar condições adequadas para sua continuidade.
+
+Reconhecemos que resultados imediatos podem ser importantes, mas não devem comprometer a integridade e a sustentabilidade de longo prazo.
+
+Nossa intenção é conciliar prosperidade empresarial e responsabilidade, desenvolvendo iniciativas que possam gerar valor de maneira consistente.
+
+**Impacto positivo como expressão de propósito**
+
+Acreditamos que a atividade empresarial pode contribuir para transformar realidades e ampliar oportunidades.
+
+O impacto positivo representa, para nós, a intenção de produzir benefícios que ultrapassem os resultados econômicos dos empreendimentos.
+
+Queremos que nossas iniciativas contribuam para melhorar processos, desenvolver competências, ampliar o acesso a soluções e fortalecer organizações e comunidades.
+
+Reconhecemos que o impacto precisa ser compreendido a partir de resultados concretos, e não apenas de declarações de intenção.
+
+Por isso, desejamos desenvolver uma atuação capaz de demonstrar relevância por meio das transformações que ajudamos a realizar.
+
+Nossa ambição é construir empreendimentos economicamente sustentáveis que também contribuam para o desenvolvimento humano e social.
+
+**Integração como diferencial competitivo**
+
+A natureza de nosso ecossistema constitui uma característica importante de nosso posicionamento.
+
+Acreditamos que diferentes empresas, competências e tecnologias podem produzir resultados mais relevantes quando encontram condições para atuar de maneira integrada.
+
+Queremos desenvolver capacidades compartilhadas, estimular a colaboração entre operações e criar oportunidades de complementaridade.
+
+Essa integração deve respeitar a autonomia, as responsabilidades e as particularidades de cada empreendimento.
+
+Nossa intenção não é eliminar diferenças, mas transformá-las em possibilidades de criação de valor.
+
+Reconhecemos que a capacidade de mobilizar competências complementares pode contribuir para enfrentar desafios complexos e desenvolver soluções mais completas.
+
+**Excelência e integridade como fundamentos de confiança**
+
+Acreditamos que nenhum posicionamento competitivo se sustenta por muito tempo sem confiança.
+
+A qualidade das entregas, a clareza dos compromissos e a coerência entre discurso e comportamento constituem elementos fundamentais para construir relacionamentos duradouros.
+
+Queremos ser reconhecidos pela seriedade com que assumimos responsabilidades, pela disposição para aprender e pela busca contínua de excelência.
+
+A integridade deve orientar nossas relações com clientes, colaboradores, parceiros, investidores e demais integrantes do ecossistema.
+
+Reconhecemos que a reputação de uma organização é construída ao longo do tempo e pode ser comprometida quando seus comportamentos contradizem seus valores.
+
+Por isso, desejamos que nossa identidade competitiva esteja fundamentada em práticas responsáveis e resultados consistentes.
+
+**Nosso lugar no mercado**
+
+Não pretendemos construir nosso posicionamento apenas por comparação com concorrentes ou pela reivindicação de superioridade.
+
+Queremos desenvolver uma identidade própria, reconhecível pela combinação entre inovação tecnológica, integração empresarial, sustentabilidade e compromisso com impacto positivo.
+
+Acreditamos que essa combinação pode atrair pessoas e organizações que compartilham nossos valores e buscam relacionamentos orientados à geração de valor.
+
+Reconhecemos que diferentes públicos possuem expectativas e necessidades específicas. Nosso posicionamento deve ser suficientemente claro para expressar nossa identidade e suficientemente flexível para dialogar com diferentes mercados.
+
+Queremos que nossas empresas, projetos e iniciativas encontrem nessa identidade uma referência comum para orientar suas decisões e relacionamentos.
+
+Nossa ambição é construir uma marca cuja relevância seja reconhecida não apenas pelo que promete, mas pelo que efetivamente realiza.
+
+É dessa maneira que compreendemos o posicionamento da IMTS: uma expressão de nossa identidade, de nossas capacidades e de nosso compromisso com a construção de negócios inovadores, escaláveis e sustentáveis.
+
+Queremos ocupar um lugar próprio no mercado, fundamentado na confiança, na excelência e na capacidade de transformar oportunidades em realizações que gerem valor econômico e impacto positivo para a sociedade.
