@@ -2439,3 +2439,115 @@ Não queremos competir apenas por promessas, discursos ou percepções.
 Desejamos construir uma posição competitiva sustentada por capacidades reais, relacionamentos consistentes e valor demonstrável.
 
 É dessa maneira que compreendemos nossa relação com a concorrência: uma oportunidade permanente de aprendizagem e evolução, na qual buscamos desenvolver uma identidade própria e contribuir para mercados mais inovadores, responsáveis e sustentáveis.
+
+### 07.10 | Proposta de Valor Única (PVU)
+
+#### Texto original integral
+
+“Empoderar inovações sustentáveis, transformando ideias em soluções reais que beneficiam não apenas os negócios, mas também a sociedade e o planeta. Através de uma comunidade colaborativa e um ecossistema de apoio, conectamos empreendedores, investidores e inovadores com o compromisso compartilhado de criar um futuro mais sustentável e justo.”
+
+#### Declaração Sintética | Oração de Impacto
+
+**Conectamos pessoas, empresas, tecnologias e oportunidades para transformar ideias em negócios inovadores, escaláveis e sustentáveis. Na IMTS, nossa proposta de valor nasce da integração de competências e da força da colaboração, criando condições para que empreendimentos desenvolvam seu potencial, gerem prosperidade responsável e contribuam para um futuro de impacto positivo.**
+
+#### Desenvolvimento Narrativo
+
+Acreditamos que boas ideias podem representar o início de grandes transformações, mas reconhecemos que sua realização depende de condições capazes de transformar possibilidades em resultados concretos.
+
+Empreender exige mais do que criatividade ou disposição para inovar.
+
+É necessário reunir conhecimentos, desenvolver competências, mobilizar recursos, compreender mercados e construir relacionamentos que contribuam para enfrentar os desafios presentes em cada jornada.
+
+Na IMTS, nossa proposta de valor nasce da intenção de apoiar esse processo.
+
+Queremos construir um ecossistema empresarial capaz de conectar pessoas, empresas, tecnologias, capital e oportunidades, criando condições para o desenvolvimento de empreendimentos inovadores, escaláveis e sustentáveis.
+
+Não desejamos atuar apenas como fornecedores de soluções isoladas.
+
+Nossa ambição é desenvolver uma estrutura de integração e apoio na qual diferentes capacidades possam ser mobilizadas para fortalecer empresas, projetos e iniciativas.
+
+Acreditamos que essa abordagem pode contribuir para ampliar as possibilidades de realização dos empreendimentos e produzir benefícios que ultrapassem seus resultados individuais.
+
+**Transformar ideias em realizações**
+
+Reconhecemos que muitas oportunidades começam com uma percepção, uma necessidade ainda não atendida ou uma maneira diferente de compreender determinado problema.
+
+Entretanto, sabemos que uma ideia somente produz valor quando encontra condições para ser desenvolvida e aplicada.
+
+Queremos contribuir para aproximar essas oportunidades das competências, tecnologias e recursos necessários à sua realização.
+
+Nossa intenção é apoiar a transformação de conceitos em soluções relevantes, respeitando as particularidades e os estágios de desenvolvimento de cada empreendimento.
+
+Acreditamos que essa capacidade de realização constitui uma dimensão importante do valor que desejamos oferecer.
+
+**Conectar capacidades complementares**
+
+A natureza de nosso ecossistema permite reunir diferentes conhecimentos, experiências e especialidades.
+
+Reconhecemos que uma empresa ou projeto nem sempre possui internamente todas as capacidades necessárias para enfrentar seus desafios.
+
+Por isso, buscamos desenvolver oportunidades de colaboração entre operações, células de competência, parceiros e demais integrantes do ecossistema.
+
+Queremos que essa integração contribua para ampliar capacidades, melhorar processos e acelerar a construção de soluções.
+
+Acreditamos que a complementaridade pode produzir resultados relevantes quando existe clareza de responsabilidades, confiança e alinhamento de objetivos.
+
+Nossa intenção é transformar a diversidade de competências em uma força de realização compartilhada.
+
+**Fortalecer o empreendedorismo sustentável**
+
+Acreditamos que o empreendedorismo representa uma importante fonte de inovação, desenvolvimento econômico e transformação social.
+
+Queremos apoiar empreendedores e organizações que buscam desenvolver negócios capazes de crescer e permanecer relevantes ao longo do tempo.
+
+Reconhecemos que a sustentabilidade empresarial envolve viabilidade econômica, utilização responsável dos recursos e capacidade de adaptação às mudanças dos mercados.
+
+Também compreendemos que as decisões empresariais podem produzir consequências sociais e ambientais que precisam ser consideradas.
+
+Nossa intenção é contribuir para a construção de empreendimentos que conciliem prosperidade econômica, responsabilidade e geração de valor duradouro.
+
+**Desenvolver uma comunidade colaborativa**
+
+Acreditamos que relacionamentos de confiança podem ampliar as oportunidades de aprendizagem, inovação e realização.
+
+Queremos que o ecossistema seja um ambiente no qual empreendedores, investidores, empresas, profissionais e parceiros encontrem possibilidades de colaboração.
+
+Reconhecemos que uma comunidade forte não se constrói apenas pela reunião de participantes.
+
+Ela depende de objetivos compartilhados, respeito aos compromissos e disposição para contribuir.
+
+Buscamos desenvolver relações capazes de favorecer o compartilhamento de conhecimentos, a complementaridade de competências e a construção de iniciativas conjuntas.
+
+Nossa intenção é criar condições para que diferentes participantes encontrem oportunidades de gerar e compartilhar valor.
+
+**Contribuir para o impacto positivo**
+
+Acreditamos que a atividade empresarial pode produzir benefícios que ultrapassem seus resultados econômicos imediatos.
+
+Queremos desenvolver empreendimentos e soluções que contribuam para melhorar processos, ampliar oportunidades, fortalecer organizações e beneficiar pessoas e comunidades.
+
+Reconhecemos que impacto positivo precisa ser compreendido a partir de transformações reais e resultados que possam ser observados.
+
+Nossa intenção é estimular iniciativas que considerem sua contribuição econômica, social e ambiental, respeitando suas condições de viabilidade e continuidade.
+
+Acreditamos que prosperidade empresarial e responsabilidade podem caminhar juntas quando estão presentes nas escolhas e nas práticas de uma organização.
+
+**Nossa proposta de valor como compromisso de realização**
+
+Não compreendemos nossa proposta de valor apenas como uma declaração comercial.
+
+Ela representa o compromisso de transformar nossas capacidades em contribuições relevantes para os empreendimentos e públicos com os quais nos relacionamos.
+
+Queremos que empresas e projetos encontrem no ecossistema oportunidades de apoio, integração e desenvolvimento.
+
+Reconhecemos que cada empreendimento possui necessidades próprias e que nossa contribuição deve respeitar suas particularidades.
+
+Por isso, buscamos compreender os desafios antes de propor soluções, identificar onde nossas competências podem produzir benefícios e construir relacionamentos orientados a resultados.
+
+Acreditamos que a força de nossa proposta de valor está na combinação entre inovação, integração empresarial, colaboração e sustentabilidade.
+
+Entretanto, sabemos que essa proposta somente se torna verdadeira quando é demonstrada por meio de ações, entregas e resultados concretos.
+
+Nossa ambição é construir um ecossistema no qual ideias encontrem condições para se transformar em soluções, empreendimentos desenvolvam suas capacidades e oportunidades sejam convertidas em realizações relevantes.
+
+É dessa maneira que compreendemos nossa Proposta de Valor Única: conectar capacidades para fortalecer empreendimentos, gerar prosperidade responsável e contribuir para a construção de um futuro mais sustentável e justo.
