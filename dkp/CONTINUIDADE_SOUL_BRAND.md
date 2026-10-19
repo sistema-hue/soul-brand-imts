@@ -52,3 +52,24 @@ Fonte histórica: livro original Soul Brand IMTS 2026; reconciliar com versões 
 
 ## Critério de aceite
 Uma unidade editorial só está **sincronizada** após leitura posterior comprovando correspondência entre Markdown, D.K.P. e HTML. A publicação pública é um estado separado.
+
+
+## Checkpoint de reconciliação editorial | 2026-10-19 | 08.11
+
+Este checkpoint posterior prevalece sobre as indicações antigas de "próximo 06.2" acima. Não eliminar o histórico: a pendência de 06.1 continua independente.
+
+### Estado confirmado por releitura dos três destinos
+- Capítulo 07 | Posicionamento Competitivo: 07.1 a 07.12 aprovados e sincronizados em Markdown, D.K.P. e HTML, conforme histórico editorial.
+- Capítulo 08 | Referências Inspiradoras: 08.1 a 08.11 aprovados. A seção 08.11 | Walt Disney foi relida nos três destinos e confirmou oração de impacto, títulos narrativos e presença do HTML editorial aprovado.
+- Destinos atuais do capítulo 08: `conteudo/08-referencias-inspiradoras-aprovado.md`, `dkp/SOUL_BRAND_DKP.md` e `index.html`.
+- Próximo conteúdo editorial: **08.12 | Elon Musk**, identificado no HTML original pelo `id="inspiracao-12"`. Ainda não aprovado, não sincronizar como conteúdo revisado antes da aprovação.
+- **Pendência histórica 06.1 | Tolerância Zero permanece aberta**: recuperar texto exato aprovado e reconciliar sem inventar aprovação ou sincronização.
+- Não há comprovação de publicação pública; commits do GitHub não equivalem a deploy.
+
+### Contrato de continuidade entre conversas
+1. Ler este arquivo e o estado real do repositório; dar prioridade ao checkpoint mais recente, reconciliando divergências.
+2. Manter rigorosamente o formato: título do capítulo/subtópico; **1. Texto original integral**; **2. Declaração Sintética | Oração de Impacto**; **3. Desenvolvimento Narrativo** integral e aprofundado; **4. Validação editorial**.
+3. Oferecer as três decisões: **Aprovo integralmente**, **Aprovo com ajustes**, **Quero outra redação**.
+4. Após aprovação, sincronizar o conteúdo nos três destinos, reler, verificar correspondência, informar commit final e imediatamente apresentar o próximo conteúdo para decisão.
+5. Não repetir textos, validações ou gravações já concluídos. Não alegar publicação sem evidência. Preservar textos históricos, conteúdo aprovado, referências e notas de integridade.
+6. Se uma operação for interrompida, verificar primeiro o estado real dos três destinos antes de refazer qualquer escrita.
