@@ -4460,3 +4460,197 @@ Que o pensamento crítico fortalece nossa capacidade de tomar decisões.
 E que o conhecimento alcança seu verdadeiro valor quando contribui para ampliar possibilidades e produzir benefícios duradouros.
 
 É dessa maneira que Albert Einstein integra nossas referências inspiradoras: como uma trajetória que nos convida a questionar, imaginar, aprender e transformar conhecimento em realizações relevantes para a sociedade.
+
+### 08.11 | Walt Disney
+
+#### Texto original integral
+
+(O Visionário do Entretenimento) A história de Walt Disney, um pioneiro na indústria da animação e do entretenimento, é uma saga de criatividade, inovação e a realização do sonho americano, transformando uma paixão por desenhar e contar histórias em um império global de entretenimento. • Perfil: Empreendedor, animador, dublador e produtor de cinema. • Síntese: Cofundador da Walt Disney Company, que se tornou uma das maiores e mais conhecidas empresas de entretenimento do mundo. • Realizações: Criador de Mickey Mouse e pioneiro na indústria de animação. Ganhou 22 Oscars. Lançou o primeiro longa-metragem de animação, “Branca de Neve e os Sete Anões”, e inaugurou o primeiro parque temático, Disneyland.
+
+História Nascido em 1901 em Chicago, Walt Disney mudou-se para Kansas City, onde desenvolveu um amor pelo desenho e pela animação. Em 1923, ele e seu irmão Roy O. Disney fundaram o Disney Brothers Studio em Hollywood. Seu primeiro grande sucesso veio com a criação de Mickey Mouse em 1928, seguido por uma série de inovações técnicas e narrativas, incluindo o primeiro curta-metragem sincronizado com som, “Steamboat Willie”, e o primeiro longa-metragem de animação em cores e som, “Branca de Neve e os Sete Anões”, em 1937. Disney não parou com o sucesso nos filmes. Ele também se aventurou no desenvolvimento de parques temáticos, inaugurando a Disneyland na Califórnia em 1955, um lugar onde crianças e adultos poderiam explorar mundos de fantasia e aventura. Este foi seguido pela Walt World Resort na Flórida em 1971, expandindo sua visão de um “lugar mais feliz na Terra”. Além de ser um inovador no campo da animação, ele foi um visionário empresarial, estabelecendo a Walt Disney Company como uma das marcas de entretenimento mais reconhecidas do mundo. Sua capacidade de sonhar grande e realizar sonhos com criatividade e precisão técnica deixou um legado duradouro que continua 74 a encantar gerações.
+
+Para explorar mais Filme/Série/Documentário: “Walt Before Mickey” (2015) - Este filme conta a história dos primeiros anos de Walt Disney como um jovem animador e sua luta para criar o império de entretenimento que a Disney se tornou.
+
+Livro: “Walt Disney: The Triumph of the American Imagination” por Neal Gabler - Uma biografia abrangente que explora a vida e a carreira de Walt Disney, oferecendo um olhar detalhado sobre o homem por trás do mito e suas contribuições inovadoras para o mundo do entretenimento. Recursos Adicionais Para aqueles inspirados pela tenacidade e criatividade de Walt Disney e interessados em se aprofundar mais em sua história e impacto, os seguintes recursos são recomendados: Documentários: “The Man Behind the Myth” (2001) e “Waking Sleeping Beauty” (2009) oferecem visões íntimas dos bastidores da Disney, explorando tanto a pessoa de Walt Disney quanto as histórias por trás da criação dos primeiros filmes de animação e do desenvolvimento dos parques temáticos. Exposições e Museus: O Walt Disney Family Museum, localizado em São Francisco, Califórnia, apresenta a história de vida de Disney, suas realizações e a evolução da empresa que ele fundou, através de artefatos pessoais, desenhos animados originais e outras memorabilias. Sites e Artigos: Site oficial da Walt Disney Company (thewaltdisneycompany.com) e diversas publicações sobre a indústria do entretenimento frequentemente publicam artigos sobre o legado de Disney e as inovações contínuas da empresa no campo da animação, cinema e parques temáticos. Frases Inspiradoras “Todos os nossos sonhos podem se tornar realidade, se tivermos a coragem de persegui-los.” “Faça o que você faz tão bem que eles vão querer ver de novo e trazer seus amigos.” Walt Disney transformou a indústria do entretenimento com sua imaginação sem limites, provando que é possível criar universos inteiros de alegria e maravilhamento a partir de sonhos e visões. Sua história é uma fonte de inspiração para criativos e empreendedores em todo o mundo, reforçando a crença no poder da criatividade e da inovação para mudar o mundo. “O jeito de começar é parar de falar e começar a fazer.” Reforçando a importância da ação, esta frase de Walt Disney motiva os empreendedores a dar o primeiro passo rumo à inovação e ao desenvolvimento de práticas empresariais que sejam não só economicamente viáveis, mas também social e ambientalmente responsáveis.
+
+#### Declaração Sintética | Oração de Impacto
+
+**Acreditamos que grandes realizações começam com a coragem de imaginar possibilidades e ganham vida quando criatividade, disciplina e capacidade de execução trabalham juntas. Inspirados pela trajetória de Walt Disney, queremos transformar sonhos em experiências, ideias em empreendimentos e inovação em valor percebido pelas pessoas. Na IMTS, buscamos construir soluções que unam excelência, simplicidade, emoção e tecnologia, reconhecendo que o verdadeiro poder de uma visão está na capacidade de torná-la realidade e gerar experiências memoráveis e duradouras.**
+
+#### Desenvolvimento Narrativo
+
+**A coragem de transformar imaginação em realidade**
+
+Acreditamos que grandes empreendimentos começam quando pessoas encontram coragem para imaginar possibilidades que ainda não fazem parte da realidade.
+
+A trajetória de Walt Disney representa uma referência importante dessa capacidade.
+
+Nascido em 1901, nos Estados Unidos, Disney desenvolveu desde cedo interesse pelo desenho e pela criação de histórias.
+
+Sua carreira demonstrou como criatividade e visão empresarial podem encontrar condições para transformar ideias em experiências relevantes para diferentes públicos.
+
+Na IMTS, queremos cultivar a capacidade de imaginar oportunidades sem perder de vista os caminhos necessários à sua realização.
+
+Reconhecemos que sonhar grande não significa apenas estabelecer objetivos ambiciosos.
+
+Significa desenvolver competências, mobilizar recursos e construir condições para transformar possibilidades em resultados.
+
+**O início de uma trajetória empreendedora**
+
+Em 1923, Walt Disney e seu irmão Roy iniciaram uma empresa de produção de animações que daria origem à organização conhecida mundialmente como Disney.
+
+Essa trajetória foi marcada por experimentações, dificuldades financeiras, mudanças de estratégia e desenvolvimento de novas capacidades.
+
+Acreditamos que esses acontecimentos demonstram como o empreendedorismo exige persistência e disposição para aprender.
+
+Uma ideia criativa precisa encontrar condições de produção, distribuição e sustentabilidade econômica.
+
+Na IMTS, queremos desenvolver empreendimentos capazes de combinar visão de futuro e disciplina de execução.
+
+Reconhecemos que oportunidades precisam ser acompanhadas de planejamento, competências e capacidade de enfrentar desafios.
+
+Nossa intenção é transformar criatividade em iniciativas que possam produzir valor de maneira consistente.
+
+**A inovação na maneira de contar histórias**
+
+A criação de Mickey Mouse e o desenvolvimento de produções como “Steamboat Willie” marcaram etapas importantes da história da animação.
+
+A integração entre imagens, som, personagens e narrativas contribuiu para desenvolver novas experiências de entretenimento.
+
+Acreditamos que essa trajetória oferece uma reflexão sobre a importância de combinar diferentes capacidades para produzir inovação.
+
+Uma experiência relevante frequentemente depende da integração entre tecnologia, criatividade e compreensão das expectativas das pessoas.
+
+Na IMTS, buscamos desenvolver soluções que considerem não apenas suas funcionalidades, mas também a maneira como são percebidas e utilizadas.
+
+Queremos que engenharia, design, comunicação e experiência humana encontrem oportunidades de colaboração.
+
+Reconhecemos que a inovação ganha força quando diferentes competências trabalham em direção a uma experiência coerente.
+
+**A excelência e a atenção aos detalhes**
+
+A produção de “Branca de Neve e os Sete Anões”, lançada em 1937, representou um marco importante na trajetória da Disney.
+
+O projeto exigiu investimentos, desenvolvimento técnico e capacidade de coordenação de equipes criativas.
+
+Acreditamos que essa experiência demonstra a importância de transformar ambição em processos capazes de sustentar sua realização.
+
+Grandes ideias exigem atenção aos detalhes, qualidade de execução e capacidade de superar desafios.
+
+Na IMTS, queremos desenvolver uma cultura de excelência orientada à entrega de resultados relevantes.
+
+Entretanto, reconhecemos que a busca pela qualidade precisa respeitar as pessoas e as condições de trabalho.
+
+Nossa intenção é combinar disciplina, criatividade e responsabilidade, construindo soluções cuja qualidade possa ser reconhecida por seus usuários.
+
+**A experiência como centro da criação de valor**
+
+A inauguração da Disneyland, em 1955, representou uma ampliação importante da visão empresarial de Walt Disney.
+
+O empreendimento integrou ambientes físicos, narrativas, serviços e entretenimento para construir uma experiência diferenciada.
+
+Acreditamos que essa abordagem oferece uma reflexão relevante sobre a criação de valor.
+
+Pessoas não se relacionam apenas com produtos ou funcionalidades.
+
+Elas também percebem a qualidade das experiências, a facilidade de utilização e a coerência entre diferentes pontos de contato.
+
+Na IMTS, queremos desenvolver soluções e relacionamentos capazes de considerar a jornada completa de nossos públicos.
+
+Reconhecemos que uma experiência positiva depende de diferentes componentes funcionando de maneira integrada.
+
+Nossa intenção é transformar tecnologia e conhecimento em experiências simples, relevantes e memoráveis.
+
+**A construção de um ecossistema de experiências**
+
+A trajetória empresarial da Disney demonstra como personagens, narrativas, filmes, produtos e experiências podem encontrar oportunidades de integração.
+
+Essa capacidade contribuiu para desenvolver uma marca reconhecida internacionalmente.
+
+Acreditamos que essa experiência oferece reflexões importantes para nosso modelo de ecossistema.
+
+Na IMTS, reunimos diferentes empresas, células tecnológicas e iniciativas que podem desenvolver capacidades complementares.
+
+Queremos que essa diversidade contribua para criar soluções integradas e fortalecer a identidade do conjunto.
+
+Entretanto, reconhecemos que a integração precisa preservar as particularidades e responsabilidades de cada operação.
+
+Nossa intenção é desenvolver um ecossistema no qual diferentes competências contribuam para ampliar possibilidades de realização.
+
+**A marca como expressão de uma promessa realizada**
+
+A Disney tornou-se uma referência de identidade de marca associada à imaginação e à experiência de entretenimento.
+
+Reconhecemos que marcas fortes não se constroem apenas por elementos visuais ou mensagens publicitárias.
+
+Elas também dependem da coerência entre aquilo que prometem e aquilo que entregam.
+
+Na IMTS, queremos desenvolver uma identidade institucional capaz de orientar nossas empresas, produtos e relacionamentos.
+
+Acreditamos que a confiança se fortalece quando experiências reais correspondem às expectativas construídas pela comunicação.
+
+Nossa intenção é preservar a coerência entre propósito, valores, posicionamento e comportamento.
+
+Queremos que nossa marca seja reconhecida pela qualidade de suas realizações e pela capacidade de produzir valor duradouro.
+
+**A importância de transformar visão em execução**
+
+Uma das ideias frequentemente associadas a Walt Disney destaca a importância de começar a agir.
+
+Acreditamos que essa reflexão possui relevância para organizações orientadas à inovação.
+
+Imaginar possibilidades é importante, mas não substitui a necessidade de desenvolver soluções, testar hipóteses e realizar entregas.
+
+Na IMTS, queremos cultivar uma cultura capaz de transformar planejamento em ação.
+
+Reconhecemos que decisões e projetos precisam encontrar caminhos proporcionais às capacidades e aos recursos disponíveis.
+
+Não desejamos que a busca por condições perfeitas impeça o desenvolvimento de iniciativas relevantes.
+
+Nossa intenção é combinar visão estratégica, experimentação e capacidade de execução, aprendendo com os resultados alcançados.
+
+**Criatividade, liderança e responsabilidade**
+
+A trajetória de Walt Disney também envolve desafios relacionados à gestão de equipes, às relações de trabalho e às decisões empresariais.
+
+Reconhecemos que referências empreendedoras precisam ser compreendidas de maneira crítica.
+
+Não buscamos reproduzir integralmente o estilo pessoal de liderança de Disney ou considerar suas práticas como modelos universais.
+
+Queremos aprender com sua capacidade de imaginar, desenvolver e integrar experiências, preservando nossos compromissos com integridade e respeito humano.
+
+Na IMTS, acreditamos que a criatividade se fortalece quando pessoas encontram condições adequadas para contribuir.
+
+A liderança deve mobilizar competências e orientar esforços sem comprometer a dignidade das pessoas.
+
+Nossa intenção é construir ambientes nos quais excelência e responsabilidade possam caminhar juntas.
+
+**O legado de Walt Disney para a IMTS**
+
+Não buscamos reproduzir o modelo de negócios da Disney ou transformar o entretenimento em referência obrigatória para nossas operações.
+
+Nossa intenção é compreender princípios que possam fortalecer nossa cultura e capacidade de realização.
+
+A coragem de sonhar grande.
+
+A disposição para transformar ideias em projetos concretos.
+
+A integração entre criatividade e tecnologia.
+
+A atenção à experiência das pessoas.
+
+A importância da excelência e dos detalhes.
+
+A construção de uma identidade de marca coerente.
+
+E a disciplina necessária para converter visão em resultados.
+
+Queremos que esses ensinamentos encontrem expressão na maneira como desenvolvemos nossos empreendimentos, construímos soluções e organizamos nossas competências.
+
+Acreditamos que inovação e criatividade precisam encontrar condições para produzir benefícios concretos.
+
+Que experiências relevantes dependem da integração entre diferentes capacidades.
+
+E que grandes realizações exigem coragem, disciplina e responsabilidade.
+
+É dessa maneira que Walt Disney integra nossas referências inspiradoras: como uma trajetória que nos convida a imaginar possibilidades, construir experiências relevantes e transformar sonhos em realizações capazes de gerar valor e impacto positivo.
