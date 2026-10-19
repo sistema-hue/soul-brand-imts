@@ -155,3 +155,23 @@ A inovação que desejávamos cultivar não precisava ser extraordinária em sua
 Assim, começamos a compreender o sucesso como algo que ultrapassava os indicadores tradicionais de desempenho. Queríamos construir negócios capazes de prosperar, mas também criar condições para que pessoas crescessem, ideias encontrassem oportunidades e realizações produzissem benefícios duradouros.
 
 Era essa combinação entre empreendedorismo, inovação, prosperidade e desenvolvimento humano que desejávamos transformar em uma característica permanente do Ecossistema IMTS.
+
+### 03.10 | Alinhando Propósito, Visão e Ação
+
+À medida que o Ecossistema IMTS ganhava forma, percebemos que seria necessário estabelecer uma ligação clara entre aquilo que acreditávamos, o futuro que desejávamos construir e as decisões que tomaríamos ao longo do caminho.
+
+Não bastava definir um propósito inspirador ou imaginar uma organização capaz de transformar realidades. Precisávamos encontrar maneiras de fazer com que essas convicções orientassem a construção dos negócios, a organização das equipes e as relações com as pessoas que participariam dessa jornada.
+
+Foi com essa preocupação que buscamos alinhar os diferentes elementos do ecossistema ao nosso Propósito, à Visão de Futuro e à Missão. Queríamos que essas definições não fossem apenas declarações institucionais, mas referências para compreender por que existimos, aonde desejamos chegar e quais responsabilidades precisamos assumir para realizar nossos objetivos.
+
+Também reconhecemos que nossos Princípios e Valores precisariam estar presentes nas escolhas cotidianas. Eles deveriam orientar a maneira como tratamos as pessoas, administramos recursos, estabelecemos parcerias e enfrentamos situações em que diferentes interesses precisam ser conciliados.
+
+Para nós, essa maneira de empreender ultrapassava os limites de uma estratégia empresarial. Representava uma filosofia de vida, na qual as convicções pessoais e os compromissos profissionais deveriam encontrar coerência.
+
+Sabíamos que manter esse alinhamento exigiria atenção permanente. O crescimento de uma organização traz novas oportunidades, mas também desafios, pressões e decisões que podem colocar seus valores à prova.
+
+Por isso, queríamos desenvolver uma cultura na qual fosse possível questionar escolhas, reconhecer incoerências e corrigir caminhos sempre que nossas atitudes se afastassem daquilo que declaramos acreditar.
+
+Nosso compromisso era construir um ecossistema capaz de perseguir seus objetivos corporativos sem perder de vista as pessoas, as empresas e as comunidades com as quais se relaciona.
+
+Acreditávamos que essa coerência seria fundamental para produzir impacto positivo de maneira consistente. Afinal, o valor de nossos princípios não estaria apenas na forma como os escrevemos, mas na capacidade de transformá-los em decisões, comportamentos e realizações concretas.
