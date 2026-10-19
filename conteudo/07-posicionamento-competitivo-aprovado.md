@@ -1452,3 +1452,53 @@ Nossa intenção é desenvolver uma base de clientes e parceiros que reconheçam
 Queremos que nossa marca seja lembrada não apenas pelas tecnologias que oferece, mas pela qualidade dos relacionamentos que constrói e pelo valor que efetivamente entrega.
 
 É dessa maneira que compreendemos nosso Perfil Ideal de Cliente: pessoas e organizações que encontram em nossa proposta de valor oportunidades reais de desenvolvimento e compartilham a disposição para transformar inovação em resultados relevantes, sustentáveis e positivos para a sociedade.
+
+### 07.12 | Encerramento de Posicionamento Competitivo
+
+#### Referência original
+
+> “O posicionamento da nossa marca é a assinatura indelével no mundo dos negócios, uma declaração de intenções gravada não apenas em nossos produtos, mas na mente de cada cliente, simbolizando uma aliança inabalável com inovação tecnológica, integridade e impacto social.”
+
+#### Declaração Sintética | Oração de Impacto
+
+**Nossa posição no mercado será construída pela coerência entre o que acreditamos, as capacidades que desenvolvemos e o valor que entregamos. Na IMTS, queremos transformar inovação em realizações, colaboração em força competitiva e prosperidade em oportunidades de impacto positivo. Não buscamos apenas ocupar mercados, mas conquistar confiança, construir relações duradouras e deixar um legado de desenvolvimento sustentável.**
+
+#### Desenvolvimento Narrativo
+
+Acreditamos que o posicionamento competitivo de uma organização representa muito mais do que sua presença em determinados mercados ou a maneira como apresenta seus produtos e serviços.
+
+Ele expressa sua identidade, suas escolhas estratégicas, suas capacidades e o valor que consegue produzir para aqueles com quem se relaciona.
+
+Na IMTS, desejamos construir uma posição competitiva fundamentada na integração entre inovação tecnológica, empreendedorismo, sustentabilidade e compromisso com impacto positivo.
+
+Nossa natureza como ecossistema empresarial nos permite imaginar possibilidades que ultrapassam os limites de uma única empresa, competência ou mercado.
+
+Queremos reunir operações, células especializadas, conhecimentos e relacionamentos capazes de contribuir para a construção de soluções e empreendimentos relevantes.
+
+Reconhecemos que a diversidade de nossa estrutura representa uma oportunidade, mas também exige coordenação, clareza de responsabilidades e compromisso com resultados.
+
+Por isso, buscamos organizar nossa atuação por segmentos, verticais, regionais e setores, aproximando nossas capacidades das necessidades concretas de diferentes públicos.
+
+Acreditamos que compreender os mercados é tão importante quanto dominar as tecnologias que desejamos aplicar.
+
+Queremos desenvolver relacionamentos com clientes, empreendedores, investidores e parceiros que encontrem em nossa proposta de valor oportunidades reais de desenvolvimento.
+
+Nossa intenção é construir vantagens competitivas legítimas, sustentadas pela excelência, pela integridade e pela capacidade de transformar compromissos em realizações.
+
+Reconhecemos que nenhuma posição de mercado está garantida permanentemente.
+
+Precisamos aprender, evoluir, compreender transformações e adaptar nossas capacidades às novas necessidades que surgirem.
+
+Entretanto, desejamos que essa evolução preserve os princípios fundamentais de nossa identidade.
+
+Não queremos crescer abandonando nossos valores, nem conquistar resultados por meios incompatíveis com aquilo em que acreditamos.
+
+Nossa ambição é construir um ecossistema reconhecido pela capacidade de conectar pessoas, empresas, tecnologias e oportunidades para gerar valor duradouro.
+
+Queremos que nossa marca represente confiança, competência, inovação e responsabilidade.
+
+Mais do que ocupar uma posição no mercado, desejamos construir uma presença relevante na vida das pessoas e das organizações com as quais nos relacionamos.
+
+Porque o verdadeiro valor de nosso posicionamento não estará apenas naquilo que declaramos ser, mas naquilo que nossas realizações demonstrarem ao longo do tempo.
+
+É dessa maneira que desejamos consolidar a IMTS: como um ecossistema empresarial capaz de transformar sua identidade em diferencial competitivo, suas capacidades em oportunidades e seu propósito em um legado de prosperidade sustentável e impacto positivo.
