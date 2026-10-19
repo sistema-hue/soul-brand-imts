@@ -475,6 +475,8 @@ O legado que desejamos construir nasce dessa combinação. Queremos que nossas e
 
 ### 05.2 | Visão de Futuro
 
+**Construir um ecossistema empresarial exponencial, humano e sustentável, onde pessoas e negócios prosperem juntos, transformando sonhos em realizações e deixando um legado de impacto positivo para as próximas gerações.**
+
 Imaginamos um futuro em que o Ecossistema IMTS seja reconhecido não apenas pelas empresas que reúne ou pelas tecnologias que desenvolve, mas principalmente pelas oportunidades que cria e pelos benefícios que consegue produzir para as pessoas.
 
 Queremos construir um ambiente no qual nossa Essência esteja presente em tudo o que fazemos. Sonhar com Ousadia, Conectar com Propósito, Realizar com Excelência e Compartilhar com Generosidade devem orientar a maneira como desenvolvemos negócios, cultivamos relações e assumimos responsabilidades.
@@ -514,3 +516,109 @@ Queremos que nossas realizações contribuam para melhorar a vida das pessoas, f
 Sabemos que essa visão exige trabalho contínuo. Não será construída apenas por meio de declarações inspiradoras, mas pelas decisões que tomarmos, pelas relações que cultivarmos e pelos resultados que conseguirmos entregar.
 
 O futuro que desejamos construir é o de um ecossistema empresarial próspero, humano e sustentável, capaz de transformar oportunidades em realizações e deixar um legado duradouro de desenvolvimento, colaboração e impacto positivo para as próximas gerações.
+
+### 05.3 | Princípios
+
+#### Propósito Centrado nas Pessoas
+
+**As pessoas são a razão de tudo o que construímos, e sua prosperidade é a medida mais significativa do nosso sucesso.**
+
+Acreditamos que as pessoas são a razão mais importante daquilo que construímos. São elas que imaginam possibilidades, desenvolvem ideias, assumem responsabilidades e transformam conhecimentos em realizações.
+
+Por isso, buscamos orientar nossas decisões para gerar prosperidade, preservar a integridade e criar oportunidades que contribuam para o desenvolvimento humano.
+
+Queremos trabalhar com pessoas que encontrem sentido naquilo que fazem, reconheçam o valor de seus próprios sonhos e compreendam a importância de contribuir para os objetivos de outras pessoas.
+
+Sabemos que a paixão pelo trabalho e o compromisso com o próximo podem fortalecer a dedicação e a busca pela excelência. Mas também reconhecemos que resultados consistentes exigem preparo, disciplina e responsabilidade.
+
+Nosso compromisso é cultivar um ambiente no qual o crescimento dos negócios esteja associado ao desenvolvimento das pessoas e no qual a prosperidade seja construída com respeito, integridade e propósito.
+
+#### Visão Transformadora
+
+**Enxergamos possibilidades além do presente e assumimos o compromisso de transformá-las em realidades que façam diferença.**
+
+Valorizamos a capacidade de imaginar um futuro diferente e reconhecer oportunidades que ainda não estão evidentes.
+
+Acreditamos que uma visão clara ajuda a orientar decisões, mobilizar pessoas e estabelecer objetivos que deem sentido ao trabalho cotidiano.
+
+Queremos que essa visão seja acompanhada de transparência e responsabilidade. Sonhar com grandes transformações não significa ignorar os desafios, mas compreender o que precisa ser feito para transformar possibilidades em realizações.
+
+Buscamos pessoas que compartilhem nossa disposição para construir um futuro melhor e que estejam comprometidas em contribuir para que essa visão se torne realidade.
+
+Para nós, uma visão transformadora precisa ser demonstrada pela coerência entre aquilo que imaginamos, as escolhas que fazemos e os resultados que conseguimos produzir.
+
+#### Protagonismo Ativo
+
+**Assumimos a responsabilidade pelas nossas escolhas e a coragem de agir para transformar aquilo em que acreditamos.**
+
+Acreditamos que cada pessoa precisa reconhecer sua capacidade de influenciar a própria trajetória e contribuir para transformar a realidade ao seu redor.
+
+Ser protagonista significa assumir responsabilidades, tomar decisões conscientes e agir com coragem diante dos desafios.
+
+Valorizamos a ousadia, a resiliência e a disposição para enfrentar riscos calculados. Sabemos que nem todas as iniciativas produzirão os resultados esperados, mas acreditamos que os erros podem oferecer aprendizados importantes quando são reconhecidos e tratados com maturidade.
+
+Queremos cultivar uma cultura na qual as pessoas tenham autonomia para contribuir, mas também compreendam as consequências de suas escolhas.
+
+A autorresponsabilidade é fundamental nessa construção. Cada participante precisa reconhecer seus compromissos e assumir uma postura ativa na busca por soluções, contribuindo para o desenvolvimento do ecossistema e para uma sociedade mais justa.
+
+#### Proatividade Visionária
+
+**Antecipamos oportunidades, enfrentamos desafios e preferimos a iniciativa responsável à espera por condições perfeitas.**
+
+Valorizamos pessoas que não esperam que todas as condições estejam perfeitas para começar a agir.
+
+Acreditamos que a proatividade nasce da capacidade de perceber necessidades, identificar oportunidades e assumir iniciativas que possam contribuir para resultados relevantes.
+
+Queremos estimular uma atitude positiva e construtiva diante dos desafios, sem ignorar os riscos ou as dificuldades que precisam ser enfrentadas.
+
+Para nós, agir com responsabilidade é melhor do que permanecer indefinidamente na inação por receio de cometer erros. Isso não significa agir por impulso, mas compreender que aprender, experimentar e corrigir caminhos faz parte da construção de soluções.
+
+Buscamos pessoas que consigam transformar sua visão em atitudes concretas, contribuindo diariamente para o desenvolvimento dos projetos e para a realização dos objetivos que compartilhamos.
+
+#### Cultura da Gratidão
+
+**Reconhecemos o valor das pessoas, das oportunidades e dos aprendizados que tornam nossa jornada possível.**
+
+A gratidão faz parte da maneira como desejamos viver e construir nossas relações.
+
+Acreditamos que reconhecer as pessoas, as oportunidades e os aprendizados que recebemos nos ajuda a compreender melhor nossa própria trajetória.
+
+Queremos cultivar uma cultura na qual as conquistas sejam celebradas com humildade e na qual o esforço, a dedicação e as contribuições individuais e coletivas sejam valorizados.
+
+Ser grato não significa ignorar dificuldades ou deixar de reconhecer situações que precisam melhorar. Significa preservar a capacidade de aprender com as experiências e valorizar aquilo que outras pessoas acrescentam à nossa caminhada.
+
+Acreditamos que a gratidão pode fortalecer a integridade, a coerência e a maturidade das relações, aproximando pessoas e contribuindo para um ecossistema mais colaborativo, eficiente e sustentável.
+
+#### Cultivo da Felicidade
+
+**Cultivamos um ambiente onde prosperar também significa viver com propósito, equilíbrio, alegria e realização.**
+
+Queremos que a felicidade faça parte das aspirações das pessoas que constroem o Ecossistema IMTS.
+
+Acreditamos que uma vida próspera precisa considerar mais do que resultados financeiros ou conquistas profissionais. Também envolve saúde, relacionamentos, bem-estar, realização pessoal e a possibilidade de encontrar sentido naquilo que fazemos.
+
+Por isso, desejamos cultivar um ambiente positivo, inspirador e motivador, no qual as pessoas encontrem respeito, oportunidades de desenvolvimento e condições para contribuir com suas capacidades.
+
+Sabemos que a felicidade é uma experiência pessoal e que nenhuma organização pode garanti-la. Mas acreditamos que podemos construir relações e condições de trabalho que favoreçam o bem-estar e a realização humana.
+
+Pessoas que encontram propósito em suas atividades e cultivam relações saudáveis podem desenvolver maior disposição para aprender, colaborar e perseguir objetivos ambiciosos.
+
+Nossa intenção é que a busca pela excelência e pela prosperidade caminhe ao lado de uma vida equilibrada e significativa.
+
+#### Compromisso com a Excelência
+
+**Fazemos o melhor possível com os recursos que temos, aprimorando continuamente nossas capacidades e realizações.**
+
+A excelência representa nosso compromisso de fazer o melhor possível com os recursos que temos.
+
+Acreditamos que alcançar resultados relevantes exige clareza sobre os objetivos, preparação, disciplina e responsabilidade na execução.
+
+Queremos que a integridade e a coerência estejam presentes em todas as etapas do trabalho, desde as decisões iniciais até a entrega dos resultados.
+
+Sabemos que sempre haverá oportunidades de melhorar. Por isso, valorizamos o aprendizado contínuo, a revisão de processos e a disposição para aperfeiçoar conhecimentos e capacidades.
+
+Buscar a excelência não significa exigir perfeição absoluta ou ignorar os limites humanos. Significa assumir compromissos com seriedade, reconhecer erros e trabalhar para que nossas realizações sejam cada vez mais consistentes.
+
+Desejamos reunir pessoas que compartilhem essa disposição para evoluir e que compreendam a excelência como uma prática cotidiana, capaz de contribuir para o desenvolvimento individual, coletivo e empresarial.
+
+É dessa maneira que buscamos alcançar nosso máximo potencial e transformar nossas capacidades em resultados que realmente importam.
