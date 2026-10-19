@@ -22,7 +22,7 @@
 
 - Prefácio: aprovado, 13 parágrafos e mensagem final.
 - Alvo e Impacto: aprovado, 2 tópicos e 6 parágrafos.
-- Origem e Trajetória: tópicos 03.1 a 03.8 aprovados; 03.9 a 03.16 pendentes.
+- Origem e Trajetória: tópicos 03.1 a 03.9 aprovados; 03.10 a 03.16 pendentes.
 - Demais seções: pendentes de humanização e aceite.
 
 ## Fontes editoriais de referência
@@ -224,3 +224,25 @@ Juntos, podemos reunir mais conhecimentos, enfrentar desafios com maior resiliê
 Queremos que essa compreensão esteja presente na maneira como conduzimos nossos empreendimentos e cultivamos nossas relações. Que a colaboração não seja apenas uma intenção, mas uma prática capaz de gerar resultados concretos e contribuir para uma sociedade mais justa e equilibrada.
 
 Para nós, a força do Ecossistema IMTS não está apenas naquilo que cada participante é capaz de realizar individualmente, mas também no que conseguimos construir quando escolhemos caminhar juntos.
+
+### 03.9 | Inovação e Empreendedorismo com Propósito
+
+À medida que o Ecossistema IMTS amadurecia, compreendemos que construir empresas e alcançar resultados financeiros não seria suficiente para realizar tudo aquilo que desejávamos.
+
+Queríamos que nossos empreendimentos fossem economicamente viáveis e prosperassem. Afinal, sem resultados consistentes, dificilmente conseguiríamos sustentar projetos, gerar oportunidades e ampliar nossa capacidade de realização. Mas também acreditávamos que o sucesso precisava ser compreendido de maneira mais ampla.
+
+Para nós, empreender deveria representar uma oportunidade de desenvolver pessoas, transformar conhecimentos em soluções e contribuir para melhorar a realidade das comunidades em que atuamos.
+
+Foi com essa compreensão que a inovação e o empreendedorismo com propósito passaram a ocupar um lugar importante na concepção do ecossistema. Queríamos construir um ambiente no qual ideias pudessem ser compartilhadas, projetos encontrassem apoio para se desenvolver e pessoas tivessem condições de transformar suas aspirações em realizações concretas.
+
+Sabíamos que nem toda ideia se tornaria um negócio e que nem todo projeto alcançaria os resultados inicialmente imaginados. Ainda assim, acreditávamos no valor de oferecer oportunidades para experimentar, aprender, aprimorar propostas e descobrir novos caminhos.
+
+Nosso compromisso era ir além do crescimento empresarial, do cumprimento de metas e da geração de lucros. Queríamos que esses resultados também contribuíssem para o desenvolvimento humano, fortalecendo capacidades, ampliando oportunidades e valorizando as pessoas que participavam dessa construção.
+
+Isso não significava colocar os resultados econômicos em segundo plano, mas compreender que prosperidade empresarial e desenvolvimento humano poderiam se fortalecer mutuamente quando orientados por escolhas responsáveis.
+
+A inovação que desejávamos cultivar não precisava ser extraordinária em sua aparência. Precisava ser relevante para quem enfrentava o problema que buscávamos resolver. Às vezes, uma melhoria simples, bem concebida e executada, poderia produzir benefícios mais significativos do que uma tecnologia sofisticada sem aplicação real.
+
+Assim, começamos a compreender o sucesso como algo que ultrapassava os indicadores tradicionais de desempenho. Queríamos construir negócios capazes de prosperar, mas também criar condições para que pessoas crescessem, ideias encontrassem oportunidades e realizações produzissem benefícios duradouros.
+
+Era essa combinação entre empreendedorismo, inovação, prosperidade e desenvolvimento humano que desejávamos transformar em uma característica permanente do Ecossistema IMTS.
