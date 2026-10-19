@@ -3058,3 +3058,163 @@ Queremos que esses princípios encontrem expressão na maneira como conduzimos n
 Acreditamos que resultados duradouros dependem não apenas de competência técnica e capacidade empresarial, mas também de confiança, integridade e compromisso com as pessoas.
 
 É dessa maneira que Nelson Mandela integra nossas referências inspiradoras: como uma trajetória que nos convida a exercer liderança com coragem, preservar nossos princípios e contribuir para a construção de relações mais justas, responsáveis e humanas.
+
+### 08.3 | Malala Yousafzai
+
+#### Texto original integral
+
+(A Voz da Educação) A história de Malala Yousafzai é uma poderosa narrativa de coragem, resiliência e a incansável luta pela educação das meninas. • Perfil: Ativista paquistanesa pelos direitos à educação das mulheres e a mais jovem laureada com o Nobel da Paz. • Síntese: Sobreviveu a um atentado do Talibã aos 15 anos por sua defesa da educação feminina e se tornou uma voz global para o direito à educação das meninas. • Realizações: Fundou o Fundo Malala, promovendo a educação para meninas em todo o mundo, e continua a advogar globalmente pela paz e pelos direitos das mulheres.
+
+História Nascida em 1997 no Vale do Swat, no Paquistão, Malala cresceu em uma região progressivamente tomada pelo Talibã, que buscava proibir a educação feminina. Inspirada por seu pai, um educador e ativista, Malala começou a falar publicamente em favor do direito das meninas à educação desde muito jovem. Em 2012, aos 15 anos, ela foi baleada na cabeça por um atirador do Talibã enquanto voltava da escola. Milagrosamente, ela sobreviveu ao atentado e sua história ganhou atenção internacional. A tentativa de assassinato não deteve Malala; pelo contrário, amplificou sua voz. Ela continuou sua campanha pela educação feminina globalmente, tornando-se a pessoa mais jovem a receber o Prêmio Nobel da Paz em 2014. Malala fundou o Fundo Malala, dedicado a garantir 12 anos de educação gratuita, segura e de qualidade para todas as meninas.
+
+Para explorar mais Filme/Série/Documentário: “He Named Me Malala” (2015) - Um documentário que oferece um olhar intimista sobre a vida de Malala Yousafzai, desde seus dias no Paquistão até seu trabalho como ativista pela educação feminina após sobreviver a um atentado do Talibã.
+
+Livro: “Eu Sou Malala: A
+
+História da Garota que Defendeu o Direito à Educação e foi Baleada pelo Talibã” por Malala Yousafzai e Christina Lamb (2013) - A autobiografia de Malala conta sua determinação em lutar pelo direito à educação, sua vida no Paquistão e como ela se tornou um símbolo global de resistência pacífica. Recursos Adicionais Para aqueles inspirados pela determinação e conquistas de Malala Yousafzai e desejando se aprofundar em sua história, os seguintes recursos são recomendados: Palestras e Discursos: As aparições de Malala na ONU e em outras plataformas internacionais são poderosos testemunhos de sua missão e mensagem. Livros: Além de sua autobiografia, “Malala’s Magic Pencil” é um livro infantil escrito por Malala que inspira crianças a sonhar grande e fazer a diferença no mundo. Sites e Artigos: O site oficial do Fundo Malala (malala.org) é uma fonte primária para entender os esforços e projetos em andamento para promover a educação feminina em todo o mundo. Frases Inspiradoras “Eu não quero ser lembrada como a garota que foi baleada pelo Talibã, mas como a garota que lutou pela educação.” “Com armas, você pode matar terroristas. Com educação, você pode matar o terrorismo.” A história de Malala Yousafzai é um lembrete poderoso do impacto que um indivíduo pode ter na luta por direitos e igualdade. Sua jornada é uma inspiração para jovens e adultos, mostrando que a paixão pela mudança, combinada com coragem, pode enfrentar as adversidades mais assustadoras e inspirar mudanças globais. “Um livro, uma caneta, uma criança e um professor podem mudar o mundo.” Malala Yousafzai nos lembra que o empreendedorismo começa com a educação e o conhecimento, onde a inovação tecnológica e a sustentabilidade social e ambiental podem florescer a partir das ideias simples, mas poderosas, de uma mente iluminada.
+
+#### Declaração Sintética | Oração de Impacto
+
+**Acreditamos que o conhecimento transforma vidas, amplia liberdades e abre caminhos onde antes existiam barreiras. Inspirados pela coragem de Malala Yousafzai, queremos defender a aprendizagem como uma força de desenvolvimento humano e reconhecer que nenhuma transformação verdadeiramente positiva pode ignorar a dignidade e as oportunidades das pessoas. Na IMTS, desejamos conectar educação, tecnologia e inovação para ampliar capacidades, fortalecer a autonomia e contribuir para um futuro no qual mais pessoas possam realizar seu potencial.**
+
+#### Desenvolvimento Narrativo
+
+**A coragem de defender o direito de aprender**
+
+Acreditamos que a educação representa uma das forças mais importantes para o desenvolvimento humano e para a construção de sociedades capazes de ampliar oportunidades.
+
+A trajetória de Malala Yousafzai demonstra como a defesa desse direito pode exigir coragem diante de circunstâncias profundamente adversas.
+
+Nascida no Paquistão, em 1997, Malala cresceu em um ambiente no qual o acesso das meninas à educação passou a ser ameaçado pela atuação do Talibã.
+
+Ainda muito jovem, começou a defender publicamente o direito de estudar, inspirada também pela atuação de seu pai como educador.
+
+Sua história nos lembra que a educação não deve ser compreendida apenas como preparação para o exercício de uma profissão.
+
+Ela representa uma condição fundamental para desenvolver autonomia, ampliar possibilidades de escolha e fortalecer a participação das pessoas na sociedade.
+
+Na IMTS, queremos reconhecer esse valor como parte de nossa compreensão sobre desenvolvimento e impacto positivo.
+
+**Uma voz que não se deixou silenciar**
+
+Em 2012, Malala sofreu um atentado enquanto retornava da escola.
+
+A violência dirigida contra uma adolescente que defendia o direito à educação revelou a gravidade das ameaças enfrentadas por meninas e mulheres em determinados contextos.
+
+Sua sobrevivência e a continuidade de sua atuação contribuíram para ampliar a atenção internacional sobre a importância do acesso à educação.
+
+Reconhecemos que essa experiência não deve ser reduzida a uma narrativa simplificada de superação individual.
+
+Ela está relacionada a conflitos históricos, desigualdades e violações de direitos que atingem muitas pessoas.
+
+O que nos inspira em sua trajetória é a firmeza com que continuou defendendo uma causa que considerava essencial.
+
+Acreditamos que a coragem também se manifesta na capacidade de preservar princípios e utilizar a própria voz para contribuir com transformações necessárias.
+
+**Da experiência individual a uma causa global**
+
+A atuação de Malala ultrapassou as fronteiras de seu país.
+
+Sua defesa da educação das meninas ganhou reconhecimento internacional, culminando na concessão do Prêmio Nobel da Paz em 2014.
+
+Esse reconhecimento destacou uma causa que permanece relevante em diferentes regiões do mundo.
+
+Acreditamos que sua trajetória demonstra como uma experiência individual pode contribuir para mobilizar pessoas, organizações e instituições em torno de um objetivo compartilhado.
+
+Entretanto, reconhecemos que transformações dessa natureza não são realizadas por uma única pessoa.
+
+Elas dependem da participação de comunidades, educadores, famílias, organizações e instituições comprometidas com a defesa de direitos.
+
+Na IMTS, queremos compreender a importância dessa construção coletiva.
+
+Acreditamos que iniciativas relevantes ganham força quando conseguem reunir capacidades complementares e desenvolver relações orientadas por um propósito comum.
+
+**O Fundo Malala e a transformação do propósito em ação**
+
+A criação do Fundo Malala representa uma dimensão importante de sua trajetória.
+
+Por meio dessa iniciativa, Malala contribui para fortalecer a defesa do acesso das meninas à educação, com atenção à qualidade, à segurança e à continuidade da aprendizagem.
+
+Reconhecemos que transformar uma convicção em uma iniciativa estruturada exige organização, mobilização de recursos, desenvolvimento de relacionamentos e capacidade de realização.
+
+Acreditamos que essa experiência oferece uma reflexão relevante sobre a importância de conectar propósito e execução.
+
+Boas intenções, isoladamente, não são suficientes para produzir transformações duradouras.
+
+É necessário desenvolver iniciativas capazes de mobilizar competências, enfrentar obstáculos e produzir resultados concretos.
+
+Na IMTS, queremos cultivar essa compreensão, reconhecendo que nosso compromisso com impacto positivo precisa encontrar expressão em ações e realizações observáveis.
+
+**Educação, conhecimento e autonomia**
+
+Acreditamos que o acesso ao conhecimento amplia a capacidade das pessoas de compreender o mundo, desenvolver competências e participar de decisões que influenciam suas vidas.
+
+A educação também contribui para fortalecer a criatividade, o pensamento crítico e a disposição para aprender continuamente.
+
+Reconhecemos que essas capacidades possuem importância crescente em uma sociedade marcada por transformações tecnológicas.
+
+Na IMTS, queremos desenvolver soluções e iniciativas que contribuam para ampliar oportunidades de aprendizagem e desenvolvimento.
+
+Entretanto, compreendemos que a tecnologia não substitui automaticamente a educação de qualidade, o papel dos educadores ou a importância das relações humanas.
+
+Ela pode constituir um instrumento de apoio quando aplicada de maneira adequada às necessidades das pessoas e das instituições.
+
+Nossa intenção é aproximar inovação tecnológica e desenvolvimento humano, respeitando os contextos nos quais essas soluções serão utilizadas.
+
+**A responsabilidade de ampliar oportunidades**
+
+A história de Malala nos convida a refletir sobre as desigualdades que limitam as possibilidades de desenvolvimento de diferentes pessoas.
+
+Reconhecemos que talento, dedicação e capacidade não são distribuídos de acordo com as oportunidades disponíveis.
+
+Muitas pessoas enfrentam barreiras econômicas, sociais, culturais ou institucionais que dificultam o acesso à educação e ao desenvolvimento.
+
+Acreditamos que organizações comprometidas com impacto positivo precisam compreender essas realidades e reconhecer suas responsabilidades.
+
+Na IMTS, não pretendemos afirmar que nossas atividades empresariais são suficientes para resolver problemas estruturais dessa dimensão.
+
+Entretanto, queremos identificar oportunidades nas quais nossas competências possam contribuir para ampliar acesso, melhorar experiências e fortalecer capacidades.
+
+Desejamos que nossas iniciativas considerem não apenas a eficiência tecnológica, mas também a relevância humana e social das soluções desenvolvidas.
+
+**Aprendizagem contínua como parte de nossa cultura**
+
+A trajetória de Malala reforça nossa convicção de que aprender é uma atividade essencial ao longo de toda a vida.
+
+Na IMTS, queremos construir uma cultura organizacional que valorize o conhecimento, a curiosidade e a disposição para evoluir.
+
+Reconhecemos que tecnologias, mercados e modelos de negócio se transformam continuamente.
+
+Por isso, precisamos desenvolver capacidades de aprendizagem que permitam compreender novas realidades, questionar práticas estabelecidas e encontrar maneiras melhores de realizar nossas atividades.
+
+Queremos que o compartilhamento de conhecimentos fortaleça a colaboração entre pessoas, células e operações.
+
+Acreditamos que uma organização capaz de aprender continuamente encontra melhores condições para inovar e se adaptar às transformações.
+
+Entretanto, essa aprendizagem precisa permanecer conectada ao respeito às pessoas e ao compromisso com resultados relevantes.
+
+**O legado de Malala Yousafzai para a IMTS**
+
+Não buscamos comparar a atividade empresarial da IMTS à luta de Malala pela educação das meninas.
+
+Reconhecemos que sua trajetória está associada à defesa de direitos fundamentais e a circunstâncias históricas que precisam ser respeitadas em sua própria dimensão.
+
+Nossa intenção é compreender os ensinamentos que sua experiência pode oferecer à nossa cultura.
+
+A coragem para defender princípios.
+
+A convicção de que o conhecimento amplia oportunidades.
+
+A capacidade de transformar uma causa em iniciativas concretas.
+
+A importância de mobilizar pessoas em torno de um propósito.
+
+O compromisso com a dignidade humana.
+
+E a compreensão de que a inovação somente encontra seu valor mais profundo quando contribui para melhorar a realidade das pessoas.
+
+Queremos que esses princípios estejam presentes na maneira como desenvolvemos nossas competências, conduzimos nossos empreendimentos e construímos relacionamentos.
+
+Acreditamos que tecnologia e conhecimento podem contribuir para ampliar possibilidades, mas precisam ser orientados por responsabilidade e sensibilidade humana.
+
+É dessa maneira que Malala Yousafzai integra nossas referências inspiradoras: como uma trajetória que nos lembra que a coragem, a educação e a determinação podem abrir caminhos para transformações positivas e duradouras.
