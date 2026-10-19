@@ -1474,3 +1474,122 @@ Queremos que nossas células contribuam para acelerar a inovação sem compromet
 Nossa ambição é construir uma estrutura na qual conhecimentos especializados se transformem em capacidades compartilhadas e essas capacidades encontrem oportunidades concretas de realização.
 
 É dessa maneira que desejamos transformar nossas células em ativos estratégicos do ecossistema: conectando inteligência, tecnologias e pessoas para desenvolver soluções relevantes, fortalecer empreendimentos e ampliar nossa capacidade de gerar impacto positivo.
+
+### 07.3 | Segmentação
+
+#### Texto original integral
+
+Possuímos uma atuação segmentada nos mercados Corporativo, Smb, Digital e Associativo.
+
+B2G Corp
+B2G SMB
+B2B Corp
+B2B SMB
+B2C Digital
+B2C Associativo
+
+#### Declaração Sintética | Oração de Impacto
+
+**Reconhecemos que cada mercado possui necessidades, desafios e oportunidades próprias. Na IMTS, nossa segmentação transforma essa diversidade em inteligência estratégica, permitindo conectar competências e soluções aos públicos que realmente podem se beneficiar delas. Atuamos com foco, proximidade e responsabilidade, construindo relacionamentos relevantes e propostas de valor adequadas a cada realidade.**
+
+#### Desenvolvimento Narrativo
+
+Acreditamos que compreender os mercados é uma condição fundamental para desenvolver negócios relevantes e construir relacionamentos duradouros.
+
+Empresas, governos, consumidores e organizações associativas possuem características, necessidades e formas de decisão distintas.
+
+Por isso, não desejamos conduzir nossa atuação comercial e institucional por meio de abordagens indiferenciadas.
+
+Buscamos compreender as particularidades de cada público, reconhecer seus desafios e desenvolver propostas de valor coerentes com suas necessidades.
+
+Nossa segmentação constitui uma referência para organizar oportunidades, orientar estratégias comerciais e mobilizar as competências do ecossistema.
+
+Ela contempla quatro grandes ambientes de mercado: Corporativo, SMB, Digital e Associativo, distribuídos em seis segmentos de atuação.
+
+**B2G Corp | Governo e grandes estruturas públicas**
+
+Reconhecemos que organizações governamentais de grande porte enfrentam desafios relacionados à escala de suas operações, à complexidade institucional e à responsabilidade pela prestação de serviços à sociedade.
+
+Queremos desenvolver capacidade para compreender essas realidades e contribuir com soluções tecnológicas adequadas às suas necessidades.
+
+Nossa atuação deve considerar os processos de contratação pública, os requisitos de transparência, a continuidade dos serviços e a responsabilidade na utilização dos recursos públicos.
+
+Acreditamos que a inovação aplicada ao setor governamental pode contribuir para melhorar a eficiência administrativa, fortalecer capacidades institucionais e ampliar a qualidade dos serviços oferecidos aos cidadãos.
+
+**B2G SMB | Governo e estruturas públicas de menor porte**
+
+Compreendemos que órgãos e entidades públicas de menor porte também enfrentam desafios relevantes, frequentemente associados a limitações de recursos, infraestrutura e competências especializadas.
+
+Queremos desenvolver abordagens proporcionais às suas capacidades e necessidades.
+
+Acreditamos que soluções acessíveis, escaláveis e adequadamente estruturadas podem contribuir para ampliar a capacidade de atuação dessas organizações.
+
+Nossa intenção é aproximar tecnologias e conhecimentos das realidades locais, respeitando os requisitos institucionais e as particularidades de cada administração.
+
+**B2B Corp | Grandes empresas e organizações corporativas**
+
+Grandes empresas operam em ambientes nos quais eficiência, inovação, segurança, integração e capacidade de adaptação possuem importância estratégica.
+
+Reconhecemos que essas organizações frequentemente precisam coordenar estruturas complexas, diferentes unidades de negócio e processos de elevada criticidade.
+
+Buscamos compreender seus desafios e desenvolver relacionamentos capazes de conectar nossas competências às suas prioridades.
+
+Queremos contribuir para iniciativas de transformação digital, melhoria operacional, inteligência de negócios e desenvolvimento de novas capacidades tecnológicas.
+
+Acreditamos que relações empresariais consistentes precisam ser construídas sobre confiança, competência, clareza de compromissos e geração de valor mensurável.
+
+**B2B SMB | Pequenas e médias empresas**
+
+Reconhecemos a importância das pequenas e médias empresas para o desenvolvimento econômico, a geração de oportunidades e a inovação.
+
+Esses empreendimentos enfrentam desafios próprios, muitas vezes relacionados à disponibilidade de recursos, à profissionalização da gestão e ao acesso a tecnologias.
+
+Queremos desenvolver propostas que considerem suas condições reais de investimento, implantação e operação.
+
+Acreditamos que soluções adequadas podem contribuir para melhorar processos, ampliar produtividade, fortalecer relacionamentos comerciais e criar condições para o crescimento sustentável.
+
+Nossa intenção é aproximar capacidades tecnológicas de empresas que desejam evoluir, sem impor complexidades incompatíveis com suas necessidades.
+
+**B2C Digital | Consumidores e experiências digitais**
+
+O ambiente digital ampliou as possibilidades de relacionamento entre empresas e consumidores.
+
+Reconhecemos que as pessoas valorizam experiências acessíveis, confiáveis, intuitivas e capazes de atender às suas necessidades.
+
+Buscamos compreender comportamentos, expectativas e oportunidades para desenvolver produtos e serviços digitais relevantes.
+
+Queremos que nossas iniciativas combinem qualidade tecnológica, facilidade de utilização, segurança e respeito aos direitos dos consumidores.
+
+Acreditamos que o valor de uma experiência digital não está apenas na sofisticação de suas funcionalidades, mas na capacidade de resolver problemas reais e estabelecer relacionamentos positivos.
+
+**B2C Associativo | Comunidades e organizações associativas**
+
+Acreditamos que comunidades e organizações associativas representam ambientes importantes de colaboração, pertencimento e construção de valor compartilhado.
+
+Reconhecemos que esses públicos possuem necessidades relacionadas à organização de pessoas, à comunicação, à participação e ao desenvolvimento de iniciativas coletivas.
+
+Queremos compreender essas características e desenvolver soluções que fortaleçam suas capacidades de atuação.
+
+Nossa intenção é contribuir para experiências que facilitem relacionamentos, ampliem oportunidades de participação e apoiem a sustentabilidade das iniciativas associativas.
+
+Valorizamos modelos capazes de conciliar benefícios individuais e coletivos, respeitando a identidade e os objetivos de cada comunidade.
+
+**A segmentação como instrumento de inteligência estratégica**
+
+Não compreendemos a segmentação apenas como uma classificação comercial.
+
+Ela representa uma maneira de organizar conhecimentos sobre mercados, reconhecer necessidades e orientar a construção de oportunidades.
+
+Uma mesma competência tecnológica pode produzir valor em diferentes segmentos, mas sua aplicação precisa considerar as características de cada público.
+
+Da mesma maneira, diferentes segmentos podem compartilhar problemas semelhantes, criando oportunidades para desenvolver soluções adaptáveis e modelos de negócio escaláveis.
+
+Queremos utilizar essa compreensão para fortalecer nossa capacidade de identificar oportunidades, estabelecer prioridades e desenvolver relacionamentos consistentes.
+
+Reconhecemos que atuar em múltiplos mercados exige escolhas criteriosas. Nem toda oportunidade será compatível com nossas capacidades, e nem todo segmento deverá receber a mesma prioridade em determinado momento.
+
+Nossa atuação precisa considerar relevância, viabilidade, potencial de geração de valor e alinhamento com a estratégia do ecossistema.
+
+Acreditamos que uma segmentação bem compreendida nos permite combinar especialização e escala, proximidade e eficiência, diversidade de mercados e coerência institucional.
+
+É dessa maneira que buscamos transformar o conhecimento sobre nossos públicos em vantagem competitiva: compreendendo diferentes realidades para desenvolver soluções relevantes, construir relações de confiança e ampliar nossa capacidade de gerar resultados sustentáveis.
