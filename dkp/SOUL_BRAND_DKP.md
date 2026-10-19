@@ -1023,3 +1023,181 @@ Na IMTS, acreditamos que resultados verdadeiramente sustentáveis precisam ser a
 Nossa ambição é construir um ecossistema no qual a excelência empresarial caminhe ao lado do respeito humano, da lealdade, da proteção da confiança e da responsabilidade pelas consequências de nossas ações.
 
 Porque o legado que desejamos deixar não será medido apenas pelo que construímos, mas também pela maneira como escolhemos construir.
+
+### 06.3 | Filosofia
+
+#### Texto original integral
+
+Somos guiados por cinco pilares filosóficos imutáveis:
+
+Organização Turquesa
+
+Propósito evolutivo. Autogestão real. Integridade plena.
+
+Na IMTS, cada círculo é vivo, cada papel é dinâmico, a autoridade é distribuída e o propósito é superior ao ego.
+
+Holocracia
+
+Estrutura em círculos. Papéis ao invés de cargos. Alvos ao invés de metas.
+
+Aqui, decisão é tensão resolvida. Não há comando por hierarquia, mas liderança por clareza.
+
+Mentalidade de Alta Performance
+
+Disciplina diária. Persistência. Excelência como hábito.
+
+Seguimos os 10 Pergaminhos do Sucesso, Sucesso não como fábula, mas como prática. Na IMTS, vencer é consequência de uma mente bem treinada.
+
+Sonho Grande
+
+Meritocracia. Eficiência radical. Obsessão por resultados. Liderança como comando.
+
+A IMTS escala porque opera com gente de elite, processos enxutos e cultura de dono.
+
+Ikigai
+
+Só seguimos se for com propósito. Só operamos o que for sustentável. Só tracionamos o que for verdade.
+
+Nosso reator interno é o Ikigai coletivo da IMTS: Fazer com excelência o que o mundo precisa e está disposto a reconhecer como valor.
+
+“A identidade corporativa é a bússola que guia não apenas a percepção do mercado, mas também a integridade e a coesão interna, fundamentais para navegar no dinamismo dos negócios contemporâneos com visão e propósito claros.”
+
+#### Declaração Sintética | Oração de Impacto
+
+**Acreditamos que grandes realizações nascem da união entre propósito, autonomia, disciplina, ambição e sentido. Na IMTS, cultivamos uma filosofia que coloca as pessoas a serviço de um propósito maior, transforma responsabilidade em protagonismo e faz da excelência um compromisso diário. Sonhamos grande, agimos com consciência e construímos juntos aquilo que individualmente não conseguiríamos realizar.**
+
+#### Desenvolvimento Narrativo
+
+A filosofia da IMTS representa a maneira como compreendemos o trabalho, a liderança, os relacionamentos e a construção de empreendimentos capazes de produzir resultados relevantes.
+
+Não queremos que nossa cultura dependa exclusivamente de normas, estruturas formais ou orientações de liderança. Desejamos que ela encontre sustentação em princípios compartilhados, capazes de orientar nossas decisões mesmo diante de situações novas, complexas ou inesperadas.
+
+Por isso, reunimos cinco referências filosóficas que consideramos fundamentais para nossa identidade: Organização Turquesa, Holocracia, Mentalidade de Alta Performance, Sonho Grande e Ikigai.
+
+Essas referências possuem origens e características distintas, mas encontram na IMTS um propósito comum: desenvolver um ecossistema no qual pessoas, capacidades e empreendimentos possam alcançar seu potencial com autonomia, responsabilidade e compromisso com resultados sustentáveis.
+
+**Organização Turquesa | Propósito evolutivo, autogestão e integridade**
+
+Acreditamos que uma organização pode ser mais do que uma estrutura criada para executar atividades e alcançar objetivos econômicos.
+
+Ela também pode constituir um ambiente vivo, capaz de aprender, evoluir e desenvolver relações humanas mais conscientes e responsáveis.
+
+A filosofia das Organizações Turquesa inspira nossa busca por um modelo no qual o propósito não seja apenas uma declaração institucional, mas uma referência presente nas decisões e nos comportamentos cotidianos.
+
+Valorizamos a autogestão como expressão de maturidade e responsabilidade. Queremos que as pessoas compreendam seus papéis, reconheçam suas capacidades e tenham condições de contribuir ativamente para os resultados coletivos.
+
+Entretanto, autonomia não significa ausência de compromissos. Ela exige clareza, transparência e disposição para responder pelas consequências das próprias decisões.
+
+A integridade também ocupa uma posição central nessa filosofia. Acreditamos que as pessoas não precisam separar completamente suas convicções, sensibilidades e capacidades humanas de sua atuação profissional.
+
+Queremos construir um ambiente no qual seja possível trabalhar com autenticidade, respeito e consciência de pertencimento.
+
+Na IMTS, buscamos desenvolver círculos vivos, papéis adaptáveis e uma distribuição de autoridade coerente com as responsabilidades assumidas.
+
+O propósito deve orientar nossas escolhas, e não ser subordinado a interesses individuais ou disputas de poder.
+
+**Holocracia | Clareza de papéis, autoridade distribuída e evolução organizacional**
+
+A Holocracia inspira nossa maneira de organizar responsabilidades e desenvolver estruturas capazes de responder às transformações dos negócios.
+
+Em vez de depender exclusivamente de hierarquias tradicionais, buscamos organizar o trabalho por meio de círculos, papéis, responsabilidades e alvos claramente definidos.
+
+Acreditamos que a autoridade deve estar associada à capacidade de decidir e agir dentro de responsabilidades conhecidas.
+
+Isso permite que as pessoas assumam protagonismo, contribuam com suas competências e participem de uma organização mais dinâmica.
+
+Reconhecemos que tensões organizacionais surgem naturalmente quando existe uma diferença entre a realidade atual e aquilo que precisamos alcançar.
+
+Em nossa filosofia, essas tensões devem ser compreendidas como oportunidades de melhoria, aprendizagem e evolução.
+
+Queremos desenvolver a capacidade de identificá-las, discuti-las e transformá-las em decisões e ações concretas.
+
+A liderança continua sendo importante, mas deve encontrar legitimidade na clareza de propósito, na competência, na responsabilidade e na capacidade de mobilizar pessoas.
+
+Nossa intenção é construir uma organização na qual a distribuição de autoridade fortaleça a coordenação, em vez de produzir fragmentação.
+
+**Mentalidade de Alta Performance | Disciplina, persistência e excelência**
+
+Acreditamos que resultados extraordinários raramente são consequência exclusiva de talento, inspiração ou circunstâncias favoráveis.
+
+Eles também dependem de disciplina, preparação, persistência e capacidade de transformar boas intenções em comportamentos consistentes.
+
+Na IMTS, compreendemos a alta performance como uma mentalidade que orienta a maneira de enfrentar desafios, desenvolver competências e buscar a melhoria contínua.
+
+Queremos cultivar a excelência como hábito, não como um esforço ocasional.
+
+Isso significa assumir compromissos com seriedade, aprender com os erros, aprimorar processos e desenvolver a capacidade de realizar entregas cada vez melhores.
+
+Os Dez Pergaminhos do Sucesso constituem uma de nossas referências inspiradoras para essa construção.
+
+Reconhecemos neles ensinamentos relacionados à persistência, ao desenvolvimento pessoal, à disciplina e à importância dos hábitos na formação de uma mentalidade orientada à realização.
+
+Entretanto, compreendemos que alta performance não deve ser confundida com exigência ilimitada, competição destrutiva ou desconsideração pelos limites humanos.
+
+Queremos resultados consistentes, sustentáveis e compatíveis com a saúde das pessoas e a integridade de nossos relacionamentos.
+
+Na IMTS, vencer deve ser consequência de preparação, dedicação, aprendizagem e realização responsável.
+
+**Sonho Grande | Ambição, meritocracia e capacidade de realização**
+
+Acreditamos que a dimensão de nossos resultados está relacionada, em parte, à capacidade de imaginar possibilidades que ultrapassem as limitações do presente.
+
+Sonhar grande significa recusar a acomodação e desenvolver coragem para construir empreendimentos relevantes, competitivos e capazes de alcançar novos patamares.
+
+Essa filosofia inspira nossa valorização da ambição responsável, da eficiência, da meritocracia e da orientação para resultados.
+
+Queremos reconhecer contribuições efetivas, estimular o desenvolvimento de competências e criar oportunidades para que pessoas comprometidas possam crescer juntamente com os empreendimentos.
+
+Valorizamos processos enxutos, decisões fundamentadas e a utilização inteligente dos recursos disponíveis.
+
+A cultura de dono representa, para nós, a disposição de agir com responsabilidade, compreender as consequências das decisões e cuidar dos negócios como patrimônios coletivos que precisam prosperar.
+
+Também reconhecemos a importância de lideranças capazes de assumir responsabilidades, estabelecer direções e mobilizar esforços diante de desafios relevantes.
+
+Entretanto, nossa ambição precisa permanecer conectada à integridade, à cooperação e à sustentabilidade.
+
+Não desejamos crescer a qualquer custo.
+
+Queremos construir empresas e projetos capazes de combinar excelência empresarial, eficiência operacional, reconhecimento pelo mérito e contribuição positiva para a sociedade.
+
+**Ikigai | Propósito, realização e valor para o mundo**
+
+Acreditamos que o trabalho ganha significado quando existe uma conexão entre aquilo que fazemos, nossas capacidades, nossas motivações e as necessidades que buscamos atender.
+
+O conceito de Ikigai inspira nossa reflexão sobre o sentido daquilo que construímos.
+
+Queremos que nossos empreendimentos encontrem oportunidades de realização na convergência entre competências, vocações, necessidades reais e viabilidade econômica.
+
+Isso significa compreender que uma atividade empresarial precisa gerar valor para aqueles que a realizam, para as pessoas que dela se beneficiam e para a sociedade na qual está inserida.
+
+Não basta desenvolver algo que sabemos fazer. Precisamos compreender sua relevância.
+
+Também não basta perseguir uma oportunidade economicamente atraente. Precisamos avaliar sua coerência com nossos valores e sua capacidade de produzir resultados sustentáveis.
+
+Na IMTS, buscamos construir um Ikigai coletivo que una propósito e realização empresarial.
+
+Queremos fazer com excelência aquilo que o mundo precisa e está disposto a reconhecer como valor.
+
+Essa orientação nos ajuda a escolher oportunidades, estabelecer prioridades e preservar o sentido de nossa atuação.
+
+**A integração dos cinco pilares**
+
+Não compreendemos essas filosofias como modelos isolados ou fórmulas que devam ser reproduzidas mecanicamente.
+
+Cada uma oferece referências que precisam ser interpretadas à luz da identidade, das características e dos desafios da IMTS.
+
+A Organização Turquesa nos inspira a evoluir com propósito e integridade.
+
+A Holocracia orienta nossa busca por clareza de papéis e autoridade distribuída.
+
+A Mentalidade de Alta Performance fortalece nosso compromisso com disciplina, persistência e excelência.
+
+O Sonho Grande amplia nossa ambição e nossa capacidade de realização.
+
+O Ikigai preserva a conexão entre aquilo que fazemos, o valor que produzimos e o sentido de nossa existência.
+
+Juntas, essas referências formam uma filosofia organizacional que procura conciliar liberdade e responsabilidade, ambição e consciência, autonomia e colaboração, desempenho e humanidade.
+
+Queremos que essa filosofia esteja presente não apenas em nossos documentos, mas também nas decisões que tomamos, nas relações que cultivamos e nos empreendimentos que construímos.
+
+Porque a identidade de uma organização se revela, sobretudo, na coerência entre aquilo em que acredita e aquilo que efetivamente realiza.
