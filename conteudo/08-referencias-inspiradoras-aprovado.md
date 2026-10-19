@@ -639,3 +639,171 @@ Queremos que esses ensinamentos encontrem expressão na maneira como desenvolvem
 Acreditamos que a excelência empresarial pode caminhar ao lado da sensibilidade humana e do compromisso com a sociedade.
 
 É dessa maneira que Madre Teresa integra nossas referências inspiradoras: como uma trajetória que nos convida a reconhecer o valor das pessoas, transformar cuidado em ação e construir realizações orientadas por propósito, responsabilidade e impacto positivo.
+
+### 08.5 | Mahatma Gandhi
+
+#### Texto original integral
+
+(O Pioneiro da Não Violência) A história de Mahatma Gandhi é um testemunho do poder da não violência e da perseverança na luta pela justiça e independência. • Perfil: Advogado, ativista político e líder espiritual do movimento de independência da Índia, pioneiro da filosofia e estratégia da não violência. • Síntese: Liderou a Índia à independência do domínio britânico através de campanhas de desobediência civil não violenta. • Realizações: Inspirou movimentos pelos direitos civis e liberdade em todo o mundo, incluindo o Movimento pelos Direitos Civis nos EUA.
+
+História Nascido em 1869, na Índia colonial, Mohandas Karamchand Gandhi tornou-se conhecido mundialmente como Mahatma Gandhi, onde “Mahatma” significa “grande alma”. Formado em direito na Inglaterra, Gandhi inicialmente trabalhou na África do Sul, onde desenvolveu sua abordagem de resistência não violenta contra a injustiça racial. Ao retornar à Índia, ele se tornou o líder do movimento nacionalista indiano contra o domínio britânico, promovendo a desobediência civil e a autossuficiência econômica. Gandhi liderou várias campanhas importantes contra as leis opressivas britânicas, incluindo o famoso Sal Satyagraha (Marcha do Sal) em 1930, desafiando o monopólio britânico do sal. Sua filosofia de Satyagraha, que significa “adesão à verdade”, inspirou milhões a buscar a independência através da paz e da não violência. Embora a Índia tenha finalmente alcançado a independência em 1947, Gandhi foi tragicamente assassinado em 1948, deixando um legado duradouro de paz e justiça.
+
+Para explorar mais Filme/Série/Documentário: “Gandhi” (1982) - Dirigido por Richard Atten- borough, este filme biográfico retrata a vida de Gandhi, desde seus dias na África do Sul até se tornar o líder do movimento de independência indiano, destacando sua filosofia de não violência.
+
+Livro: “A Autobiografia: Minha Vida e Minhas Experiências com a Verdade” por Mahatma Gandhi - Esta obra oferece uma visão íntima das crenças, filosofias e a alma por trás do líder pacifista, detalhando sua jornada pessoal e política. Recursos Adicionais Para aqueles inspirados pela vida e ensinamentos de Mahatma Gandhi e interessados em se aprofundar mais, os seguintes recursos são recomendados: Livros: Além de sua autobiografia, muitas obras foram escritas sobre Gandhi, destacando diferentes aspectos de sua vida e filosofia, como “Gandhi Before India” de Ramachandra Guha, que foca nos anos formativos de Gandhi na África do Sul. Documentários: “Gandhi’s Children” (2008) é um dos muitos documentários que exploram o impacto de Gandhi na Índia moderna e no mundo. Sites e Artigos: O site da Gandhi Smriti e Darshan Samiti (gandhismriti.gov.in) oferece recursos educacionais sobre sua vida e trabalho. Artigos acadêmicos e de revistas frequentemente exploram o impacto de sua filosofia na política global e movimentos sociais. Frases Inspiradoras “A força não vem da capacidade física. Ela vem de uma vontade indomável.” “O futuro depende do que fazemos no presente.” A vida de Mahatma Gandhi nos ensina que a mudança duradoura é possível através da força da verdade e da não violência. Ele permanece uma figura inspiradora não apenas na Índia, mas em todo o mundo, como um símbolo de paz, justiça e resistência contra a opressão. “Seja a mudança que você quer ver no mundo.” Esta frase de Mahatma Gandhi encoraja empreendedores a liderar pelo exemplo, impulsionando inovações tecnológicas que refletem seus valores e contribuem para a sustentabilidade social e ambiental.
+
+#### Declaração Sintética | Oração de Impacto
+
+**Acreditamos que transformações duradouras começam pela coerência entre aquilo que defendemos e a maneira como agimos. Inspirados pela trajetória de Mahatma Gandhi, queremos cultivar a força dos princípios, a coragem de questionar injustiças e a capacidade de enfrentar conflitos sem abandonar a dignidade humana. Na IMTS, compreendemos que a verdadeira liderança nasce do exemplo, que a integridade sustenta a confiança e que nenhum resultado justifica caminhos incompatíveis com nossos valores.**
+
+#### Desenvolvimento Narrativo
+
+**A força de transformar princípios em ação**
+
+Acreditamos que a capacidade de produzir transformações relevantes depende não apenas da clareza de nossos objetivos, mas também da coerência entre aquilo que defendemos e os meios que escolhemos para alcançá-los.
+
+A trajetória de Mahatma Gandhi representa uma referência histórica importante dessa compreensão.
+
+Sua atuação na luta pela independência da Índia tornou-se mundialmente conhecida pela utilização da resistência não violenta e da desobediência civil como instrumentos de mobilização.
+
+Reconhecemos que sua história está relacionada a circunstâncias políticas, sociais e culturais complexas, que precisam ser compreendidas em seu próprio contexto.
+
+Na IMTS, não buscamos comparar desafios empresariais à luta de um povo por sua independência.
+
+Queremos compreender os ensinamentos relacionados à integridade, à perseverança e à responsabilidade pelos meios utilizados para alcançar objetivos.
+
+Acreditamos que a maneira como construímos resultados possui tanta importância quanto os próprios resultados.
+
+**A formação de uma consciência voltada à justiça**
+
+Nascido em 1869, Mohandas Karamchand Gandhi desenvolveu sua trajetória em um período marcado pelo domínio colonial britânico sobre a Índia.
+
+Após estudar direito na Inglaterra, atuou na África do Sul, onde enfrentou experiências de discriminação racial e participou de movimentos de resistência.
+
+Essas experiências contribuíram para o desenvolvimento de sua compreensão sobre justiça, dignidade e mobilização coletiva.
+
+Reconhecemos que sua formação política e moral ocorreu ao longo de uma trajetória de aprendizagem, conflitos e transformações pessoais.
+
+Sua história nos lembra que convicções e capacidades de liderança não surgem necessariamente de maneira completa ou definitiva.
+
+Elas podem ser desenvolvidas por meio da experiência, da reflexão e da disposição para compreender realidades diferentes.
+
+Na IMTS, queremos cultivar essa capacidade de aprendizagem, reconhecendo que evoluir também exige questionar nossas próprias práticas e percepções.
+
+**Satyagraha | A força da verdade e da resistência não violenta**
+
+A filosofia de Satyagraha ocupa uma posição central na trajetória de Gandhi.
+
+Associada à firmeza na verdade e à resistência não violenta, ela orientou importantes iniciativas de mobilização política e social.
+
+Acreditamos que essa abordagem oferece uma reflexão sobre a relação entre princípios, coragem e responsabilidade.
+
+A não violência, nesse contexto, não deve ser confundida com passividade ou ausência de posicionamento.
+
+Ela representa uma forma ativa de resistência, fundamentada na disposição de enfrentar injustiças sem reproduzir deliberadamente os mesmos mecanismos de violência que se pretende combater.
+
+Reconhecemos que sua aplicação histórica envolveu dificuldades, contradições e circunstâncias complexas.
+
+Na IMTS, queremos aprender com a importância de enfrentar conflitos de maneira responsável, buscando soluções que preservem a dignidade das pessoas.
+
+Acreditamos que divergências podem ser tratadas com firmeza sem abandonar o respeito e a integridade.
+
+**A Marcha do Sal e a capacidade de mobilizar pessoas**
+
+Em 1930, Gandhi liderou a Marcha do Sal, uma das ações mais conhecidas do movimento de independência indiano.
+
+A iniciativa desafiou o monopólio britânico sobre o sal e tornou-se um símbolo da resistência ao domínio colonial.
+
+Reconhecemos que sua relevância ultrapassou o gesto individual.
+
+A marcha contribuiu para mobilizar pessoas em torno de uma causa compartilhada, utilizando uma ação concreta para tornar visível uma questão política mais ampla.
+
+Acreditamos que essa experiência demonstra a importância de conectar propósito, comunicação e realização.
+
+Uma visão somente ganha força coletiva quando encontra maneiras de ser compreendida e compartilhada.
+
+Na IMTS, queremos desenvolver a capacidade de transformar objetivos em iniciativas claras, capazes de mobilizar competências e orientar esforços.
+
+Entretanto, reconhecemos que a mobilização responsável exige respeito à autonomia das pessoas e clareza sobre os compromissos assumidos.
+
+**Autossuficiência, simplicidade e responsabilidade**
+
+A atuação de Gandhi também esteve associada à valorização da autossuficiência econômica e de práticas de vida mais simples.
+
+Essas ideias fizeram parte de sua crítica às estruturas de dependência econômica e ao domínio colonial.
+
+Reconhecemos que tais propostas pertenciam a um contexto histórico específico e não precisam ser reproduzidas literalmente em nossa realidade empresarial.
+
+Entretanto, acreditamos que oferecem reflexões sobre responsabilidade na utilização de recursos, autonomia e coerência entre escolhas e valores.
+
+Na IMTS, queremos desenvolver empreendimentos capazes de utilizar recursos com inteligência, evitar desperdícios e construir condições sustentáveis para sua continuidade.
+
+Acreditamos que eficiência e simplicidade podem fortalecer a capacidade de realização quando estão acompanhadas de conhecimento e planejamento.
+
+Nossa intenção não é rejeitar o desenvolvimento tecnológico, mas utilizá-lo de maneira consciente e orientada à produção de valor.
+
+**A independência da Índia e a complexidade das transformações históricas**
+
+A independência da Índia, em 1947, representou um acontecimento fundamental na história do país e do processo de descolonização.
+
+Gandhi desempenhou um papel relevante nesse movimento, juntamente com muitos outros líderes, organizações e participantes.
+
+Reconhecemos que a conquista da independência também esteve associada à Partição do subcontinente e a episódios de violência e deslocamento humano.
+
+Acreditamos que compreender esse período exige reconhecer suas realizações e suas consequências.
+
+Não desejamos transformar processos históricos complexos em narrativas nas quais uma única pessoa aparece como responsável por todos os resultados.
+
+Nossa intenção é reconhecer a importância da liderança e da mobilização coletiva, preservando a compreensão de que grandes transformações envolvem diferentes agentes e circunstâncias.
+
+Na IMTS, queremos aprender com a necessidade de considerar os efeitos de nossas decisões e reconhecer que resultados relevantes também podem envolver desafios e consequências difíceis.
+
+**Integridade, exemplo e responsabilidade na liderança**
+
+A trajetória de Gandhi é frequentemente associada à importância do exemplo pessoal.
+
+Acreditamos que a credibilidade de uma liderança depende, em grande parte, da coerência entre aquilo que declara e aquilo que pratica.
+
+Na IMTS, queremos desenvolver uma cultura na qual os compromissos institucionais sejam demonstrados por comportamentos consistentes.
+
+Reconhecemos que a liderança não deve depender exclusivamente de autoridade formal ou capacidade de influência.
+
+Ela precisa encontrar legitimidade na competência, na integridade e na responsabilidade pelas decisões.
+
+Entretanto, compreendemos que referências históricas não devem ser tratadas como personalidades perfeitas ou acima de questionamentos.
+
+A trajetória de Gandhi também apresenta aspectos controversos e mudanças em suas posições ao longo da vida.
+
+Queremos aprender com seus princípios e contribuições sem abandonar nossa capacidade crítica.
+
+Nossa intenção é construir uma liderança que combine firmeza de propósito, respeito humano e disposição para evoluir.
+
+**O legado de Mahatma Gandhi para a IMTS**
+
+Não buscamos reproduzir o movimento político liderado por Gandhi nem incorporar integralmente suas convicções pessoais à identidade institucional da IMTS.
+
+Reconhecemos a singularidade de sua trajetória e a complexidade de seu contexto histórico.
+
+Nossa intenção é compreender os ensinamentos que podem contribuir para nossa cultura.
+
+A coerência entre princípios e ações.
+
+A coragem para enfrentar desafios e questionar práticas estabelecidas.
+
+A perseverança na busca por objetivos relevantes.
+
+A capacidade de mobilizar pessoas em torno de propósitos compartilhados.
+
+O respeito à dignidade humana.
+
+A importância de enfrentar conflitos de maneira responsável.
+
+E a compreensão de que os meios utilizados para alcançar resultados também expressam a identidade de uma organização.
+
+Queremos que esses princípios orientem a maneira como desenvolvemos empreendimentos, construímos relacionamentos e enfrentamos dificuldades.
+
+Acreditamos que inovação, prosperidade e impacto positivo precisam caminhar ao lado da integridade.
+
+Não desejamos alcançar resultados relevantes por meio de práticas que contradigam nossos próprios valores.
+
+É dessa maneira que Mahatma Gandhi integra nossas referências inspiradoras: como uma trajetória que nos convida a cultivar a força dos princípios, liderar pelo exemplo e construir transformações fundamentadas na responsabilidade e no respeito humano.
