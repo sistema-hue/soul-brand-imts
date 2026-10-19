@@ -439,3 +439,35 @@ Nossa missão não é substituir o protagonismo de quem empreende, mas fortalece
 Queremos que cada empreendimento apoiado pelo ecossistema encontre oportunidades para prosperar, inovar e contribuir para a geração de impacto positivo.
 
 É assim que buscamos transformar nossa participação em valor concreto: apoiando empresas e projetos para que desenvolvam suas capacidades, realizem seus objetivos e contribuam para um futuro mais próspero, responsável e sustentável.
+
+### 05.7 | Nosso Negócio
+
+**Construir, integrar e incorporar empresas e projetos inovadores, escaláveis e sustentáveis.**
+
+Nosso negócio consiste em construir, integrar e incorporar empresas e projetos que encontrem nas tecnologias e na inovação oportunidades para desenvolver soluções relevantes, crescer e gerar valor de maneira sustentável.
+
+Acreditamos que o empreendedorismo pode assumir diferentes formas. Algumas oportunidades começam com uma ideia que precisa ser desenvolvida desde sua origem. Outras surgem em empresas já existentes, que possuem conhecimentos, experiências, soluções e mercados capazes de contribuir para a construção de novos negócios.
+
+Por isso, não limitamos nossa atuação à criação de empreendimentos. Também buscamos integrar competências e incorporar empresas e projetos que possam fortalecer o ecossistema, ampliar suas capacidades e desenvolver oportunidades compartilhadas.
+
+Queremos construir um portfólio de negócios inovadores, escaláveis e sustentáveis, reunindo empreendimentos com potencial para crescer, adaptar-se às transformações dos mercados e continuar produzindo valor ao longo do tempo.
+
+A inovação ocupa um lugar central nessa estratégia. Valorizamos iniciativas capazes de questionar modelos convencionais, desenvolver novas soluções e encontrar maneiras mais eficientes de enfrentar problemas reais.
+
+Acreditamos no potencial da disrupção, mas compreendemos que ela não precisa ser um objetivo isolado. Uma transformação relevante acontece quando uma solução oferece benefícios concretos, melhora experiências, amplia oportunidades ou estabelece novos padrões de qualidade e eficiência.
+
+A escalabilidade também faz parte daquilo que buscamos. Queremos desenvolver modelos de negócio capazes de ampliar seu alcance sem perder a consistência operacional, a qualidade das entregas ou a responsabilidade na utilização dos recursos.
+
+Da mesma maneira, entendemos a sustentabilidade como uma condição importante para a continuidade dos empreendimentos. Ela envolve viabilidade econômica, capacidade de adaptação e atenção às consequências sociais e ambientais das decisões empresariais.
+
+Nosso portfólio deve refletir o compromisso com a excelência e com a inovação contínua. Cada empresa ou projeto possui características próprias, mas queremos que todos encontrem na identidade da IMTS referências comuns para orientar decisões, relacionamentos e realizações.
+
+Ao reunir diferentes empreendimentos, buscamos desenvolver uma estrutura empresarial na qual conhecimentos, tecnologias, experiências e oportunidades possam circular entre as operações, fortalecendo a capacidade de realização do conjunto.
+
+Sabemos que construir um ecossistema dessa natureza exige escolhas criteriosas. Nem toda oportunidade precisa ser incorporada, e nem toda integração produzirá os resultados esperados. Precisamos compreender a contribuição de cada negócio, os riscos envolvidos e as condições necessárias para seu desenvolvimento.
+
+Queremos que nossas decisões de construção, integração e incorporação sejam orientadas pela capacidade de gerar valor, desenvolver competências e fortalecer a sustentabilidade do ecossistema.
+
+Nossa ambição ultrapassa a formação de um portfólio empresarial. Desejamos construir negócios capazes de prosperar, contribuir para o desenvolvimento humano e produzir transformações positivas que permaneçam além de cada empreendimento.
+
+É dessa maneira que compreendemos nosso negócio: uma atividade empresarial voltada à construção de oportunidades, à integração de capacidades e ao desenvolvimento de empresas e projetos inovadores, escaláveis e sustentáveis, comprometidos com a excelência e com a geração de um legado duradouro.
