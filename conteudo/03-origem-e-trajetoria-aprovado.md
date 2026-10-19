@@ -287,3 +287,33 @@ Ao mesmo tempo, compreendemos que nossos propósitos precisam evoluir à medida 
 É dessa forma que desejamos continuar construindo nosso legado: enfrentando os desafios do futuro com coragem, responsabilidade e perseverança, conectando pessoas e capacidades para transformar sonhos em realizações e contribuir para um mundo mais sustentável.
 
 Nossa missão não se encerra em uma conquista ou em determinado momento da história. Ela permanece viva em cada compromisso que assumimos e em cada oportunidade que encontramos para produzir impacto positivo.
+
+### 03.16 | O Futuro do Ecossistema
+
+Quando pensamos no futuro do Ecossistema IMTS, sabemos que ainda temos muito a construir. Nossa história reúne sonhos, decisões, dificuldades, aprendizados e realizações que ajudaram a formar aquilo que somos hoje. Mas também sabemos que nenhuma dessas experiências representa um ponto de chegada definitivo.
+
+Queremos continuar evoluindo, desenvolvendo novas capacidades e encontrando maneiras de responder às transformações dos mercados e da sociedade. As tecnologias mudarão, novas oportunidades surgirão e muitos dos desafios que enfrentaremos ainda são desconhecidos.
+
+Diante dessas mudanças, desejamos preservar aquilo que deu origem ao ecossistema: nosso Propósito, nossa Visão de Futuro, nossa Missão e os Princípios e Valores que orientam nossas escolhas.
+
+Permanecer fiel a essas referências não significa resistir à evolução. Pelo contrário, acreditamos que uma identidade sólida nos oferece condições para adaptar estratégias, desenvolver soluções inovadoras e explorar novas possibilidades sem perder a coerência com aquilo em que acreditamos.
+
+Queremos que a IMTS continue crescendo de maneira consistente, reunindo empresas, empreendedores, conhecimentos e tecnologias para desenvolver negócios capazes de gerar valor e contribuir para o desenvolvimento sustentável.
+
+Sabemos que inovação não se resume a acompanhar tendências ou apresentar soluções sofisticadas. Precisamos compreender problemas reais, questionar modelos estabelecidos e encontrar maneiras mais eficazes de utilizar nossas capacidades para produzir resultados relevantes.
+
+Mas o futuro que imaginamos ultrapassa a construção de uma organização empresarial. Desejamos desenvolver uma comunidade de pessoas que encontrem oportunidades para realizar seus projetos, compartilhar experiências e contribuir para objetivos que façam sentido individual e coletivamente.
+
+É nesse sentido que enxergamos o Ecossistema IMTS como um movimento. Não por sua dimensão ou pela quantidade de empresas que venha a reunir, mas pela possibilidade de aproximar pessoas em torno de uma convicção comum: podemos construir oportunidades melhores quando escolhemos colaborar, assumir responsabilidades e transformar ideias em realizações.
+
+Queremos que essa comunidade continue sendo um ambiente de aprendizado, inovação, desenvolvimento humano e empreendedorismo. Um espaço em que diferentes talentos encontrem condições para crescer e no qual os resultados alcançados possam abrir caminhos para novas conquistas.
+
+Ao olhar para tudo o que vivemos, reconhecemos que nossa história foi construída por muitas pessoas, cada uma contribuindo com suas capacidades, escolhas e experiências. São essas contribuições que dão significado àquilo que estamos construindo.
+
+Nossa trajetória é feita de sonhos que encontraram caminhos para se tornar realidade, de propósitos que ganharam sentido e de vidas que desejamos continuar enriquecendo por meio das oportunidades que criamos.
+
+Ainda haverá desafios, mudanças e decisões difíceis. Mas queremos enfrentá-los preservando a coragem de sonhar, a disposição de conectar, a disciplina para realizar e a generosidade para compartilhar.
+
+Porque esta é a nossa história. Uma história que continuamos escrevendo juntos, todos os dias, por meio das escolhas que fazemos, dos compromissos que cumprimos e das pessoas que conseguimos alcançar.
+
+**E é uma história que está apenas começando.**
