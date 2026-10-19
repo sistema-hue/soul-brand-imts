@@ -1201,3 +1201,25 @@ Juntas, essas referências formam uma filosofia organizacional que procura conci
 Queremos que essa filosofia esteja presente não apenas em nossos documentos, mas também nas decisões que tomamos, nas relações que cultivamos e nos empreendimentos que construímos.
 
 Porque a identidade de uma organização se revela, sobretudo, na coerência entre aquilo em que acredita e aquilo que efetivamente realiza.
+
+### 06.4 | Encerramento do capítulo 06
+
+#### Declaração original de encerramento
+
+> A cultura organizacional é a força gravitacional que mantém nossa visão alinhada, nossa equipe unida e nosso impacto ampliado, assegurando que, enquanto avançamos em direção ao futuro, cada membro compartilha de uma sinergia que transcende o trabalho e se torna um movimento de mudança positiva.
+
+#### Desenvolvimento Narrativo
+
+A cultura organizacional da IMTS representa o elo entre aquilo que acreditamos, as escolhas que fazemos e a maneira como construímos nossos empreendimentos.
+
+Queremos que nossos valores estejam presentes nas relações humanas, na condução dos negócios, na distribuição de responsabilidades e na busca por resultados.
+
+Acreditamos que uma cultura consistente nasce da coerência entre princípios e comportamentos. Ela se fortalece quando as pessoas encontram um propósito compartilhado, compreendem seus compromissos e reconhecem sua contribuição para algo maior.
+
+Nossa cultura deve unir pessoas e operações sem eliminar suas particularidades. Deve estimular autonomia sem perder responsabilidade, promover excelência sem comprometer a dignidade humana e sustentar grandes ambições sem abandonar a integridade.
+
+Desejamos que cada integrante do ecossistema reconheça na IMTS um ambiente de confiança, colaboração, aprendizagem e realização.
+
+Porque construir uma organização relevante não significa apenas reunir empresas, tecnologias e oportunidades. Significa desenvolver uma identidade compartilhada, capaz de orientar nossas decisões e preservar nossos compromissos ao longo do tempo.
+
+É essa cultura que queremos cultivar: uma força que conecta pessoas, fortalece empreendimentos e transforma nosso propósito em realizações capazes de gerar impacto positivo e deixar um legado duradouro.
