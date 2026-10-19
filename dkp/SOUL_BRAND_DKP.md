@@ -4086,3 +4086,195 @@ Que o conhecimento deve ser transformado em capacidades de realização.
 E que a inovação alcança seu verdadeiro significado quando contribui para ampliar oportunidades e produzir benefícios duradouros.
 
 É dessa maneira que Bill Gates integra nossas referências inspiradoras: como uma trajetória que nos convida a combinar visão tecnológica, capacidade empresarial, aprendizagem e compromisso com impacto positivo.
+
+### 08.9 | Larry Page
+
+#### Texto original integral
+
+(Reinventando como Nós Buscamos a Informação) A saga de Larry Page, cofundador do Google, é uma inspiradora história de inovação, visão de futuro e transformação do acesso à informação no mundo inteiro. • Perfil: Cofundador do Google, empresário e cientista da computação. • Síntese: Durante seus estudos na Universidade de Stanford, criou, junto com Sergey Brin, um motor de busca que classificava páginas web com base na relevância e relações entre elas. • Realizações: Transformou o Google no principal motor de busca da internet, revolucionando o acesso e a organização da informação online. Posteriormente, cofundou a Alphabet Inc., a empresa mãe do Google, impulsionando inovações em diversas áreas tecnológicas.
+
+História Nascido em 1973, em Michigan, Larry Page cresceu em uma família imersa no mundo da tecnologia e da computação. Sua curiosidade e paixão por computadores o levaram à Universidade de Stanford para um doutorado em ciência da computação, onde ele conheceu Sergey Brin. Juntos, em 1996, eles iniciaram um projeto de pesquisa que eventualmente se tornaria o Google. Eles desenvolveram um novo algoritmo de busca, o PageRank, que classificava as páginas da web com base na relevância e nos links, uma inovação que mudaria como as informações são acessadas e organizadas online. O Google foi oficialmente fundado em 1998 em uma garagem alugada em Menlo Park, Califórnia. Rapidamente, transformou-se na principal ferramenta de busca na internet, conhecida por sua eficiência e simplicidade. Mas Larry Page não parou por aí; sob sua liderança, o Google expandiu sua oferta de produtos e serviços, incluindo o Gmail, Google Maps, o sistema operacional Android e o navegador Chrome, solidificando ainda mais sua posição como líder tecnológico. Em 2015, Larry Page reestruturou o Google, criando a Alphabet Inc., uma holding que permitiria uma melhor gestão das diversas empresas e projetos 68 sob o Google, agora uma subsidiária. Como CEO da Alphabet, Page focou em tecnologias futuristas, incluindo carros autônomos através da Waymo e projetos de saúde na Verily.
+
+Para explorar mais
+
+Livro: “In The Plex: How Google Thinks, Works, and Shapes Our Lives” por Steven Levy - Embora não seja uma biografia de Larry Page especificamente, o livro oferece uma visão detalhada do funcionamento do Google e dos princípios que Page ajudou a estabelecer.
+
+Documentário: Embora não exista um documentário específico focado exclusivamente em Larry Page, “Google: Behind the Screen” (2006) e “The Creepy Line” (2018) oferecem insights sobre os primórdios do Google e seu impacto na sociedade. Recursos Adicionais Para aqueles inspirados pelo engenho e impacto de Larry Page e interessados em aprender mais sobre sua jornada e o Google, os seguintes recursos são recomendados: Palestras e Entrevistas: Larry Page é conhecido por suas raras, mas perspicazes, aparições públicas e entrevistas, muitas das quais estão disponíveis online, oferecendo insights sobre sua visão para o futuro da tecnologia e inovação. Sites e Artigos: O blog oficial do Google (blog.google) e o site da Alphabet (abc.xyz) são ótimos recursos para acompanhar os projetos atuais e futuros inspirados pela visão de Page. Biografias e Perfis: Diversos artigos e perfis em publicações como “Wired”, “The New Yorker” e “Bloomberg” exploram a vida de Larry Page, sua personalidade única e sua abordagem para negócios e inovação. Frases Inspiradoras “Você nunca perde um sonho, ele apenas é incubado até o momento certo.” “Sempre entregue mais do que o esperado.” A trajetória de Larry Page, de um estudante de doutorado curioso a um dos empresários mais influentes no mundo da tecnologia, é um testemunho do poder da inovação e da visão em moldar o futuro da sociedade. Seu trabalho não apenas revolucionou a busca e o acesso à informação mas também pavimentou o caminho para novas tecnologias que têm o potencial de transformar nossas vidas de maneiras ainda inimagináveis. “A melhor maneira de prever o futuro é inventá-lo.” Esta frase, que poderia ter sido inspirada por Larry Page, incentiva empreendedores a serem os arquitetos do amanhã, impulsionando a inovação tecnológica que não só antecipa, mas também molda um futuro sustentável para a sociedade e o meio ambiente.
+
+#### Declaração Sintética | Oração de Impacto
+
+**Acreditamos que o futuro é transformado por aqueles que conseguem enxergar possibilidades onde outros encontram limites. Inspirados pela trajetória de Larry Page, queremos cultivar a curiosidade, o pensamento exponencial e a coragem de desenvolver soluções capazes de ampliar o acesso ao conhecimento e transformar experiências humanas. Na IMTS, buscamos conectar inteligência, tecnologia e visão de longo prazo para construir plataformas inovadoras, escaláveis e responsáveis, capazes de converter grandes ideias em benefícios concretos para a sociedade.**
+
+#### Desenvolvimento Narrativo
+
+**A curiosidade que transforma perguntas em oportunidades**
+
+Acreditamos que grandes inovações frequentemente começam com perguntas capazes de desafiar a maneira como problemas são compreendidos.
+
+A trajetória de Larry Page representa uma referência importante dessa disposição para investigar possibilidades.
+
+Nascido em 1973, em Michigan, nos Estados Unidos, Page cresceu em um ambiente familiar relacionado à computação e à tecnologia.
+
+Seu interesse pelo conhecimento o conduziu à Universidade de Stanford, onde conheceu Sergey Brin.
+
+A colaboração entre os dois pesquisadores deu origem a uma iniciativa que transformaria profundamente a maneira como informações são encontradas e organizadas na internet.
+
+Na IMTS, queremos cultivar uma cultura na qual a curiosidade seja acompanhada de investigação, criatividade e disposição para construir soluções.
+
+Acreditamos que perguntas relevantes podem abrir caminhos para oportunidades que ainda não foram plenamente reconhecidas.
+
+**A origem do Google e a capacidade de repensar problemas**
+
+Em 1996, Larry Page e Sergey Brin iniciaram um projeto de pesquisa voltado à organização e à recuperação de informações na internet.
+
+Naquele período, a expansão da web criava desafios relacionados à localização de conteúdos relevantes.
+
+A abordagem desenvolvida pelos pesquisadores considerava as relações entre páginas como elementos importantes para compreender sua relevância.
+
+O algoritmo PageRank tornou-se uma das bases dessa inovação.
+
+Acreditamos que essa trajetória demonstra como uma maneira diferente de interpretar um problema pode contribuir para desenvolver soluções transformadoras.
+
+Na IMTS, queremos aprender com a importância de compreender estruturas, relações e informações antes de desenvolver respostas.
+
+Reconhecemos que tecnologias inovadoras frequentemente surgem da combinação entre conhecimento científico, investigação aplicada e capacidade de identificar necessidades reais.
+
+**Da pesquisa acadêmica à construção de uma plataforma global**
+
+A fundação do Google, em 1998, representou a transformação de um projeto acadêmico em um empreendimento tecnológico.
+
+O crescimento da empresa demonstrou a importância de combinar inovação, capacidade de execução e desenvolvimento de modelos de negócio.
+
+Acreditamos que essa trajetória oferece uma reflexão sobre a passagem entre descoberta e realização empresarial.
+
+Uma solução tecnicamente relevante precisa encontrar condições para alcançar usuários, sustentar suas operações e continuar evoluindo.
+
+Na IMTS, queremos desenvolver competências capazes de aproximar pesquisa, tecnologia e empreendedorismo.
+
+Reconhecemos que transformar conhecimento em negócio exige decisões relacionadas a produtos, infraestrutura, pessoas, recursos e mercados.
+
+Nossa intenção é construir empreendimentos nos quais a inovação seja acompanhada de capacidade real de entrega.
+
+**Simplicidade e experiência como diferenciais**
+
+Uma das características que contribuíram para a popularização do Google foi a simplicidade de sua experiência inicial de busca.
+
+Em um ambiente digital frequentemente marcado por interfaces complexas, a empresa apresentou uma maneira direta de encontrar informações.
+
+Acreditamos que essa abordagem demonstra a importância de compreender aquilo que os usuários realmente desejam realizar.
+
+A simplicidade de uma experiência não significa ausência de complexidade tecnológica.
+
+Muitas vezes, ela depende de sistemas sofisticados que organizam informações e processos para oferecer resultados claros.
+
+Na IMTS, queremos desenvolver soluções capazes de transformar complexidade técnica em experiências acessíveis, intuitivas e relevantes.
+
+Reconhecemos que a qualidade de uma tecnologia deve ser avaliada também pela maneira como contribui para resolver problemas das pessoas.
+
+**O pensamento exponencial e a capacidade de escala**
+
+A trajetória do Google está associada ao desenvolvimento de tecnologias capazes de atender a um número crescente de usuários e necessidades.
+
+A expansão da empresa demonstrou como plataformas digitais podem ampliar seu alcance por meio da integração entre software, infraestrutura e modelos de negócio.
+
+Acreditamos que essa capacidade de escala oferece uma reflexão importante para nosso ecossistema.
+
+Na IMTS, queremos desenvolver soluções que possam crescer de maneira sustentável, aproveitando competências compartilhadas e arquiteturas adequadas.
+
+Entretanto, reconhecemos que escala não deve ser confundida com crescimento ilimitado ou ausência de responsabilidades.
+
+Empreendimentos que alcançam grande abrangência precisam considerar segurança, privacidade, concorrência, confiabilidade e impactos sociais.
+
+Nossa intenção é combinar ambição e capacidade de expansão com responsabilidade e qualidade.
+
+**A evolução de um ecossistema tecnológico**
+
+Sob a liderança de Page e de outros executivos, o Google ampliou sua atuação para diferentes produtos e serviços.
+
+Gmail, Google Maps, Android e Chrome tornaram-se componentes importantes de um conjunto de soluções tecnológicas.
+
+Reconhecemos que essa expansão demonstra a possibilidade de desenvolver competências e plataformas complementares.
+
+Uma organização pode criar novas oportunidades quando consegue integrar conhecimentos, infraestrutura e experiências em diferentes atividades.
+
+Na IMTS, buscamos construir um ecossistema empresarial no qual células especializadas e operações encontrem oportunidades de colaboração.
+
+Queremos que a diversidade de nossas competências contribua para desenvolver soluções mais completas e ampliar possibilidades de realização.
+
+Entretanto, acreditamos que a integração deve respeitar as particularidades de cada empreendimento e evitar complexidade desnecessária.
+
+**Alphabet e a organização de diferentes horizontes de inovação**
+
+A criação da Alphabet, em 2015, representou uma reorganização empresarial destinada a distinguir o negócio principal do Google de outras iniciativas tecnológicas.
+
+Essa estrutura passou a reunir atividades com características, objetivos e horizontes de desenvolvimento distintos.
+
+Acreditamos que essa experiência oferece reflexões relevantes sobre a organização de ecossistemas empresariais.
+
+Diferentes iniciativas podem exigir modelos de gestão, investimentos e critérios de avaliação específicos.
+
+Na IMTS, queremos desenvolver uma estrutura capaz de reconhecer essas particularidades sem perder a integração estratégica.
+
+Nossa intenção é conciliar autonomia operacional e propósito compartilhado, criando condições para que diferentes negócios possam evoluir de maneira coerente.
+
+Reconhecemos que estruturas organizacionais precisam servir à realização dos empreendimentos, e não se transformar em objetivos por si mesmas.
+
+**A coragem de explorar tecnologias emergentes**
+
+A atuação de Page também esteve relacionada ao desenvolvimento de iniciativas voltadas a tecnologias emergentes.
+
+Projetos associados à mobilidade autônoma, à saúde e a outras áreas demonstram a importância atribuída à investigação de possibilidades futuras.
+
+Acreditamos que essa disposição para explorar novos campos oferece uma referência para nossa cultura de inovação.
+
+Na IMTS, queremos desenvolver capacidade de reconhecer tendências e investigar oportunidades que possam produzir valor no longo prazo.
+
+Entretanto, compreendemos que iniciativas experimentais envolvem incertezas e precisam ser avaliadas com critérios adequados.
+
+Nem toda hipótese se transformará em um negócio sustentável.
+
+Nossa intenção é combinar ousadia e responsabilidade, desenvolvendo experimentações proporcionais aos recursos e às capacidades disponíveis.
+
+**Informação, conhecimento e responsabilidade**
+
+A expansão das plataformas digitais transformou a maneira como pessoas e organizações acessam informações.
+
+Reconhecemos que essa transformação criou benefícios importantes, mas também desafios relacionados à privacidade, à concentração de mercado, à qualidade das informações e ao uso de dados.
+
+Acreditamos que compreender referências tecnológicas exige reconhecer suas contribuições e suas consequências.
+
+Na IMTS, queremos desenvolver soluções que respeitem os direitos das pessoas e utilizem informações de maneira responsável.
+
+Nossa intenção é transformar dados em conhecimento relevante, preservando segurança, transparência e integridade.
+
+Reconhecemos que o desenvolvimento tecnológico deve ser acompanhado de reflexão sobre seus impactos econômicos, institucionais e sociais.
+
+**O legado de Larry Page para a IMTS**
+
+Não buscamos reproduzir o modelo empresarial do Google ou da Alphabet, nem considerar suas decisões como referências universais.
+
+Nossa intenção é compreender princípios que possam contribuir para nossa própria evolução.
+
+A curiosidade para questionar problemas.
+
+A capacidade de transformar pesquisa em inovação.
+
+A importância da simplicidade e da experiência humana.
+
+O desenvolvimento de plataformas escaláveis.
+
+A integração entre diferentes competências tecnológicas.
+
+A organização de iniciativas com horizontes distintos.
+
+E a disposição para explorar possibilidades futuras com responsabilidade.
+
+Queremos que esses ensinamentos encontrem expressão na maneira como desenvolvemos nossos empreendimentos, organizamos nossas células e construímos soluções.
+
+Acreditamos que visão de futuro precisa caminhar ao lado de competência técnica e capacidade empresarial.
+
+Que grandes oportunidades exigem investigação e execução.
+
+E que a inovação somente alcança seu verdadeiro significado quando contribui para produzir benefícios concretos e sustentáveis.
+
+É dessa maneira que Larry Page integra nossas referências inspiradoras: como uma trajetória que nos convida a pensar além dos limites estabelecidos, conectar conhecimentos e transformar possibilidades tecnológicas em realizações relevantes para a sociedade.
