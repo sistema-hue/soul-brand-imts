@@ -972,3 +972,127 @@ Nossa ambição é construir uma marca cuja relevância seja reconhecida não ap
 É dessa maneira que compreendemos o posicionamento da IMTS: uma expressão de nossa identidade, de nossas capacidades e de nosso compromisso com a construção de negócios inovadores, escaláveis e sustentáveis.
 
 Queremos ocupar um lugar próprio no mercado, fundamentado na confiança, na excelência e na capacidade de transformar oportunidades em realizações que gerem valor econômico e impacto positivo para a sociedade.
+
+### 07.8 | Público-Alvo
+
+#### Texto original integral
+
+O público-alvo da IMTS são empreendedores, empresas públicas e privadas, e organizações públicas e sociais que valorizam a inovação sustentável e buscam soluções que não apenas atendam às suas necessidades imediatas, mas também contribuam para o bem-estar social e ambiental.
+
+Este público inclui:
+
+Startups de tecnologia com foco em soluções inovadoras e sustentabilidade.
+Empresas de médio a grande porte buscando inovação em processos e produtos.
+Organizações não-governamentais (ONGs) que necessitam de soluções tecnológicas para maximizar seu impacto.
+Organizações governamentais que necessitam de soluções tecnológicas, com o objetivo de trazer benefícios que melhorem o dia a dia do cidadão.
+Investidores e parceiros que priorizam investimentos com retorno social e ambiental positivo.
+
+#### Declaração Sintética | Oração de Impacto
+
+**Queremos caminhar ao lado de pessoas e organizações que acreditam no poder da inovação para construir um futuro melhor. Na IMTS, nosso público é formado por aqueles que buscam transformar desafios em oportunidades, desenvolver negócios sustentáveis e produzir resultados que ultrapassem interesses imediatos. Conectamos empreendedores, empresas, instituições, investidores e parceiros que compartilham o compromisso com a excelência, a prosperidade responsável e a geração de impacto positivo.**
+
+#### Desenvolvimento Narrativo
+
+Acreditamos que os relacionamentos mais relevantes são construídos quando existe convergência entre necessidades, capacidades e valores.
+
+Na IMTS, desejamos desenvolver relações com pessoas e organizações que reconheçam nas tecnologias e na inovação oportunidades para transformar suas atividades, enfrentar desafios e criar valor de maneira sustentável.
+
+Nosso público-alvo não se define exclusivamente por características econômicas, porte empresarial ou natureza institucional.
+
+Buscamos compreender também suas aspirações, seus desafios e sua disposição para construir soluções que contribuam para resultados consistentes e benefícios duradouros.
+
+Reconhecemos que diferentes públicos possuem necessidades próprias e exigem abordagens adequadas às suas realidades.
+
+Nossa atuação contempla cinco grupos de relacionamento especialmente relevantes.
+
+**Startups e empreendedores de tecnologia**
+
+Acreditamos que o empreendedorismo inovador representa uma importante fonte de transformação econômica e social.
+
+Reconhecemos que startups e empreendedores frequentemente desenvolvem ideias capazes de questionar modelos estabelecidos, criar novas soluções e atender a necessidades ainda não plenamente satisfeitas.
+
+Entretanto, sabemos que transformar uma ideia promissora em um empreendimento sustentável exige competências, recursos, relacionamentos e capacidade de execução.
+
+Queremos nos aproximar de empreendedores que buscam desenvolver negócios inovadores, escaláveis e comprometidos com a geração de valor.
+
+Nossa intenção é contribuir para conectar conhecimentos, tecnologias e oportunidades que possam fortalecer suas capacidades de realização.
+
+Valorizamos iniciativas que compreendam a sustentabilidade como parte de sua estratégia e reconheçam a importância de produzir benefícios concretos para seus públicos.
+
+**Empresas de médio e grande porte**
+
+Reconhecemos que empresas estabelecidas enfrentam desafios relacionados à competitividade, à transformação tecnológica e à necessidade de adaptar continuamente seus processos e modelos de negócio.
+
+Essas organizações possuem experiências, estruturas e capacidades que podem ser fortalecidas pela inovação e pela integração de novas competências.
+
+Queremos construir relacionamentos com empresas que buscam melhorar sua eficiência, desenvolver soluções, ampliar capacidades e explorar novas oportunidades de crescimento.
+
+Acreditamos que tecnologias aplicadas de maneira adequada podem contribuir para transformar processos, melhorar experiências e fortalecer a sustentabilidade empresarial.
+
+Nossa intenção é compreender as particularidades de cada organização e desenvolver propostas de valor compatíveis com seus desafios e objetivos.
+
+Valorizamos relações fundamentadas na confiança, na clareza dos compromissos e na capacidade de produzir resultados relevantes.
+
+**Organizações não governamentais e instituições sociais**
+
+Acreditamos que organizações sociais desempenham um papel importante na promoção do desenvolvimento humano, na proteção de direitos e na construção de oportunidades para diferentes comunidades.
+
+Reconhecemos que essas instituições frequentemente precisam realizar suas atividades com recursos limitados e elevada responsabilidade perante os públicos que atendem.
+
+Queremos compreender suas necessidades e explorar oportunidades de aplicação de tecnologias capazes de fortalecer sua capacidade de atuação.
+
+Buscamos contribuir para melhorar processos, organizar informações, ampliar a comunicação e apoiar a gestão de iniciativas sociais.
+
+Nossa intenção é aproximar competências tecnológicas de organizações comprometidas com a geração de impacto positivo.
+
+Acreditamos que a inovação pode contribuir para ampliar o alcance e a eficiência dessas iniciativas, respeitando sua identidade, suas responsabilidades e suas condições reais.
+
+**Organizações governamentais**
+
+Reconhecemos a importância das instituições governamentais para a organização da sociedade, a prestação de serviços públicos e a promoção do desenvolvimento.
+
+Acreditamos que a inovação tecnológica pode contribuir para melhorar a capacidade institucional, ampliar a eficiência e fortalecer a qualidade dos serviços oferecidos aos cidadãos.
+
+Queremos desenvolver relacionamentos com órgãos e entidades públicas que buscam soluções adequadas às suas necessidades e responsabilidades.
+
+Nossa atuação deve considerar os requisitos legais, a transparência, a continuidade dos serviços e a utilização responsável dos recursos públicos.
+
+Buscamos contribuir para iniciativas de transformação digital, integração de informações, automação e melhoria de processos.
+
+Nossa intenção é desenvolver soluções que produzam benefícios concretos para as instituições e, principalmente, para as pessoas que dependem de seus serviços.
+
+**Investidores e parceiros estratégicos**
+
+Acreditamos que o desenvolvimento de empreendimentos inovadores também depende da capacidade de construir relações com investidores e parceiros que compartilhem objetivos e compromissos de longo prazo.
+
+Reconhecemos que investimentos e parcerias podem contribuir para ampliar capacidades, desenvolver projetos e criar oportunidades de crescimento.
+
+Queremos nos aproximar de pessoas e organizações que compreendam o potencial das tecnologias e da inovação e valorizem a construção de negócios sustentáveis.
+
+Acreditamos que a geração de retorno econômico legítimo pode coexistir com responsabilidade social, ambiental e institucional.
+
+Buscamos desenvolver relações transparentes, fundamentadas na confiança, na compreensão dos riscos e na clareza dos compromissos assumidos.
+
+Nossa intenção é construir parcerias capazes de fortalecer o ecossistema e contribuir para a realização de iniciativas relevantes.
+
+**A convergência de valores como fundamento dos relacionamentos**
+
+Não compreendemos nosso público-alvo apenas como um conjunto de potenciais clientes, investidores ou parceiros.
+
+Queremos construir uma rede de relacionamentos orientada à criação de valor, ao desenvolvimento de capacidades e à realização de objetivos compartilhados.
+
+Reconhecemos que nem todas as pessoas e organizações terão as mesmas prioridades, necessidades ou expectativas.
+
+Por isso, buscamos compreender cada relacionamento a partir de suas particularidades, identificando onde nossas competências podem contribuir de maneira relevante.
+
+Acreditamos que a qualidade dessas relações depende de confiança, transparência, respeito e compromisso com resultados.
+
+Nossa intenção não é estabelecer vínculos baseados exclusivamente em oportunidades comerciais imediatas.
+
+Desejamos construir relacionamentos duradouros, nos quais a colaboração possa gerar benefícios para os envolvidos e contribuir para o fortalecimento do ecossistema.
+
+Reconhecemos que a inovação sustentável exige a participação de diferentes agentes, capazes de reunir conhecimentos, recursos, experiências e perspectivas complementares.
+
+Queremos que a IMTS seja um ambiente de conexão entre esses agentes, favorecendo o desenvolvimento de soluções, empreendimentos e oportunidades.
+
+É dessa maneira que compreendemos nosso público-alvo: pessoas e organizações que encontram na inovação, na colaboração e na sustentabilidade caminhos para alcançar seus objetivos e contribuir para a construção de um futuro mais próspero e responsável.
