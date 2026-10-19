@@ -1153,3 +1153,203 @@ Que a excelência exige dedicação, aprendizagem e responsabilidade.
 E que o progresso somente encontra seu verdadeiro significado quando contribui para ampliar possibilidades e produzir benefícios duradouros.
 
 É dessa maneira que Marie Curie integra nossas referências inspiradoras: como uma trajetória que nos convida a investigar com coragem, aprender com rigor e transformar conhecimento em inovação responsável e impacto positivo.
+
+### 08.8 | Bill Gates
+
+#### Texto original integral
+
+(O Visionário da Tecnologia e Filantropo) A trajetória de Bill Gates, cofundador da Microsoft, é uma narrativa fascinante de inovação, visão de futuro e filantropia, marcando profundamente o mundo da tecnologia e além. • Perfil: Cofundador da Microsoft, empresário, programador e filantropo. • Síntese: Largou Harvard para fundar a Microsoft com Paul Allen. Transformou a empresa no maior fornecedor mundial de software para computadores pessoais. • Realizações: Liderou a revolução do PC nos anos 80 e 90. Posteriormente, canalizou sua fortuna para a Bill &amp; Melinda Gates Foundation, a maior fundação privada do mundo, focando em saúde global, educação e acesso à tecnologia de informação.
+
+História Nascido em 1955, em Seattle, Washington, Bill Gates demonstrou interesse precoce por programação de computadores ainda adolescente. Ele deixou Harvard para fundar a Microsoft com Paul Allen em 1975, visando desenvolver software para o emergente mercado de computadores pessoais. A parceria da Microsoft com a IBM no início dos anos 80 para fornecer um sistema operacional para o primeiro PC foi um ponto de virada, solidificando a posição da Microsoft como uma potência na indústria. Sob a liderança de Gates, a Microsoft introduziu o Windows em 1985, que se tornaria o sistema operacional mais dominante para computadores pessoais. Suas inovações e práticas de negócios transformaram a Microsoft no maior fornecedor mundial de software, fazendo de Gates uma das pessoas mais ricas do mundo. Após se afastar da gestão diária da Microsoft, Gates voltou sua atenção para a filantropia, cofundando a Bill &amp; Melinda Gates Foundation em 2000. A fundação se concentra em saúde global, desenvolvimento e educação, com esforços significativos para erradicar doenças como a malária e a poliomielite, além de promover o acesso à educação e à tecnologia da informação em todo o mundo.
+
+Para explorar mais Filme/Série/Documentário: “Inside Bill’s Brain: Decoding Bill Gates” (2019), uma série documental da Netflix que explora a mente e as motivações de Gates, mergulhando em sua vida pessoal, carreira na Microsoft e seus esforços filantrópicos.
+
+Livro: “Bill Gates: A Biography” por Michael B. Becraft - Oferece uma visão abrangente da vida de Gates, desde sua infância e educação até suas conquistas como co-fundador da Microsoft e suas iniciativas filantrópicas. Recursos Adicionais Para aqueles inspirados pela visão e impacto de Bill Gates e interessados em se aprofundar mais em sua história, os seguintes recursos são recomendados: Palestras e Entrevistas: Gates é um palestrante frequente em fóruns globais sobre tecnologia, saúde e educação, com muitas de suas palestras e entrevistas disponíveis online. Sites e Artigos: O site da Bill &amp; Melinda Gates Foundation (gatesfoundation. org) oferece informações detalhadas sobre os projetos e iniciativas da fundação. Além disso, Gates frequentemente compartilha suas reflexões e aprendizados em seu blog pessoal, GatesNotes. Biografias e Perfis: Existem várias outras biografias e perfis de Gates que exploram diferentes aspectos de sua vida e carreira, proporcionando um panorama mais amplo de sua influência no mundo da tecnologia e da filantropia. Frases Inspiradoras “É bom celebrar o sucesso, mas é mais importante atentar para as lições do fracasso.” “A tecnologia é apenas uma ferramenta. Em termos de levar os alunos juntos e motivá-los, o professor é o mais importante.” A história de Bill Gates é um lembrete do poder da inovação e da visão em moldar o futuro, assim como da responsabilidade dos indivíduos afortunados em contribuir para o bem-estar global. Seu legado na tecnologia é indiscutível, mas seu impacto como filantropo continua a crescer, inspirando futuras gerações a perseguir soluções para os desafios globais. “Seu cliente mais insatisfeito é sua maior fonte de aprendizado.” Uma perspectiva que Bill Gates compartilha, destacando a importância de ouvir feedback crítico para impulsionar o empreendedorismo e inovação, garantindo que nossas soluções tecnológicas atendam às necessidades da sociedade e contribuam para a sustentabilidade ambiental.
+
+#### Declaração Sintética | Oração de Impacto
+
+**Acreditamos que grandes transformações surgem quando visão de futuro, conhecimento tecnológico e capacidade empresarial encontram condições para produzir resultados em escala. Inspirados pela trajetória de Bill Gates, queremos desenvolver soluções capazes de ampliar oportunidades, democratizar o acesso às tecnologias e transformar inovação em benefícios concretos. Na IMTS, compreendemos que a prosperidade ganha significado mais profundo quando é acompanhada de responsabilidade, aprendizagem contínua e compromisso com desafios relevantes para a sociedade.**
+
+#### Desenvolvimento Narrativo
+
+**A visão de um futuro transformado pelo software**
+
+Acreditamos que grandes oportunidades surgem quando pessoas conseguem reconhecer transformações antes que elas se tornem evidentes para a maioria.
+
+A trajetória de Bill Gates representa uma referência importante dessa capacidade.
+
+Nascido em 1955, em Seattle, Gates desenvolveu interesse pela programação de computadores ainda durante a adolescência.
+
+Em um período no qual a computação permanecia distante da realidade cotidiana de grande parte da população, reconheceu possibilidades relacionadas à expansão dos computadores pessoais.
+
+Sua visão empresarial contribuiu para transformar o software em um componente fundamental da evolução tecnológica.
+
+Na IMTS, queremos cultivar a capacidade de compreender tendências, reconhecer oportunidades e desenvolver competências alinhadas às transformações dos mercados.
+
+Acreditamos que visão de futuro precisa ser acompanhada de conhecimento e capacidade de realização.
+
+**A construção da Microsoft e a capacidade de empreender**
+
+Em 1975, Bill Gates e Paul Allen fundaram a Microsoft, iniciando uma trajetória empresarial que teria influência significativa sobre a indústria de software.
+
+A empresa desenvolveu soluções destinadas a acompanhar a expansão do mercado de computadores pessoais.
+
+A parceria com a IBM, no início dos anos 1980, representou um marco importante na consolidação de sua presença nesse mercado.
+
+Reconhecemos que essa trajetória demonstra como uma oportunidade tecnológica pode ser transformada em um empreendimento de grande escala.
+
+Entretanto, compreendemos que o crescimento empresarial não depende apenas de uma boa ideia.
+
+Ele exige desenvolvimento de produtos, compreensão de mercados, capacidade de negociação, organização de recursos e decisões estratégicas.
+
+Na IMTS, queremos aprender com a importância de combinar competências técnicas e empresariais para transformar oportunidades em realizações sustentáveis.
+
+**O software como plataforma de transformação**
+
+A expansão dos computadores pessoais criou novas possibilidades de utilização da tecnologia por empresas e indivíduos.
+
+Sob a liderança de Gates, a Microsoft desenvolveu produtos que contribuíram para tornar o software parte fundamental das atividades profissionais e pessoais.
+
+O Windows tornou-se uma das principais referências dessa transformação.
+
+Acreditamos que essa trajetória demonstra a importância de desenvolver soluções capazes de alcançar diferentes públicos e aplicações.
+
+Uma tecnologia pode produzir impacto relevante quando encontra condições para ser utilizada em escala e integrar-se às necessidades de diferentes ambientes.
+
+Na IMTS, queremos desenvolver competências que permitam construir soluções reutilizáveis, adaptáveis e capazes de atender a desafios concretos.
+
+Reconhecemos que escala precisa ser acompanhada de qualidade, segurança e capacidade de sustentação.
+
+Nossa intenção é combinar inovação e eficiência para desenvolver empreendimentos que possam crescer de maneira responsável.
+
+**A importância da estratégia e dos modelos de negócio**
+
+A trajetória empresarial de Gates também demonstra a relevância das decisões relacionadas à distribuição, ao licenciamento e à organização dos modelos de negócio.
+
+Reconhecemos que uma tecnologia promissora não se transforma automaticamente em um empreendimento sustentável.
+
+É necessário compreender como o valor será produzido, entregue e reconhecido pelos mercados.
+
+Na IMTS, queremos desenvolver uma visão empresarial capaz de integrar tecnologia, estratégia e execução.
+
+Acreditamos que modelos de negócio bem estruturados podem ampliar o alcance das soluções e fortalecer sua continuidade.
+
+Entretanto, reconhecemos que práticas empresariais também precisam ser avaliadas quanto às suas consequências concorrenciais, institucionais e sociais.
+
+Não buscamos reproduzir indiscriminadamente todas as decisões de empresas ou empreendedores que alcançaram grande escala.
+
+Queremos compreender seus ensinamentos e desenvolver caminhos coerentes com nossos valores e responsabilidades.
+
+**A aprendizagem como instrumento de evolução**
+
+Uma das características associadas à trajetória de Gates é o interesse contínuo pelo conhecimento.
+
+Sua atuação empresarial e suas atividades posteriores envolveram o estudo de diferentes tecnologias, mercados e desafios globais.
+
+Acreditamos que essa disposição para aprender representa uma capacidade importante para organizações que desejam permanecer relevantes.
+
+Na IMTS, queremos cultivar a curiosidade, a análise crítica e o desenvolvimento contínuo de competências.
+
+Reconhecemos que conhecimentos e soluções precisam ser atualizados à medida que novas informações e necessidades surgem.
+
+Nossa intenção é construir uma organização capaz de aprender com experiências, compreender resultados e adaptar suas decisões.
+
+Acreditamos que o conhecimento se transforma em valor quando contribui para melhorar nossa capacidade de compreender problemas e desenvolver soluções.
+
+**Do empreendedorismo tecnológico à filantropia**
+
+Após reduzir sua participação na gestão cotidiana da Microsoft, Gates passou a dedicar parte significativa de sua atuação a iniciativas filantrópicas.
+
+A Fundação Gates tornou-se uma referência internacional em programas relacionados à saúde, ao desenvolvimento e à educação.
+
+Reconhecemos que essa transição representa uma dimensão importante de sua trajetória.
+
+Ela demonstra como recursos, conhecimentos e capacidades organizacionais podem ser mobilizados para enfrentar desafios sociais de grande escala.
+
+Entretanto, compreendemos que a filantropia também exige transparência, avaliação de resultados e responsabilidade pelas consequências de suas iniciativas.
+
+Na IMTS, queremos aprender com a importância de conectar capacidade de realização e compromisso com impacto positivo.
+
+Acreditamos que prosperidade econômica pode criar oportunidades para desenvolver iniciativas que contribuam para melhorar condições de vida.
+
+**Tecnologia, educação e saúde como campos de impacto**
+
+A atuação filantrópica associada a Gates contempla desafios relacionados à saúde global, à educação e ao desenvolvimento.
+
+Esses campos exigem conhecimentos especializados, recursos e colaboração entre diferentes organizações.
+
+Acreditamos que essa abordagem oferece uma reflexão importante sobre a necessidade de enfrentar problemas complexos de maneira integrada.
+
+Na IMTS, reunimos competências tecnológicas que podem encontrar aplicações em diferentes atividades econômicas e sociais.
+
+Queremos compreender onde essas capacidades podem contribuir para ampliar oportunidades, melhorar processos e fortalecer organizações.
+
+Reconhecemos que tecnologias não substituem automaticamente políticas públicas, profissionais especializados ou estruturas institucionais.
+
+Elas podem contribuir para melhorar resultados quando são aplicadas com responsabilidade e compreensão das necessidades reais.
+
+Nossa intenção é desenvolver soluções economicamente sustentáveis e capazes de produzir benefícios concretos.
+
+**A responsabilidade de aprender com o sucesso e o fracasso**
+
+A trajetória de Gates também oferece reflexões sobre a relação entre aprendizagem e resultados.
+
+Reconhecemos que empreendimentos enfrentam dificuldades, decisões equivocadas e transformações que exigem adaptação.
+
+Acreditamos que o sucesso não deve eliminar nossa disposição para questionar práticas e reconhecer limitações.
+
+Da mesma maneira, experiências que não produzem os resultados esperados podem oferecer conhecimentos importantes.
+
+Na IMTS, queremos desenvolver uma cultura na qual erros sejam analisados com responsabilidade e utilizados para melhorar processos e decisões.
+
+Não desejamos confundir aprendizagem com ausência de consequências.
+
+Queremos construir mecanismos capazes de reconhecer problemas, corrigir caminhos e fortalecer nossas capacidades.
+
+Acreditamos que organizações evoluem quando conseguem transformar experiências em conhecimentos aplicáveis.
+
+**O cliente como fonte de conhecimento**
+
+Uma das ideias frequentemente associadas a Bill Gates destaca a importância de compreender a insatisfação dos clientes.
+
+Acreditamos que críticas e dificuldades relatadas por usuários podem revelar oportunidades relevantes de melhoria.
+
+Na IMTS, queremos desenvolver relacionamentos nos quais a escuta seja parte fundamental da construção de valor.
+
+Reconhecemos que soluções tecnológicas precisam ser avaliadas a partir de sua utilização real e dos resultados que produzem.
+
+Não basta considerar que uma entrega está concluída apenas porque suas funcionalidades foram desenvolvidas.
+
+É necessário compreender se ela atende às necessidades dos públicos, se oferece uma experiência adequada e se produz os benefícios esperados.
+
+Nossa intenção é utilizar conhecimentos obtidos nas relações com clientes para orientar melhorias, fortalecer produtos e desenvolver novas oportunidades.
+
+**O legado de Bill Gates para a IMTS**
+
+Não buscamos reproduzir a trajetória empresarial de Bill Gates ou transformar seu modelo de negócios em uma referência obrigatória para nossas operações.
+
+Nossa intenção é compreender os princípios que podem contribuir para nossa cultura e estratégia.
+
+A visão de futuro.
+
+A capacidade de transformar conhecimento técnico em empreendimentos.
+
+A importância de desenvolver soluções escaláveis.
+
+A integração entre tecnologia e estratégia empresarial.
+
+A aprendizagem contínua.
+
+A disposição para compreender necessidades dos clientes.
+
+E a possibilidade de mobilizar capacidades e recursos para enfrentar desafios sociais relevantes.
+
+Queremos que esses ensinamentos encontrem expressão na maneira como desenvolvemos nossas células tecnológicas, construímos soluções e organizamos nossos empreendimentos.
+
+Acreditamos que a prosperidade empresarial precisa ser acompanhada de responsabilidade e compromisso com resultados sustentáveis.
+
+Que o conhecimento deve ser transformado em capacidades de realização.
+
+E que a inovação alcança seu verdadeiro significado quando contribui para ampliar oportunidades e produzir benefícios duradouros.
+
+É dessa maneira que Bill Gates integra nossas referências inspiradoras: como uma trajetória que nos convida a combinar visão tecnológica, capacidade empresarial, aprendizagem e compromisso com impacto positivo.
