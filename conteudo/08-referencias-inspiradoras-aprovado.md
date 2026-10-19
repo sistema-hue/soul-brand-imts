@@ -987,3 +987,169 @@ Que a criatividade precisa caminhar ao lado da competência técnica.
 E que a imaginação alcança seu verdadeiro potencial quando encontra condições para produzir benefícios concretos.
 
 É dessa maneira que Leonardo da Vinci integra nossas referências inspiradoras: como uma trajetória que nos convida a aprender sem fronteiras, conectar conhecimentos e transformar curiosidade em inovação orientada à realização e ao desenvolvimento humano.
+
+### 08.7 | Marie Curie
+
+#### Texto original integral
+
+(A Pioneira da Radioatividade) A história de Marie Curie, uma pioneira no campo da ciência, não apenas quebrou barreiras para as mulheres na ciência, mas também mudou a maneira como o mundo entende a radioatividade, deixando um legado duradouro na medicina, física e química. • Perfil: Física e química polonesa-francesa, notável por seu trabalho pioneiro em radioatividade, primeira mulher a ganhar um Prêmio Nobel e única a ganhar em duas ciências diferentes. • Síntese: Superou barreiras de gênero na ciência, conduzindo pesquisas que levaram à descoberta do polônio e do rádio. • Realizações: Ganhou o Prêmio Nobel de Física (1903) e de Química (1911), contribuiu para o desenvolvimento de raios-X médicos e tratamentos para o câncer.
+
+História Nascida em Varsóvia, Polônia, em 1867, como Maria Skłodowska, Marie Curie mudou-se para Paris para continuar seus estudos na Universidade de Paris (Sorbonne), onde se destacou em física e matemática. Sua pesquisa pioneira, juntamente com seu marido Pierre Curie, sobre a radioatividade (um termo que ela cunhou), levou à descoberta de dois elementos químicos, o polônio e o rádio. Suas descobertas abriram novos caminhos para o tratamento do câncer através da radioterapia. Marie Curie é notavelmente a primeira mulher a ganhar um Prêmio Nobel e a única pessoa a receber o prêmio em duas ciências diferentes: Física (1903, compartilhado com Pierre Curie e Henri Becquerel) e Química (1911, sozinha, pela descoberta do rádio e do polônio). Apesar de enfrentar o preconceito de gênero ao longo de sua carreira, ela permaneceu dedicada à pesquisa científica e ao ensino, tornando-se a primeira mulher professora na Sorbonne.
+
+Para explorar mais Filme/Série/Documentário: “Radioactive” (2019) - Dirigido por Marjane Satrapi, este filme biográfico estrelado por Rosamund Pike retrata a vida extraordinária de Marie Curie, enfocando suas descobertas científicas e o impacto destas na sociedade.
+
+Livro: “Marie Curie: A Life” por Susan Quinn - Uma biografia detalhada que oferece um olhar profundo sobre a vida pessoal e as realizações científicas de Curie, destacando sua determinação inabalável e contribuições pioneiras para a ciência. Recursos Adicionais Para aqueles inspirados pela determinação e contribuições científicas de Marie Curie e desejando se aprofundar em sua história, os seguintes recursos são recomendados: Documentários: “Marie Curie: The Woman Who Lit up the World” (2016) explora sua vida, trabalho e legado, disponível em várias plataformas de streaming. Exposições e Museus: O Panthéon em Paris, onde Marie Curie está enterrada, reconhecendo suas realizações. O Museu Curie, localizado em seu antigo laboratório em Paris, é dedicado à história da pesquisa radiológica. Artigos e Sites: A UNESCO e outras organizações científicas frequentemente publicam artigos celebrando suas realizações e seu impacto na ciência e na medicina. Frases Inspiradoras “Nada na vida deve ser temido, apenas compreendido. Agora é a hora de entender mais, para que possamos temer menos.” “Eu fui ensinada que o caminho do progresso não era rápido nem fácil.” Marie Curie superou obstáculos significativos em sua vida pessoal e profissional, dedicando-se à ciência com uma paixão que mudou o mundo. Sua história continua a inspirar cientistas, especialmente mulheres na ciência, a perseguir suas pesquisas com coragem e determinação. “Seja menos curioso sobre as pessoas e mais curioso sobre as ideias.” Inspirando uma mentalidade que poderia ter sido incentivada por Marie Curie, encorajando empreendedores a mergulhar profundamente nas ideias inovadoras que podem resolver desafios sociais e ambientais, alimentando um ecossistema de negócios onde o conhecimento é a chave para o desenvolvimento sustentável.
+
+#### Declaração Sintética | Oração de Impacto
+
+**Acreditamos que o conhecimento transforma o mundo quando encontra coragem para questionar o desconhecido, disciplina para investigar e perseverança para superar obstáculos. Inspirados pela trajetória de Marie Curie, queremos cultivar a curiosidade científica, a integridade intelectual e o compromisso com descobertas capazes de beneficiar a humanidade. Na IMTS, buscamos transformar investigação em conhecimento, conhecimento em inovação e inovação em realizações responsáveis, reconhecendo que o verdadeiro progresso exige competência, dedicação e consciência de suas consequências.**
+
+#### Desenvolvimento Narrativo
+
+**A coragem de explorar o desconhecido**
+
+Acreditamos que grandes transformações começam quando pessoas encontram coragem para investigar aquilo que ainda não compreendem.
+
+A trajetória de Marie Curie representa uma referência extraordinária dessa disposição.
+
+Nascida em 1867, em Varsóvia, na Polônia, Maria Skłodowska desenvolveu sua formação em um contexto no qual mulheres enfrentavam importantes restrições de acesso às oportunidades acadêmicas e científicas.
+
+Sua busca pelo conhecimento a conduziu a Paris, onde aprofundou seus estudos em física e matemática.
+
+Reconhecemos que sua história demonstra a importância da curiosidade, da disciplina e da determinação diante de obstáculos.
+
+Na IMTS, queremos cultivar uma cultura na qual perguntas sejam valorizadas e o desconhecido represente uma oportunidade de aprendizagem.
+
+Acreditamos que a inovação exige disposição para investigar problemas, questionar explicações estabelecidas e desenvolver conhecimentos fundamentados em evidências.
+
+**A ciência como compromisso com a descoberta**
+
+Marie Curie desenvolveu pesquisas que contribuíram decisivamente para a compreensão da radioatividade.
+
+Seu trabalho, realizado em colaboração com Pierre Curie e outros pesquisadores, ampliou os conhecimentos científicos sobre fenômenos que ainda eram pouco compreendidos.
+
+A descoberta do polônio e do rádio representou um marco importante na história da física e da química.
+
+Acreditamos que essa trajetória oferece uma reflexão sobre a importância da investigação sistemática.
+
+Descobertas relevantes raramente resultam apenas de uma inspiração momentânea.
+
+Elas exigem observação, experimentação, análise e disposição para revisar interpretações diante de novas evidências.
+
+Na IMTS, queremos desenvolver uma mentalidade orientada ao conhecimento e à validação das soluções que construímos.
+
+Reconhecemos que a criatividade precisa caminhar ao lado do rigor técnico e da responsabilidade intelectual.
+
+**A perseverança diante das barreiras**
+
+A trajetória acadêmica e profissional de Marie Curie foi marcada por desafios relacionados às desigualdades de gênero presentes em seu tempo.
+
+Apesar dessas limitações, ela desenvolveu uma carreira científica de extraordinária relevância.
+
+Sua história nos lembra que talento e capacidade não dependem das oportunidades que uma sociedade decide oferecer a determinadas pessoas.
+
+Reconhecemos que barreiras institucionais e culturais podem impedir o desenvolvimento de competências e restringir contribuições importantes.
+
+Na IMTS, queremos construir um ambiente no qual pessoas encontrem oportunidades de participar, aprender e desenvolver suas capacidades com respeito e dignidade.
+
+Acreditamos que a diversidade de experiências e perspectivas pode fortalecer a inovação e ampliar nossa compreensão dos problemas.
+
+Nossa intenção é reconhecer contribuições pelo seu valor, preservando relações fundamentadas na integridade e na responsabilidade.
+
+**O reconhecimento de uma contribuição extraordinária**
+
+Em 1903, Marie Curie recebeu o Prêmio Nobel de Física, compartilhado com Pierre Curie e Henri Becquerel.
+
+Em 1911, recebeu o Prêmio Nobel de Química por suas contribuições ao estudo do rádio e do polônio.
+
+Essas conquistas consolidaram sua posição na história da ciência.
+
+Reconhecemos que os prêmios representam o reconhecimento de contribuições desenvolvidas por meio de anos de pesquisa, dedicação e aprendizagem.
+
+Na IMTS, acreditamos que resultados relevantes exigem consistência entre objetivos e capacidade de execução.
+
+Entretanto, compreendemos que reconhecimento externo não deve constituir a única medida de valor de uma realização.
+
+Queremos desenvolver competências e soluções cuja relevância também possa ser observada nos benefícios que produzem.
+
+A excelência precisa encontrar expressão na qualidade do trabalho, na confiabilidade dos resultados e na contribuição efetiva para aqueles que deles dependem.
+
+**A transformação do conhecimento em benefícios humanos**
+
+As pesquisas sobre radioatividade abriram caminhos para aplicações científicas e médicas de grande relevância.
+
+Marie Curie também contribuiu para iniciativas relacionadas à utilização de equipamentos de raios X durante a Primeira Guerra Mundial.
+
+Acreditamos que essa dimensão de sua trajetória demonstra como o conhecimento pode encontrar aplicações práticas capazes de beneficiar pessoas.
+
+Entretanto, reconhecemos que a transformação de descobertas em tecnologias exige compreensão de seus riscos, limites e consequências.
+
+Na IMTS, queremos desenvolver soluções que aproximem conhecimento científico, engenharia e necessidades humanas.
+
+Nossa intenção é transformar competências em realizações relevantes, respeitando as condições necessárias para sua utilização responsável.
+
+Acreditamos que o valor de uma inovação deve considerar não apenas sua capacidade técnica, mas também os efeitos que produz sobre a sociedade.
+
+**O progresso e a responsabilidade pelas consequências**
+
+A história da radioatividade demonstra que descobertas científicas podem abrir possibilidades importantes e, ao mesmo tempo, revelar riscos que não eram plenamente compreendidos no momento de sua investigação.
+
+Marie Curie desenvolveu parte significativa de suas pesquisas em uma época na qual os perigos da exposição à radiação ainda estavam sendo descobertos.
+
+Sua trajetória nos convida a refletir sobre a relação entre progresso, conhecimento e responsabilidade.
+
+Acreditamos que inovar não significa ignorar incertezas ou presumir que toda aplicação tecnológica produzirá benefícios.
+
+É necessário investigar, avaliar riscos e desenvolver condições adequadas de segurança.
+
+Na IMTS, queremos cultivar uma cultura de inovação responsável, na qual decisões sejam fundamentadas em evidências e consequências sejam consideradas de maneira proporcional.
+
+Reconhecemos que a evolução tecnológica exige aprendizagem contínua e disposição para revisar práticas diante de novos conhecimentos.
+
+**A integridade intelectual como fundamento da inovação**
+
+A trajetória de Marie Curie representa uma referência importante de dedicação à investigação científica.
+
+Acreditamos que a busca pelo conhecimento exige compromisso com a verdade, rigor na análise e disposição para reconhecer limitações.
+
+Na IMTS, queremos desenvolver uma cultura na qual hipóteses sejam diferenciadas de fatos comprovados e resultados sejam apresentados com transparência.
+
+Reconhecemos que a inovação empresarial também depende dessa integridade intelectual.
+
+Projetos precisam ser avaliados, soluções precisam ser testadas e decisões precisam considerar as evidências disponíveis.
+
+Não desejamos confundir expectativas com realizações ou apresentar possibilidades como resultados já alcançados.
+
+Nossa intenção é construir uma organização capaz de aprender com experiências, corrigir caminhos e fortalecer continuamente suas competências.
+
+Acreditamos que a confiança se desenvolve quando existe coerência entre aquilo que afirmamos e aquilo que podemos demonstrar.
+
+**O legado de Marie Curie para a IMTS**
+
+Não buscamos reproduzir a trajetória científica de Marie Curie ou transformar suas conquistas em exigências individuais para os integrantes de nosso ecossistema.
+
+Nossa intenção é compreender os princípios que podem contribuir para nossa cultura.
+
+A curiosidade diante do desconhecido.
+
+A disciplina necessária para investigar problemas.
+
+A perseverança diante de obstáculos.
+
+O compromisso com o rigor e a integridade intelectual.
+
+A valorização das oportunidades de desenvolvimento humano.
+
+A capacidade de transformar conhecimento em aplicações relevantes.
+
+E a responsabilidade de considerar os efeitos das tecnologias que desenvolvemos.
+
+Queremos que esses princípios estejam presentes na maneira como organizamos nossas competências, conduzimos projetos e construímos soluções.
+
+Acreditamos que o conhecimento representa uma das bases fundamentais da inovação, mas precisa ser acompanhado de propósito e capacidade de realização.
+
+Que a excelência exige dedicação, aprendizagem e responsabilidade.
+
+E que o progresso somente encontra seu verdadeiro significado quando contribui para ampliar possibilidades e produzir benefícios duradouros.
+
+É dessa maneira que Marie Curie integra nossas referências inspiradoras: como uma trajetória que nos convida a investigar com coragem, aprender com rigor e transformar conhecimento em inovação responsável e impacto positivo.
