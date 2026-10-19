@@ -2323,3 +2323,119 @@ Reconhecemos que a inovação sustentável exige a participação de diferentes 
 Queremos que a IMTS seja um ambiente de conexão entre esses agentes, favorecendo o desenvolvimento de soluções, empreendimentos e oportunidades.
 
 É dessa maneira que compreendemos nosso público-alvo: pessoas e organizações que encontram na inovação, na colaboração e na sustentabilidade caminhos para alcançar seus objetivos e contribuir para a construção de um futuro mais próspero e responsável.
+
+### 07.9 | Análise da Concorrência
+
+#### Texto original integral
+
+Os principais concorrentes da IMTS são outras plataformas e ecossistemas de inovação que oferecem soluções tecnológicas inovadoras e apoio a empreendedores.
+
+No entanto, a IMTS se diferencia pela:
+
+Ênfase em Sustentabilidade: Enquanto muitos focam em inovação tecnológica, a IMTS integra sustentabilidade como um pilar central, atraindo clientes que valorizam esse diferencial aliado à inovação tecnológica em produtos e serviços.
+
+Comunidade Forte e Apoio Colaborativo: Além de oferecer soluções, a IMTS cria uma comunidade de suporte mútuo, onde membros podem colaborar, compartilhar recursos e conhecimentos.
+
+Compromisso com Impacto Social: A IMTS não só busca o sucesso comercial, mas também mede seu sucesso pelo impacto positivo na sociedade e no meio ambiente.
+
+#### Declaração Sintética | Oração de Impacto
+
+**Reconhecemos a concorrência como uma força que desafia nossas capacidades e estimula nossa evolução. Na IMTS, não buscamos diferenciação apenas pelo que oferecemos, mas pela maneira como integramos inovação, sustentabilidade, colaboração e impacto positivo. Nossa ambição é construir vantagens competitivas legítimas, sustentadas pela excelência, pela confiança e pela capacidade de gerar valor duradouro para os mercados e para a sociedade.**
+
+#### Desenvolvimento Narrativo
+
+Acreditamos que compreender o ambiente competitivo é fundamental para construir empreendimentos relevantes e desenvolver estratégias capazes de sustentar sua evolução.
+
+A concorrência faz parte da dinâmica dos mercados. Ela estimula a inovação, amplia alternativas para os clientes e desafia as organizações a melhorar continuamente suas capacidades.
+
+Na IMTS, não compreendemos nossos concorrentes apenas como organizações que disputam oportunidades comerciais.
+
+Reconhecemos que diferentes empresas, plataformas e ecossistemas de inovação podem desenvolver competências semelhantes às nossas, atender públicos comuns ou apresentar propostas de valor alternativas.
+
+Por isso, buscamos compreender suas características, reconhecer suas capacidades e identificar os elementos que podem contribuir para diferenciar nossa atuação.
+
+Nossa intenção não é construir uma identidade competitiva fundamentada na desvalorização de outras organizações.
+
+Queremos desenvolver vantagens legítimas, associadas à qualidade de nossas entregas, à consistência de nossos relacionamentos e à capacidade de transformar oportunidades em resultados.
+
+O Soul Brand identifica três dimensões fundamentais de diferenciação.
+
+**Ênfase em Sustentabilidade**
+
+Acreditamos que a sustentabilidade deve fazer parte da maneira como concebemos, desenvolvemos e conduzimos nossos empreendimentos.
+
+Reconhecemos que a inovação tecnológica pode produzir transformações relevantes, mas também precisa considerar suas consequências econômicas, sociais e ambientais.
+
+Por isso, buscamos integrar a sustentabilidade às nossas decisões empresariais, compreendendo-a como uma condição importante para a continuidade e a geração de valor.
+
+Queremos construir negócios capazes de crescer, adaptar-se aos mercados e preservar relações responsáveis com pessoas, organizações e recursos.
+
+A sustentabilidade não deve ser tratada apenas como um atributo de comunicação ou uma característica adicional de nossos produtos e serviços.
+
+Desejamos que ela esteja presente na escolha de oportunidades, na organização das operações e na avaliação dos resultados alcançados.
+
+Reconhecemos que outras organizações também podem compartilhar esse compromisso. Nossa diferenciação dependerá da capacidade de transformá-lo em práticas consistentes e benefícios demonstráveis.
+
+**Comunidade Forte e Apoio Colaborativo**
+
+Acreditamos que a colaboração pode ampliar significativamente a capacidade de realização de pessoas e organizações.
+
+Nossa natureza como ecossistema empresarial nasce da intenção de reunir competências, experiências, tecnologias e oportunidades que possam fortalecer diferentes empreendimentos.
+
+Queremos desenvolver um ambiente no qual empresas e participantes encontrem possibilidades de compartilhar conhecimentos, construir relacionamentos e desenvolver iniciativas conjuntas.
+
+Reconhecemos que a colaboração não acontece automaticamente pela simples existência de uma estrutura comum.
+
+Ela exige confiança, clareza de responsabilidades, respeito aos interesses legítimos e disposição para construir benefícios compartilhados.
+
+Nossa intenção é desenvolver relações que favoreçam a complementaridade entre operações e permitam mobilizar capacidades de maneira integrada.
+
+Acreditamos que essa característica pode contribuir para enfrentar desafios complexos, ampliar oportunidades e fortalecer a sustentabilidade dos negócios.
+
+Queremos que a força de nossa comunidade seja reconhecida pela qualidade das relações que construímos e pelos resultados que conseguimos realizar coletivamente.
+
+**Compromisso com Impacto Social**
+
+Acreditamos que a atividade empresarial pode contribuir para produzir benefícios que ultrapassem seus resultados econômicos imediatos.
+
+O impacto positivo representa uma dimensão importante de nosso propósito e de nossa identidade competitiva.
+
+Queremos desenvolver empreendimentos e soluções capazes de melhorar processos, ampliar oportunidades, fortalecer organizações e contribuir para a qualidade de vida das pessoas.
+
+Reconhecemos que esse compromisso exige mais do que boas intenções.
+
+É necessário compreender quais transformações buscamos produzir, acompanhar seus resultados e reconhecer os efeitos reais de nossas atividades.
+
+Nossa intenção é conciliar prosperidade empresarial com responsabilidade social e ambiental, desenvolvendo iniciativas economicamente viáveis e comprometidas com a geração de valor.
+
+Acreditamos que essa orientação pode fortalecer relacionamentos com clientes, parceiros, investidores e organizações que compartilham princípios semelhantes.
+
+Entretanto, não queremos presumir que nosso compromisso seja exclusivo ou superior ao de outras empresas.
+
+Desejamos demonstrar sua relevância por meio de nossas escolhas, realizações e resultados.
+
+**A construção de vantagens competitivas sustentáveis**
+
+Não compreendemos nossa diferenciação como uma condição permanente ou garantida.
+
+Os mercados evoluem, as tecnologias se transformam e outras organizações desenvolvem continuamente novas capacidades.
+
+Por isso, acreditamos que a competitividade exige aprendizagem, adaptação e disposição para melhorar.
+
+Queremos compreender o ambiente concorrencial sem perder de vista nossa própria identidade.
+
+A análise da concorrência deve contribuir para reconhecer tendências, identificar oportunidades, avaliar riscos e orientar decisões estratégicas.
+
+Reconhecemos que diferentes concorrentes podem apresentar vantagens em determinadas tecnologias, mercados ou modelos de negócio.
+
+Nossa responsabilidade é compreender essas diferenças e desenvolver capacidades coerentes com nossos objetivos.
+
+Acreditamos que a integração entre inovação, sustentabilidade, colaboração e impacto positivo pode constituir uma base relevante para nossa diferenciação.
+
+Entretanto, essa combinação somente produzirá vantagem competitiva quando estiver acompanhada de competência técnica, eficiência operacional, qualidade das entregas e resultados reconhecidos pelos públicos que atendemos.
+
+Não queremos competir apenas por promessas, discursos ou percepções.
+
+Desejamos construir uma posição competitiva sustentada por capacidades reais, relacionamentos consistentes e valor demonstrável.
+
+É dessa maneira que compreendemos nossa relação com a concorrência: uma oportunidade permanente de aprendizagem e evolução, na qual buscamos desenvolver uma identidade própria e contribuir para mercados mais inovadores, responsáveis e sustentáveis.
