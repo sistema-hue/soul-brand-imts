@@ -366,3 +366,182 @@ Nossa atuação precisa considerar relevância, viabilidade, potencial de geraç
 Acreditamos que uma segmentação bem compreendida nos permite combinar especialização e escala, proximidade e eficiência, diversidade de mercados e coerência institucional.
 
 É dessa maneira que buscamos transformar o conhecimento sobre nossos públicos em vantagem competitiva: compreendendo diferentes realidades para desenvolver soluções relevantes, construir relações de confiança e ampliar nossa capacidade de gerar resultados sustentáveis.
+
+### 07.4 | Verticalização
+
+#### Texto original integral
+
+Atuamos com tecnologias, inovações e cases de sucesso verticalizadas.
+
+Finanças
+Saúde
+Educação
+Utilities
+Energia
+Justiça
+Facilities
+Segurança
+Meio Ambiente
+Governo
+
+#### Declaração Sintética | Oração de Impacto
+
+**Acreditamos que a tecnologia alcança seu verdadeiro potencial quando encontra os desafios concretos de cada atividade humana e econômica. Na IMTS, conectamos competências transversais ao conhecimento especializado dos mercados, transformando inovação em soluções relevantes para diferentes verticais. Nossa ambição é compreender profundamente cada realidade, desenvolver capacidades adequadas e contribuir para a evolução sustentável dos setores em que atuamos.**
+
+#### Desenvolvimento Narrativo
+
+Acreditamos que a inovação tecnológica produz resultados mais relevantes quando está conectada à compreensão dos ambientes nos quais será aplicada.
+
+Cada atividade econômica, institucional ou social possui características próprias, desafios específicos e responsabilidades que precisam ser considerados.
+
+Por isso, não desejamos limitar nossa atuação ao desenvolvimento de tecnologias genéricas, desconectadas das necessidades reais dos mercados.
+
+Buscamos compreender os diferentes setores de atividade, reconhecer suas particularidades e combinar esse conhecimento com as competências tecnológicas disponíveis em nosso ecossistema.
+
+Essa abordagem constitui nossa visão de verticalização.
+
+Ela representa a capacidade de desenvolver soluções, experiências e conhecimentos especializados para diferentes mercados, preservando a possibilidade de compartilhar tecnologias e competências entre eles.
+
+Nossa atuação contempla dez verticais.
+
+**Finanças**
+
+Reconhecemos que o setor financeiro desempenha um papel fundamental na organização da economia, na circulação de recursos e no desenvolvimento de oportunidades.
+
+Esse ambiente exige elevados padrões de confiança, segurança, eficiência e responsabilidade no tratamento das informações.
+
+Queremos desenvolver competências capazes de contribuir para a transformação digital de instituições e operações financeiras, considerando suas necessidades de integração, automação, inteligência analítica e proteção de dados.
+
+Acreditamos que a inovação pode contribuir para melhorar processos, ampliar a acessibilidade e fortalecer a qualidade dos serviços financeiros.
+
+Nossa atuação deve respeitar as particularidades regulatórias e operacionais desse mercado.
+
+**Saúde**
+
+Acreditamos que a tecnologia pode contribuir significativamente para melhorar a qualidade, a eficiência e a acessibilidade dos serviços de saúde.
+
+Reconhecemos que esse setor envolve responsabilidades humanas especialmente relevantes, pois suas atividades estão diretamente relacionadas ao cuidado, à segurança e ao bem-estar das pessoas.
+
+Buscamos compreender as necessidades de instituições, profissionais e organizações de saúde, desenvolvendo soluções que apoiem processos assistenciais, administrativos e de gestão.
+
+Queremos explorar oportunidades relacionadas à integração de informações, à automação responsável e à inteligência aplicada à melhoria dos serviços.
+
+Nossa atuação deve preservar a privacidade, a segurança das informações e o respeito às responsabilidades dos profissionais e das instituições.
+
+**Educação**
+
+Reconhecemos a educação como uma das principais forças de transformação individual e coletiva.
+
+Acreditamos que tecnologias e metodologias inovadoras podem ampliar oportunidades de aprendizagem, melhorar processos educacionais e apoiar o desenvolvimento de competências.
+
+Queremos compreender os desafios enfrentados por instituições de ensino, educadores, estudantes e organizações dedicadas à formação humana e profissional.
+
+Buscamos desenvolver soluções que contribuam para experiências educacionais mais acessíveis, relevantes e adaptáveis às diferentes necessidades.
+
+Nossa intenção é utilizar a tecnologia como instrumento de fortalecimento da aprendizagem, preservando a importância das relações humanas e da atuação dos educadores.
+
+**Utilities**
+
+Os serviços de utilidade pública desempenham funções essenciais para o funcionamento das cidades, das empresas e da sociedade.
+
+Reconhecemos que esses ambientes frequentemente exigem operações contínuas, infraestruturas complexas e capacidade de monitoramento e resposta.
+
+Queremos desenvolver conhecimentos e soluções que contribuam para melhorar a eficiência operacional, a gestão de ativos, o acompanhamento de serviços e a utilização responsável dos recursos.
+
+Acreditamos que tecnologias conectadas, inteligência analítica e automação podem apoiar a modernização dessas operações.
+
+Nossa atuação deve considerar a confiabilidade, a segurança e a continuidade dos serviços prestados à população.
+
+**Energia**
+
+A energia constitui uma das bases fundamentais para o desenvolvimento econômico e social.
+
+Reconhecemos que esse setor enfrenta desafios relacionados à eficiência, à segurança, à transformação tecnológica e à sustentabilidade.
+
+Buscamos compreender as necessidades de empresas e organizações que atuam na geração, transmissão, distribuição e utilização de energia.
+
+Queremos contribuir com competências tecnológicas capazes de apoiar a gestão de informações, o monitoramento de operações, a automação e a melhoria de processos.
+
+Acreditamos que a inovação pode fortalecer a capacidade de adaptação do setor e contribuir para uma utilização mais eficiente e responsável dos recursos energéticos.
+
+**Justiça**
+
+Acreditamos que o acesso à justiça, a eficiência institucional e a segurança das informações são elementos importantes para o fortalecimento da sociedade.
+
+Reconhecemos que organizações relacionadas ao sistema de justiça possuem responsabilidades específicas e processos que exigem confiabilidade, transparência e respeito aos direitos das pessoas.
+
+Queremos desenvolver conhecimentos e soluções que contribuam para aprimorar a gestão de informações, a organização de processos e a qualidade dos serviços institucionais.
+
+Buscamos compreender as particularidades desse ambiente e apoiar iniciativas de transformação digital compatíveis com suas exigências legais e operacionais.
+
+Nossa atuação deve preservar a integridade das informações e a autonomia das instituições responsáveis pela aplicação da justiça.
+
+**Facilities**
+
+Reconhecemos que a gestão de instalações, ambientes e serviços de apoio possui importância para a eficiência e a continuidade das operações empresariais e institucionais.
+
+Esse setor reúne atividades que exigem coordenação de recursos, acompanhamento de processos e capacidade de resposta às necessidades dos ambientes atendidos.
+
+Queremos explorar oportunidades de aplicação de tecnologias capazes de contribuir para a gestão de ativos, a automação de atividades e o monitoramento de serviços.
+
+Acreditamos que soluções adequadas podem melhorar a utilização de recursos, apoiar decisões operacionais e fortalecer a qualidade das entregas.
+
+Nossa intenção é contribuir para ambientes mais eficientes, seguros e bem administrados.
+
+**Segurança**
+
+A segurança representa uma necessidade fundamental para pessoas, organizações, patrimônios e atividades econômicas.
+
+Reconhecemos que esse setor envolve diferentes dimensões, incluindo prevenção, monitoramento, proteção e capacidade de resposta.
+
+Buscamos compreender suas necessidades e desenvolver competências tecnológicas que possam contribuir para melhorar a gestão de informações, a integração de sistemas e o acompanhamento de operações.
+
+Acreditamos que tecnologias conectadas e inteligência analítica podem apoiar iniciativas de segurança quando utilizadas com responsabilidade e critérios adequados.
+
+Nossa atuação deve respeitar os direitos individuais, a privacidade e os limites legais aplicáveis.
+
+**Meio Ambiente**
+
+Acreditamos que o desenvolvimento econômico precisa considerar a preservação ambiental e a utilização responsável dos recursos naturais.
+
+Reconhecemos que organizações públicas e privadas enfrentam desafios relacionados ao monitoramento ambiental, à gestão de recursos e à sustentabilidade de suas atividades.
+
+Queremos desenvolver conhecimentos e soluções que contribuam para compreender esses desafios e apoiar decisões fundamentadas em informações relevantes.
+
+Buscamos explorar aplicações de tecnologias conectadas, inteligência analítica e monitoramento territorial que possam contribuir para a gestão ambiental.
+
+Nossa intenção é aproximar inovação tecnológica e responsabilidade socioambiental, criando oportunidades de desenvolvimento sustentável.
+
+**Governo**
+
+Reconhecemos o papel das instituições governamentais na organização da sociedade, na prestação de serviços públicos e na promoção do desenvolvimento.
+
+Acreditamos que a transformação digital pode contribuir para fortalecer capacidades institucionais, melhorar processos e ampliar a qualidade dos serviços oferecidos aos cidadãos.
+
+Queremos compreender os desafios enfrentados por órgãos e entidades públicas, respeitando suas responsabilidades, estruturas e exigências legais.
+
+Buscamos desenvolver soluções que contribuam para a eficiência administrativa, a integração de informações, a transparência e a melhoria das experiências dos usuários dos serviços públicos.
+
+Nossa atuação deve considerar a responsabilidade na utilização dos recursos públicos e o compromisso com resultados que produzam benefícios concretos para a sociedade.
+
+**A verticalização como capacidade de especialização e integração**
+
+Não compreendemos nossas verticais como mercados completamente independentes ou estruturas que devam funcionar isoladamente.
+
+Elas representam campos de especialização nos quais podemos aplicar competências compartilhadas, desenvolver conhecimentos específicos e construir experiências relevantes.
+
+Uma mesma tecnologia pode encontrar aplicações em diferentes verticais, mas sua implementação precisa respeitar as características de cada ambiente.
+
+Da mesma maneira, desafios semelhantes podem surgir em setores distintos, criando oportunidades para compartilhar conhecimentos, adaptar soluções e ampliar nossa capacidade de realização.
+
+Queremos que a experiência acumulada em cada vertical contribua para fortalecer o conjunto do ecossistema.
+
+Reconhecemos que a especialização exige aprendizagem contínua, proximidade com os mercados e disposição para compreender problemas antes de propor soluções.
+
+Não desejamos utilizar a verticalização apenas como uma classificação comercial.
+
+Nossa intenção é desenvolver uma capacidade efetiva de compreender setores, reconhecer oportunidades e mobilizar competências adequadas para enfrentá-las.
+
+Acreditamos que a integração entre conhecimento setorial e capacidades tecnológicas constitui um diferencial importante para construir soluções relevantes e negócios sustentáveis.
+
+É dessa maneira que buscamos transformar nossa presença em diferentes verticais em uma força estratégica: aproximando tecnologia e conhecimento especializado para contribuir com a evolução dos mercados, o desenvolvimento dos empreendimentos e a geração de impacto positivo.
