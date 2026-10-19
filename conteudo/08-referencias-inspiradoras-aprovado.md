@@ -485,3 +485,157 @@ Queremos que esses princípios estejam presentes na maneira como desenvolvemos n
 Acreditamos que tecnologia e conhecimento podem contribuir para ampliar possibilidades, mas precisam ser orientados por responsabilidade e sensibilidade humana.
 
 É dessa maneira que Malala Yousafzai integra nossas referências inspiradoras: como uma trajetória que nos lembra que a coragem, a educação e a determinação podem abrir caminhos para transformações positivas e duradouras.
+
+### 08.4 | Madre Teresa
+
+#### Texto original integral
+
+(A Embaixadora do Amor e da Compaixão) A história de Madre Teresa, conhecida como Santa Teresa de Calcutá após sua canonização, ressoa com compaixão, dedicação aos pobres e um compromisso inabalável com o alívio do sofrimento humano. • Perfil: Freira católica e missionária, fundadora das Missionárias da Caridade, conhecida por seu trabalho de caridade e amor aos pobres e doentes. • Síntese: Iniciou sua missão em Calcutá, Índia, em 1950, dedicando sua vida a cuidar dos mais necessitados e marginalizados. • Realizações: Expansão das Missionárias da Caridade globalmente, recebendo o Nobel da Paz em 1979 por seu compromisso com o alívio do sofrimento humano.
+
+História Nascida em 1910 em Skopje, na atual Macedônia do Norte, Anjezë Gonxhe Bojaxhiu, mais tarde conhecida como Madre Teresa, sentiu cedo o chamado para servir aos pobres. Aos 18 anos, ela se juntou às Irmãs de Loreto na Irlanda, antes de ser enviada à Índia, onde dedicou o resto de sua vida ao serviço dos mais necessitados. Em 1950, ela fundou as Missionárias da Caridade em Calcutá, com a missão de cuidar dos “mais pobres entre os pobres”, que não tinham a quem recorrer. O trabalho de Madre Teresa e suas irmãs expandiu-se globalmente, tornando-se sinônimo de caridade e compaixão para com os doentes, órfãos e moribundos, independentemente de sua fé ou nacionalidade. Em reconhecimento ao seu trabalho incansável e ao impacto profundo de suas ações humanitárias, Madre Teresa foi laureada com o Prêmio Nobel da Paz em 1979. Ela continuou seu trabalho até sua morte em 1997, deixando um legado de amor incondicional e serviço aos outros.
+
+Para explorar mais Filme/Série/Documentário: “Mother Teresa of Calcutta” (2003) - Este filme oferece um retrato profundo da vida e do trabalho de Madre Teresa, desde o início de seu chamado até sua missão em Calcutá e seu impacto global.
+
+Livro: “Vem Ser Minha Luz: As Cartas Privadas da Santa do Calcutá” compiladas por Brian Kolodiejchuk - Esta coletânea de cartas revela os pensamentos íntimos e as lutas espirituais de Madre Teresa, oferecendo uma nova luz sobre sua fé inabalável e amor pelos mais pobres entre os pobres. Recursos Adicionais Para aqueles inspirados pela compaixão e dedicação de Madre Teresa aos menos afortunados e interessados em se aprofundar mais em sua vida e obra, os seguintes recursos são recomendados: Documentários: “The Letters” (2014), que retrata a vida de Madre Teresa através de suas cartas, revelando sua jornada espiritual e desafios. Sites e Artigos: O site oficial das Missionárias da Caridade (mcpriests.com) fornece informações sobre a continuação de seu trabalho e como apoiar suas missões. Biografias: Muitas biografias detalhadas foram escritas sobre Madre Teresa, destacando diferentes aspectos de seu trabalho e sua fé, proporcionando um panorama mais amplo de sua vida. Frases Inspiradoras “Nem todos nós podemos fazer grandes coisas. Mas podemos fazer pequenas coisas com grande amor.” “A paz começa com um sorriso.” A vida de Madre Teresa é um poderoso lembrete da força do amor e da compaixão na transformação de vidas. Seu exemplo continua a inspirar pessoas em todo o mundo a fazer a diferença nas vidas dos outros, um ato de bondade de cada vez. “O que importa não é o que você dá, mas o amor com que dá.” Madre Teresa nos lembra que a essência do empreendedorismo sustentável vai além dos produtos ou serviços oferecidos; é o coração e a intenção por trás de cada ação que transforma o mundo, incentivando inovações tecnológicas e empresariais que são profundamente enraizadas no cuidado com a sociedade e o meio ambiente.
+
+#### Declaração Sintética | Oração de Impacto
+
+**Acreditamos que a verdadeira grandeza não está apenas na dimensão das realizações, mas na capacidade de reconhecer a dignidade de cada pessoa e transformar cuidado em ação. Inspirados pela trajetória de Madre Teresa, queremos cultivar uma cultura de compaixão, serviço e responsabilidade humana. Na IMTS, compreendemos que inovação e prosperidade encontram significado mais profundo quando contribuem para aliviar dificuldades, ampliar oportunidades e produzir benefícios concretos para a sociedade.**
+
+#### Desenvolvimento Narrativo
+
+**A grandeza de reconhecer o valor de cada pessoa**
+
+Acreditamos que a dignidade humana deve ocupar uma posição central na maneira como organizações e pessoas compreendem suas responsabilidades.
+
+A trajetória de Madre Teresa representa uma referência importante de dedicação ao cuidado de indivíduos que enfrentavam pobreza, abandono e sofrimento.
+
+Nascida em 1910, em Skopje, Anjezë Gonxhe Bojaxhiu desenvolveu uma vocação religiosa que a conduziu à Índia, onde dedicaria grande parte de sua vida ao serviço dos mais vulneráveis.
+
+Sua história nos convida a refletir sobre a importância de reconhecer o valor das pessoas independentemente de sua condição econômica, origem ou circunstâncias de vida.
+
+Na IMTS, queremos compreender essa dimensão humana como parte de nosso compromisso com o impacto positivo.
+
+Acreditamos que organizações relevantes precisam reconhecer que suas atividades produzem consequências para pessoas reais, cujas necessidades e direitos merecem respeito.
+
+**Uma missão transformada em serviço**
+
+A fundação das Missionárias da Caridade, em 1950, representou a organização de uma missão dedicada ao atendimento de pessoas em situações de extrema vulnerabilidade.
+
+A iniciativa desenvolveu atividades de cuidado e assistência, ampliando sua presença ao longo dos anos.
+
+Reconhecemos que transformar uma convicção em uma atuação contínua exige dedicação, organização e capacidade de mobilizar pessoas.
+
+A trajetória de Madre Teresa demonstra como uma missão pode orientar escolhas e contribuir para reunir esforços em torno de necessidades humanas.
+
+Entretanto, compreendemos que o serviço ao próximo precisa estar acompanhado de responsabilidade, respeito e atenção à qualidade das condições oferecidas às pessoas atendidas.
+
+Na IMTS, queremos aprender com a importância de transformar propósito em ações concretas, preservando a dignidade e o bem-estar daqueles que se beneficiam de nossas iniciativas.
+
+**Compaixão como responsabilidade prática**
+
+Acreditamos que a compaixão ultrapassa o reconhecimento emocional do sofrimento de outras pessoas.
+
+Ela também pode representar a disposição de compreender necessidades e contribuir para enfrentá-las de maneira responsável.
+
+A trajetória de Madre Teresa nos convida a refletir sobre a importância de agir diante de realidades que frequentemente permanecem invisíveis ou negligenciadas.
+
+Reconhecemos que iniciativas de cuidado e assistência envolvem desafios complexos e exigem conhecimentos, recursos e práticas adequadas.
+
+Não desejamos compreender a compaixão como substituta da competência, da organização ou da responsabilidade.
+
+Queremos que ela contribua para orientar nossas escolhas, aproximando sensibilidade humana e capacidade de realização.
+
+Na IMTS, acreditamos que a inovação pode produzir benefícios relevantes quando está conectada à compreensão das dificuldades enfrentadas pelas pessoas.
+
+**O valor das pequenas realizações**
+
+Uma das mensagens mais conhecidas associadas a Madre Teresa está relacionada à importância dos pequenos gestos de cuidado.
+
+Acreditamos que transformações relevantes nem sempre começam com grandes estruturas, investimentos ou iniciativas de elevada complexidade.
+
+Muitas vezes, elas surgem da capacidade de reconhecer uma necessidade específica e agir de maneira consistente para enfrentá-la.
+
+Essa compreensão oferece uma reflexão importante para nossa cultura empresarial.
+
+Na IMTS, queremos desenvolver empreendimentos capazes de sonhar grande, mas também de valorizar a qualidade das pequenas entregas.
+
+Reconhecemos que a excelência se manifesta nos detalhes, na atenção às pessoas e na responsabilidade com os compromissos cotidianos.
+
+Acreditamos que resultados duradouros são construídos por meio de ações consistentes, realizadas com propósito e qualidade.
+
+**Serviço, liderança e responsabilidade humana**
+
+A trajetória de Madre Teresa também oferece uma perspectiva sobre liderança fundamentada no serviço.
+
+Sua atuação mobilizou pessoas e organizações em torno de uma missão compartilhada.
+
+Reconhecemos que liderar não significa apenas estabelecer direções ou coordenar atividades.
+
+Também envolve compreender necessidades, assumir responsabilidades e criar condições para que outras pessoas possam contribuir.
+
+Na IMTS, queremos cultivar uma liderança que combine competência, clareza de propósito e respeito humano.
+
+Acreditamos que a autoridade deve ser exercida com responsabilidade e não como instrumento de privilégio ou imposição pessoal.
+
+O compromisso com o serviço não elimina a importância dos resultados, da eficiência ou da sustentabilidade.
+
+Ele contribui para lembrar que esses resultados precisam ser alcançados por meios coerentes com nossos valores.
+
+**O reconhecimento internacional e a complexidade do legado**
+
+O Prêmio Nobel da Paz concedido a Madre Teresa, em 1979, representou o reconhecimento internacional de sua atuação humanitária.
+
+Sua trajetória tornou-se uma referência amplamente conhecida de dedicação aos pobres e às pessoas em sofrimento.
+
+Entretanto, reconhecemos que seu legado também é objeto de análises críticas relacionadas às condições de atendimento, aos métodos utilizados e às interpretações sobre sua atuação.
+
+Acreditamos que compreender referências inspiradoras exige disposição para reconhecer a complexidade de suas histórias.
+
+Não desejamos transformar personalidades em modelos perfeitos ou referências que não possam ser questionadas.
+
+Nossa intenção é identificar ensinamentos relevantes, preservando a capacidade de avaliar práticas e consequências com responsabilidade.
+
+Na IMTS, queremos que o compromisso com impacto positivo seja acompanhado de qualidade, transparência e atenção aos resultados efetivamente produzidos.
+
+**Inovação orientada às necessidades humanas**
+
+A trajetória de Madre Teresa nos convida a refletir sobre a relação entre propósito e necessidades humanas.
+
+Acreditamos que a inovação tecnológica pode contribuir para melhorar condições de vida, ampliar acesso a serviços e fortalecer capacidades de pessoas e organizações.
+
+Entretanto, reconhecemos que a existência de uma tecnologia não garante, por si só, a produção de benefícios sociais.
+
+É necessário compreender os problemas, respeitar os contextos e desenvolver soluções adequadas às condições reais de utilização.
+
+Na IMTS, queremos aproximar competências tecnológicas e sensibilidade humana.
+
+Desejamos que nossas iniciativas considerem não apenas sua viabilidade econômica, mas também a relevância dos benefícios que podem produzir.
+
+Nossa intenção é construir empreendimentos sustentáveis que contribuam para enfrentar necessidades concretas e ampliar oportunidades.
+
+**O legado de Madre Teresa para a IMTS**
+
+Não buscamos reproduzir a missão religiosa de Madre Teresa ou incorporar suas convicções confessionais como exigência de pertencimento ao ecossistema.
+
+Reconhecemos a natureza espiritual de sua trajetória e respeitamos a diversidade de crenças e perspectivas das pessoas que integram nossa organização.
+
+Nossa intenção é compreender os princípios humanos que podem contribuir para nossa cultura.
+
+O reconhecimento da dignidade de cada pessoa.
+
+A disposição para compreender necessidades.
+
+A importância de transformar propósito em serviço.
+
+O valor das pequenas realizações.
+
+A responsabilidade de agir com compaixão e competência.
+
+E a compreensão de que resultados verdadeiramente relevantes precisam considerar seus efeitos sobre a vida das pessoas.
+
+Queremos que esses ensinamentos encontrem expressão na maneira como desenvolvemos soluções, conduzimos empreendimentos e construímos relacionamentos.
+
+Acreditamos que a excelência empresarial pode caminhar ao lado da sensibilidade humana e do compromisso com a sociedade.
+
+É dessa maneira que Madre Teresa integra nossas referências inspiradoras: como uma trajetória que nos convida a reconhecer o valor das pessoas, transformar cuidado em ação e construir realizações orientadas por propósito, responsabilidade e impacto positivo.
