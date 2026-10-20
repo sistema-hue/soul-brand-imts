@@ -73,3 +73,13 @@ Este checkpoint posterior prevalece sobre as indicações antigas de "próximo 0
 4. Após aprovação, sincronizar o conteúdo nos três destinos, reler, verificar correspondência, informar commit final e imediatamente apresentar o próximo conteúdo para decisão.
 5. Não repetir textos, validações ou gravações já concluídos. Não alegar publicação sem evidência. Preservar textos históricos, conteúdo aprovado, referências e notas de integridade.
 6. Se uma operação for interrompida, verificar primeiro o estado real dos três destinos antes de refazer qualquer escrita.
+
+
+## Checkpoint operacional | 2026-10-20 | 08.13
+- **Fonte de verdade:** arquivos canônicos do projeto e estado verificado dos três destinos; o histórico da conversa não é armazenamento exclusivo.
+- **Estado confirmado por leitura:** 08.12 | Elon Musk consta no Markdown `conteudo/08-referencias-inspiradoras-aprovado.md`, na D.K.P. `dkp/SOUL_BRAND_DKP.md` e no HTML `index.html`. A seção 08.13 não consta como aprovada ou sincronizada.
+- **Próximo passo:** 08.13 | Mark Zuckerberg, apresentado em outra conversa para aprovação, mas sem aprovação confirmada neste checkpoint. Não sincronizar sem decisão editorial.
+- **Fluxo preferido:** continuar no mesmo Projeto Work, evitando abrir novos chats voluntariamente. Limites de duração da conversa são impostos pela plataforma e não podem ser removidos por arquivos ou Git.
+- **GitHub:** cópia versionada de contingência na branch padrão, sem solicitar criação manual de branches para cada seção. **Google Drive:** cópia adicional, com leitura e escrita em Google Docs testadas em 2026-10-20; upload dos arquivos MD/HTML/PDF e armazenamento na pasta-alvo ainda exigem validação.
+- **Requisito futuro:** HTML editável com salvamento persistente, propagação de alterações aprovadas para Markdown, D.K.P. e exportações PDF. Ainda não implementado.
+- **Regra de integridade:** nunca declarar que Work eliminou limite de conversa, que backup ocorreu sem recibo, nem que um conteúdo foi aprovado sem registro. Preservar pendência histórica de 06.1.
