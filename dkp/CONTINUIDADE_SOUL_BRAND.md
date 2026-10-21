@@ -186,3 +186,12 @@ Este checkpoint posterior prevalece sobre as indicações antigas de "próximo 0
 - Próximo passo: disponibilizar descoberta/habilitação de integrações GitHub e Drive no runtime do Site, implementar fila e recibos por versão e verificar escrita/leitura real após salvar. Não substituir esse requisito por armazenamento só no navegador, exportação manual ou automação de polling sem alinhamento.
 - Alterações futuras do Work devem ler e reconciliar a última revisão persistida no editor antes de atualizar seed ou backups; não sobrescrever a revisão viva com snapshot antigo. Backups deste incremento não são sincronização contínua.
 - Percentual do Planejamento Estratégico completo permanece indeterminado sem backlog global reconciliado.
+
+
+## Retomada autônoma e diagnóstico | 2026-10-21
+- Usuário aprovou o prosseguimento autônomo e automatizado. Aprovações editoriais anteriores preservadas; nenhuma nova aprovação solicitada.
+- Nova descoberta confirmou GitHub e Google Drive instalados e habilitados no Work. Isso não comprova elegibilidade ou consentimento de visitante no Site.
+- A ferramenta nativa de descoberta de elegibilidade Sites continua ausente das capacidades expostas nesta retomada. Conforme contrato de integrações Sites, não inferir elegibilidade a partir da instalação, não adivinhar IDs, não copiar credenciais de provedor e não implementar chamadas hospedadas sem esse requisito.
+- Testes locais de persistência, conflito, idempotência, propagação e integridade executados novamente com sucesso; checagem TypeScript sem erros. Cobertura permanece nove capítulos, 3112 blocos e 448194 caracteres. Nenhum conteúdo de produção alterado pelos testes.
+- Sem nova evidência de escrita hospedada ou sincronização externa por Salvar. Não promover o estado para concluído. A autorização do usuário está registrada; a pendência é capacidade técnica, não aprovação editorial.
+- Critério restante: descoberta de elegibilidade disponível; declaração das integrações permitidas; implementação e teste de salvamento autenticado com recibos GitHub/Drive e releitura dos dois destinos. Não anunciar prazo ou 100% antes desse ciclo real.
