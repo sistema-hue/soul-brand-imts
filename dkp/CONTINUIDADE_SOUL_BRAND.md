@@ -93,3 +93,13 @@ Este checkpoint posterior prevalece sobre as indicações antigas de "próximo 0
 - Bloqueio delimitado: redação integral exata aprovada na conversa original não recuperada. ZIP não contém essa redação. As variantes produzidas nesta conversa Codex foram rejeitadas e NÃO podem substituir o texto aprovado. Recuperação de contexto confirmou aprovação, mas não forneceu redação integral. Não reconstruir por aproximação.
 - Próximo trabalho independente: apresentar 08.14 | Henry Ford, preservando o original do HTML, oração de impacto, narrativa integral e três opções editoriais. 08.14 não aprovado.
 - Pendências anteriores preservadas: 06.1 histórico, backup integral MD/HTML/PDF no Drive, editor HTML com propagação, publicação pública sem comprovação.
+
+
+## Sincronização verificada | 2026-10-21 | 08.14 Henry Ford
+- Aprovação integral recebida na seleção interativa desta conversa. Não repetir aprovação.
+- Texto aprovado preservado: original integral organizado, oração de impacto e desenvolvimento narrativo com 11 subtítulos e 100 blocos. Nenhuma reescrita editorial durante sincronização.
+- Markdown e D.K.P. receberam a mesma seção 08.14; HTML recebeu representação correspondente, preservando o restante do arquivo e as seções anteriores.
+- Releitura integral dos três destinos confirmou igualdade com os conteúdos preparados. Commits: Markdown 3e1776d1bbe449df3b37a96f21ba5d2cf72efe91; D.K.P. 3ebe51d1650617b02ca71ed3b6e6e69270f180c9; HTML 0dddf194b456d05485a6129f3bb03d98c84e685d.
+- Próximo conteúdo editorial: 08.15 | Ayrton Senna. Apresentar original integral, declaração sintética, narrativa e seleção interativa das três decisões; não substituir controle interativo por texto [Confirmar decisão editorial].
+- 08.13 continua aprovado e pendente de recuperação da redação exata; não usar variantes rejeitadas, não declarar sequência 08.1–08.14 integralmente sincronizada.
+- Backup Drive e publicação pública não comprovados neste incremento. Demais pendências preservadas.
