@@ -2607,3 +2607,293 @@ Que grandes realizações dependem de capacidades individuais e coletivas.
 E que o valor de uma conquista também se revela nas possibilidades que ela cria para outras pessoas.
 
 É dessa maneira que Ayrton Senna integra nossas referências inspiradoras: como uma trajetória que nos convida a desenvolver nossas capacidades, enfrentar desafios com responsabilidade e transformar paixão e dedicação em realizações capazes de produzir valor e impacto positivo.
+
+### 08.16 | Jesus Cristo
+
+#### Texto original integral
+
+**O Líder Espiritual que Transformou o Mundo**
+
+A vida e os ensinamentos de Jesus Cristo, a figura central do Cristianismo, não apenas moldaram a base de uma das maiores religiões do mundo, mas também influenciaram a cultura, a moral, a arte e a história da humanidade de maneiras profundas e duradouras.
+
+**Perfil:** Figura central do Cristianismo, pregador e líder religioso na Judeia do século I.
+
+**Síntese:** Sua vida e ensinamentos formam a base da fé cristã, focando no amor, compaixão, perdão e salvação.
+
+**Realizações:** É reconhecido por bilhões como o Salvador espiritual da humanidade, tendo seus ensinamentos influenciado significativamente a cultura, a moral, a filosofia e a arte ao longo da história.
+
+**História**
+
+Nascido em Belém no início do século I, Jesus de Nazaré foi um pregador judeu cuja vida e ensinamentos são registrados no Novo Testamento da Bíblia.
+
+Embora tenha vivido e pregado principalmente na região da Galileia, na Judeia e em áreas circunvizinhas, seu impacto transcendeu fronteiras geográficas, temporais e culturais.
+
+Os ensinamentos de Jesus focavam no amor, na compaixão, no perdão e na busca pela justiça e pela paz. Suas parábolas e sermões, como o Sermão da Montanha, contêm mensagens morais e espirituais que continuam a ressoar com milhões de pessoas.
+
+Acredita-se que por volta dos 33 anos, Jesus foi crucificado em Jerusalém sob as ordens de Pôncio Pilatos, o governador romano da Judeia, um evento que os cristãos consideram um ato supremo de sacrifício e redenção pelos pecados da humanidade.
+
+A ressurreição de Jesus, três dias após sua morte, é um pilar fundamental da fé cristã, simbolizando a vitória sobre o pecado e a morte e oferecendo esperança de vida eterna.
+
+Após sua ascensão, os discípulos de Jesus espalharam seus ensinamentos, estabelecendo o Cristianismo como uma religião distinta que eventualmente se espalhou por todo o mundo romano e além.
+
+**Para explorar mais**
+
+Filme/Série/Documentário: The Chosen (2017). Esta série dramática contemporânea fornece uma interpretação humana e relacional de Jesus Cristo, explorando a vida e os milagres do Salvador através das vivências e transformações dos que foram tocados por Ele.
+
+Lançada de forma independente, The Chosen reimagina as narrativas bíblicas, dando vida e profundidade aos personagens históricos, e retrata a capacidade de Jesus de impactar uma variedade de indivíduos em seu contexto social e cultural, ressaltando o alcance e a profundidade de sua missão e compaixão.
+
+**Livro**
+
+“O Evangelho segundo Jesus Cristo” por José Saramago (1991). Este romance, escrito pelo laureado com o Prêmio Nobel de Literatura José Saramago, oferece uma interpretação ficcional e humanizada da vida de Jesus, explorando suas experiências, dúvidas e ensinamentos de uma maneira única e provocativa.
+
+**Recursos Adicionais**
+
+Para aqueles interessados em aprofundar-se nos aspectos históricos, culturais e espirituais da vida e dos ensinamentos de Jesus Cristo, os seguintes recursos são recomendados:
+
+- Documentários e Séries: Há uma vasta quantidade de documentários e séries que exploram a vida de Jesus, o contexto histórico da Judeia do século I, e o impacto do Cristianismo, disponíveis em plataformas de streaming e canais educacionais.
+- Textos Sagrados: O Novo Testamento da Bíblia é a fonte primária para os ensinamentos e a vida de Jesus. Estudos bíblicos e comentários oferecem insights e interpretações que ajudam a compreender o texto dentro de seu contexto histórico e teológico.
+- Literatura e Análise Histórica: Uma ampla gama de livros acadêmicos e populares analisa a figura histórica de Jesus, o desenvolvimento do Cristianismo primitivo e o impacto da religião na sociedade ao longo dos séculos.
+
+**Frases Inspiradoras**
+
+> “Ame o próximo como a si mesmo.”
+
+Esta frase resume a essência dos ensinamentos de Jesus sobre o amor e a compaixão, incentivando as pessoas a tratar os outros com a mesma consideração e cuidado que desejariam para si mesmas.
+
+> “Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai, senão por mim.”
+
+Esta citação destaca a centralidade de Jesus na fé cristã como o mediador da salvação e a fonte de verdade espiritual.
+
+> “Bem-aventurados os pacificadores, pois serão chamados filhos de Deus.”
+
+Parte das Bem-Aventuranças, esta frase enfatiza a importância da paz e da reconciliação, promovendo a ideia de que a verdadeira filiação divina é manifestada através da promoção da paz.
+
+A influência de Jesus Cristo na história e na cultura mundial é imensa, transcendendo a esfera puramente religiosa para influenciar a ética, a arte, a filosofia e o diálogo inter-religioso.
+
+Seu legado continua a inspirar discussões, obras de arte e ações voltadas para a compaixão, a justiça social e o entendimento mútuo entre povos de diferentes crenças e tradições.
+
+> “Deem e será dado a vocês: uma boa medida, pressionada, sacudida e transbordante será dada a vocês.”
+
+Esta frase pode inspirar empreendedores a agirem com generosidade e visão compartilhada, promovendo uma cultura de inovação e colaboração que contribua para o desenvolvimento sustentável da comunidade e do meio ambiente.
+
+Texto histórico recuperado do HTML original, com organização visual e remoção da paginação 90. As afirmações históricas, referências e citações permanecem como constam na fonte, sem verificação independente.
+
+#### Declaração Sintética | Oração de Impacto
+
+*Acreditamos que toda realização encontra seu sentido mais profundo quando contribui para a vida e reconhece a dignidade das pessoas. Inspirados pela vida e pelos ensinamentos de Jesus Cristo, queremos cultivar o amor ao próximo, a compaixão, a integridade, a generosidade e a disposição de servir. Na IMTS, buscamos transformar esses princípios em atitudes concretas, construindo relações de confiança, oportunidades de desenvolvimento e empreendimentos inovadores, escaláveis e sustentáveis, capazes de produzir valor e impacto positivo. Queremos exercer a liderança com humildade, agir com justiça e responsabilidade e fazer com que nossas escolhas expressem o compromisso de cuidar das pessoas e contribuir para o bem comum.*
+
+#### Desenvolvimento Narrativo
+
+**O amor ao próximo como orientação para agir**
+
+Acreditamos que a maneira como tratamos as pessoas revela os princípios que orientam nossas escolhas.
+
+O amor ao próximo, presente nos ensinamentos de Jesus Cristo, nos convida a reconhecer o valor de cada pessoa e a considerar suas necessidades.
+
+Na IMTS, queremos que essa referência encontre expressão em nossa atuação cotidiana.
+
+Isso significa ouvir com atenção, tratar com respeito e compreender que nossas decisões produzem consequências na vida de outras pessoas.
+
+Queremos desenvolver relações nas quais a consideração humana esteja presente desde o primeiro contato até a realização de cada entrega.
+
+Reconhecemos que esse compromisso exige atitudes concretas.
+
+Nossa intenção é fazer com que cuidado, respeito e responsabilidade participem da maneira como construímos nossos empreendimentos e nos relacionamos com a sociedade.
+
+**A dignidade humana como fundamento das relações**
+
+Cada pessoa possui uma história, enfrenta circunstâncias próprias e reúne capacidades que merecem reconhecimento.
+
+Acreditamos que a dignidade humana precisa orientar a forma como organizamos nossas relações.
+
+Na IMTS, queremos construir ambientes nos quais as pessoas sejam tratadas com respeito, independentemente de sua posição, origem, condição ou crença.
+
+Queremos reconhecer diferenças e criar condições para uma convivência baseada em consideração e responsabilidade.
+
+Isso exige atenção à maneira como nos comunicamos, distribuímos oportunidades e exercemos autoridade.
+
+Nossa intenção é preservar a dignidade nas decisões e nas práticas, inclusive diante de dificuldades, conflitos e resultados abaixo do esperado.
+
+Queremos que o respeito seja uma característica reconhecível de nossa cultura.
+
+**A liderança como disposição de servir**
+
+A liderança envolve a responsabilidade de orientar esforços e criar condições para que outras pessoas possam contribuir.
+
+Os ensinamentos de Jesus nos convidam a refletir sobre o serviço como parte dessa responsabilidade.
+
+Na IMTS, queremos exercer a liderança com atenção às necessidades das pessoas e aos objetivos que compartilhamos.
+
+Isso significa oferecer direção, remover dificuldades e assumir responsabilidade pelas decisões.
+
+Acreditamos que liderar exige coerência entre aquilo que se pede e aquilo que se pratica.
+
+Reconhecemos que autoridade precisa ser acompanhada de humildade para ouvir e disposição para aprender.
+
+Nossa intenção é desenvolver lideranças que fortaleçam capacidades e contribuam para realizações coletivas.
+
+**A compaixão transformada em atitudes concretas**
+
+Compreender uma dificuldade humana exige disposição para olhar além de nossos próprios interesses.
+
+A compaixão nos convida a perceber o sofrimento e a reconhecer possibilidades de contribuição.
+
+Na IMTS, queremos desenvolver essa sensibilidade na identificação dos problemas que escolhemos enfrentar.
+
+Queremos compreender as condições reais das pessoas e evitar soluções construídas apenas a partir de suposições.
+
+Acreditamos que conhecimento, tecnologia e capacidade empresarial podem contribuir para ampliar oportunidades e melhorar experiências.
+
+Reconhecemos que uma contribuição responsável exige compreender o contexto e avaliar seus efeitos.
+
+Nossa intenção é transformar sensibilidade em iniciativas úteis, capazes de produzir benefícios concretos e sustentáveis.
+
+**A integridade entre princípios e comportamento**
+
+Valores ganham significado quando orientam decisões.
+
+Acreditamos que a confiança se fortalece quando existe coerência entre o que afirmamos e a maneira como agimos.
+
+Na IMTS, queremos cultivar essa integridade em nossas relações, compromissos e entregas.
+
+Isso exige comunicar com honestidade, reconhecer limitações e assumir responsabilidade por erros.
+
+Queremos que nossos princípios participem das escolhas, inclusive quando houver pressões por resultados ou oportunidades de ganho imediato.
+
+Reconhecemos que a coerência precisa ser construída e preservada ao longo do tempo.
+
+Nossa intenção é desenvolver uma cultura na qual as pessoas possam confiar na seriedade de nossos compromissos e na responsabilidade de nossa atuação.
+
+**O perdão e a possibilidade de reconstrução**
+
+As relações humanas podem envolver falhas, conflitos e dificuldades de entendimento.
+
+Os ensinamentos sobre perdão nos convidam a refletir sobre a possibilidade de reconhecer erros e reconstruir caminhos.
+
+Na IMTS, queremos desenvolver capacidade para lidar com essas situações de maneira responsável.
+
+Isso significa ouvir, compreender o ocorrido e distinguir as condições necessárias para corrigir uma falha.
+
+Acreditamos que a aprendizagem pode abrir possibilidades de mudança.
+
+Reconhecemos também que a reconstrução da confiança exige atitudes, reparação quando cabível e respeito pelas pessoas afetadas.
+
+Nossa intenção é cultivar relações nas quais exista espaço para o desenvolvimento humano, acompanhado da responsabilidade pelas consequências das próprias ações.
+
+**A justiça e o cuidado com as oportunidades**
+
+Acreditamos que nossas escolhas precisam considerar quem é beneficiado, quem enfrenta dificuldades e quais condições permitem uma participação mais justa.
+
+A referência de Jesus nos convida a olhar com atenção para pessoas que encontram barreiras ou vivem situações de vulnerabilidade.
+
+Na IMTS, queremos que essa atenção participe do desenvolvimento de nossas iniciativas.
+
+Queremos compreender como nossos produtos, serviços e relações podem ampliar oportunidades.
+
+Isso envolve considerar condições de acesso, formas de atendimento e possibilidades de desenvolvimento.
+
+Reconhecemos que diferentes necessidades podem exigir respostas distintas.
+
+Nossa intenção é construir empreendimentos capazes de produzir valor econômico e contribuir para condições mais dignas de participação na sociedade.
+
+**A generosidade e a circulação do conhecimento**
+
+Compartilhar pode ampliar a capacidade de outras pessoas aprenderem, realizarem e contribuírem.
+
+Acreditamos que a generosidade encontra expressão em diferentes atitudes.
+
+Na disponibilidade para orientar.
+
+Na disposição para ensinar.
+
+Na atenção dedicada a quem precisa de apoio.
+
+E na construção de oportunidades para que conhecimentos sejam aplicados em benefício de outras pessoas.
+
+Na IMTS, queremos desenvolver um ecossistema no qual a colaboração favoreça essa circulação.
+
+Reconhecemos que compartilhar exige responsabilidade e respeito pelos compromissos assumidos.
+
+Nossa intenção é cultivar relações nas quais o crescimento de uma capacidade possa fortalecer também as possibilidades do conjunto.
+
+**A humildade para ouvir e aprender**
+
+Compreender nossas limitações permite reconhecer onde precisamos de ajuda e quais conhecimentos ainda precisamos desenvolver.
+
+Acreditamos que a humildade fortalece a qualidade das decisões.
+
+Na IMTS, queremos preservar a disposição para ouvir experiências diferentes e reconhecer contribuições que ampliem nossa compreensão.
+
+Isso exige abertura para perguntas, correções e perspectivas que desafiem nossas primeiras interpretações.
+
+Queremos aprender com as pessoas que utilizam nossas soluções e com aquelas que participam de sua construção.
+
+Reconhecemos que a experiência acumulada precisa permanecer em diálogo com a realidade.
+
+Nossa intenção é desenvolver confiança em nossas capacidades, acompanhada da consciência de que sempre existem possibilidades de aprendizagem.
+
+**A construção da paz nas relações**
+
+A convivência exige capacidade de lidar com diferenças.
+
+Os ensinamentos sobre a paz nos convidam a buscar formas de diálogo que favoreçam entendimento e resolução responsável dos conflitos.
+
+Na IMTS, queremos construir relações nas quais as divergências possam ser tratadas com clareza e respeito.
+
+Isso significa reconhecer problemas, comunicar necessidades e procurar soluções compatíveis com os compromissos envolvidos.
+
+Acreditamos que a paz nas relações exige participação e responsabilidade.
+
+Reconhecemos que conflitos precisam ser enfrentados e que sua resolução pode exigir decisões firmes.
+
+Nossa intenção é agir de maneira justa, preservando a dignidade das pessoas e as condições necessárias para uma convivência construtiva.
+
+**O propósito das realizações e o bem comum**
+
+Empreender permite organizar conhecimentos e recursos para desenvolver soluções.
+
+Acreditamos que essa capacidade pode contribuir para melhorar a vida das pessoas e ampliar possibilidades de desenvolvimento.
+
+Na IMTS, queremos relacionar nossos resultados a esse propósito.
+
+Queremos construir empreendimentos economicamente sustentáveis, capazes de preservar sua continuidade e ampliar sua contribuição.
+
+Ao mesmo tempo, queremos compreender as consequências de nossas escolhas para as pessoas, as comunidades e o ambiente.
+
+Nossa intenção é desenvolver uma visão de prosperidade que considere o valor produzido e a responsabilidade de sua construção.
+
+Queremos que nossas realizações expressem um compromisso com a vida e com o bem comum.
+
+**O legado de Jesus Cristo para a IMTS**
+
+Reconhecemos a centralidade de Jesus Cristo na fé cristã e a profundidade espiritual de seus ensinamentos.
+
+Ao apresentá-lo entre nossas referências inspiradoras, queremos explicitar os princípios que contribuem para a identidade que desejamos construir.
+
+O amor ao próximo.
+
+O reconhecimento da dignidade humana.
+
+A disposição de servir.
+
+A compaixão diante das dificuldades.
+
+A integridade entre palavras e atitudes.
+
+A responsabilidade na reconstrução das relações.
+
+A generosidade.
+
+A humildade para aprender.
+
+E o compromisso com a justiça e a paz.
+
+Queremos que esses princípios encontrem expressão na maneira como desenvolvemos nossas células tecnológicas, organizamos empreendimentos e nos relacionamos com as pessoas.
+
+Acreditamos que a qualidade de nossas realizações também depende da qualidade de nossas atitudes.
+
+Que liderar exige responsabilidade e cuidado.
+
+E que o verdadeiro valor de uma contribuição se revela nos benefícios que ela produz na vida de outras pessoas.
+
+É dessa maneira que Jesus Cristo integra nossas referências inspiradoras: como uma referência espiritual e ética que nos convida a agir com amor, servir com humildade e construir realizações capazes de contribuir para uma sociedade mais justa, digna e solidária.
