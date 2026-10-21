@@ -131,3 +131,15 @@ Este checkpoint posterior prevalece sobre as indicações antigas de "próximo 0
 - A sequência de apresentação chegou ao Encerramento; isto não comprova conclusão integral do Soul Brand ou do Planejamento Estratégico 2027–2030.
 - Próxima tarefa: recuperar as redações exatas já aprovadas de 08.13 e 06.1, reconciliar destinos sem substituir por variantes rejeitadas ou históricas. Aprovações preservadas, sem necessidade de repetição.
 - Pendências independentes: exportação PDF consolidada, backup integral MD/HTML/PDF no Drive e sua verificação, editor HTML com salvamento persistente e propagação, verificação de publicação pública. Nenhuma dessas entregas foi declarada concluída.
+
+
+## Consolidação e backup verificados | 2026-10-21
+- Snapshot completo do repositório no commit 80aa9b883059c00a84f483a8b44f7161e02d9ca3: 13 arquivos; pacote inclui referências de marca, estado e manifesto SHA-256.
+- PDF de trabalho derivado da D.K.P.: 152 páginas. Capa explicita lacunas 06.1 e 08.13; revisão visual amostral das páginas 1, 2, 75 e 152 sem defeitos observados. Não é livro final homologado.
+- ZIP testado e hashes dos 13 arquivos conferidos dentro do pacote. ZIP e PDF salvos persistentemente e no Drive.
+- Drive pasta 1Gey6QokeZ0P4LErQbBdz_GyCsse41l2l: ZIP 1qTZKC9fxVwfViADjTVoIaptYE-I6M5T5; PDF 13ILUWcV3LTWcPIbPLC3hA9o1-fUrec3S; HTML 1sTMDnW6VBpEi8fVcJlhnQw5UGqtzxOCW; D.K.P. MD 1ozYdFhlhF1YyAqRBElmxxO-u6rF_WdBL.
+- ZIP e PDF recuperados do Drive e comparados byte a byte com os locais, ambos idênticos. ZIP SHA-256 e13de44221821bc5c83c3bccd479658e642b161af1ae77514fba7705467314c1; PDF SHA-256 a093be5bca0f9652627bae8bcffae4befd3f05e21b81feeac8a5761f9a28abc3. HTML e MD separados confirmados por metadados, tamanho e pasta; bytes desses arquivos também estão no ZIP verificado.
+- Identidades persistentes: ZIP libfile_0d7c9e0060288191915b947cc159b335; PDF libfile_fd99c8d8e01c8191b63c7b462944f693.
+- Pesquisa adicional: Soul_Brand_IMTS_checkpoint.html v2 e CULTURA_ORGANIZACIONAL.md v1 foram lidos. A redação encontrada de 06.1 é identificada explicitamente como proposta ainda não aprovada, sem vínculo inequívoco com a aprovação posterior; não foi promovida a canônica. Nenhuma redação integral aprovada de 08.13 recuperada.
+- Próximo passo: recuperar o registro textual inequívoco dessas duas aprovações; editor HTML persistente continua independente e não implementado. Publicação pública não verificada.
+- Este recibo posterior não integra retroativamente o snapshot do commit fonte indicado. Cópias no Drive são backups deste incremento, sem sincronização automática contínua configurada.
