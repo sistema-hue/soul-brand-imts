@@ -83,3 +83,13 @@ Este checkpoint posterior prevalece sobre as indicações antigas de "próximo 0
 - **GitHub:** cópia versionada de contingência na branch padrão, sem solicitar criação manual de branches para cada seção. **Google Drive:** cópia adicional, com leitura e escrita em Google Docs testadas em 2026-10-20; upload dos arquivos MD/HTML/PDF e armazenamento na pasta-alvo ainda exigem validação.
 - **Requisito futuro:** HTML editável com salvamento persistente, propagação de alterações aprovadas para Markdown, D.K.P. e exportações PDF. Ainda não implementado.
 - **Regra de integridade:** nunca declarar que Work eliminou limite de conversa, que backup ocorreu sem recibo, nem que um conteúdo foi aprovado sem registro. Preservar pendência histórica de 06.1.
+
+
+## Reconciliação | 2026-10-21 | Branch de continuidade
+- Destino confirmado por consulta e leitura: `continuidade-planejamento-27-30-20261021`. Reutilizada sem criar outra branch ou alterar main.
+- Instruções lidas: LEIA_PRIMEIRO.md, INSTRUCAO_INICIAL.md, ESTADO_CONTINUIDADE.json e skill-continuar-em-nova-branch/SKILL.md do KIT_CONTINUAR_EM_NOVA_BRANCH_IMTS_2027_2030(1).zip, além deste checkpoint e dos três destinos. README.md não encontrado na branch.
+- 08.13 | Mark Zuckerberg: aprovação confirmada pela instrução atual do usuário, pelo kit e pela recuperação de contexto da aprovação em 21/10/2026. Aprovação preservada; não solicitar nova aprovação.
+- Leitura dos destinos: Markdown do capítulo 08 e D.K.P. terminam em 08.12; HTML conserva o original de inspiracao-13. Nenhuma sincronização definitiva de 08.13 comprovada.
+- Bloqueio delimitado: redação integral exata aprovada na conversa original não recuperada. ZIP não contém essa redação. As variantes produzidas nesta conversa Codex foram rejeitadas e NÃO podem substituir o texto aprovado. Recuperação de contexto confirmou aprovação, mas não forneceu redação integral. Não reconstruir por aproximação.
+- Próximo trabalho independente: apresentar 08.14 | Henry Ford, preservando o original do HTML, oração de impacto, narrativa integral e três opções editoriais. 08.14 não aprovado.
+- Pendências anteriores preservadas: 06.1 histórico, backup integral MD/HTML/PDF no Drive, editor HTML com propagação, publicação pública sem comprovação.
