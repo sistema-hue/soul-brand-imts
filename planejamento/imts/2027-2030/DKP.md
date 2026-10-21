@@ -2,17 +2,32 @@
 
 Planejamento Estratégico IMTS 2027–2030
 
-Cópia 2 | 2026-10-21T21:52:18.858Z
+Cópia 3 | 2026-10-21T22:01:04.016Z
 
 ## Versões aprovadas para apresentação
 
-Nenhum instrumento aprovado neste ciclo.
+- A01 | A01 | Leitura inicial das oportunidades comerciais qualificadas · Registro piloto-imts-a01 · Versão 1
+- A02 | A02 | Três painéis de acompanhamento da IMTS · Registro piloto-imts-a02 · Versão 1
+- E01 | IMTS | Duas alternativas para exploração comercial delimitada · Registro piloto-imts-e01 · Versão 1
+- E02 | IMTS | Comparação sem pontuação de dados desconhecidos · Registro piloto-imts-e02 · Versão 1
+- E03 | IMTS | Recomendação exploratória com decisão comercial pendente · Registro piloto-imts-e03 · Versão 1
+- F01 | IMTS | Evidências para o primeiro recorte comercial 2027–2030 · Registro piloto-imts-f01 · Versão 1
+- F02 | IMTS | Capacidades declaradas e disponibilidade a verificar · Registro piloto-imts-f02 · Versão 1
+- F03 | IMTS | Suficiência para explorar, sem antecipar escala · Registro piloto-imts-f03 · Versão 1
+- I01 | Carta de identidade IMTS | 2027–2030 · Registro piloto-imts-i01 · Versão 1
+- P01 | Qualificação de oportunidades | indicador proposto do piloto · Registro piloto-imts-p01 · Versão 1
+- P02 | Descoberta e protótipo delimitado | iniciativa proposta · Registro piloto-imts-p02 · Versão 1
+- P03 | Condições econômicas e caixa | lacunas do piloto · Registro piloto-imts-p03 · Versão 1
+- V01 | V01 | Aprendizado da falha de controle de versão no Drive · Registro piloto-imts-v01 · Versão 1
+- V02 | V02 | Confiança para avançar da ferramenta ao piloto estratégico · Registro piloto-imts-v02 · Versão 1
+- X01 | X01 | Correção e confirmação das cópias do planejamento IMTS · Registro piloto-imts-x01 · Versão 1
+- X02 | X02 | Ensaio da continuidade entre editor, GitHub e Drive · Registro piloto-imts-x02 · Versão 1
 
 ## Registros atuais
 
 ## A01 | A01 | Leitura inicial das oportunidades comerciais qualificadas
 
-Registro piloto-imts-a01 · Versão 1 · Rascunho
+Registro piloto-imts-a01 · Versão 1 · Aprovado
 
 ### Medida
 
@@ -74,7 +89,7 @@ Rascunho de aplicação do método. Fatos técnicos descritos são distintos de 
 
 ## A02 | A02 | Três painéis de acompanhamento da IMTS
 
-Registro piloto-imts-a02 · Versão 1 · Rascunho
+Registro piloto-imts-a02 · Versão 1 · Aprovado
 
 ### Construção documental
 
@@ -108,7 +123,7 @@ Rascunho de aplicação do método. Fatos técnicos descritos são distintos de 
 
 ## E01 | IMTS | Duas alternativas para exploração comercial delimitada
 
-Registro piloto-imts-e01 · Versão 1 · Rascunho
+Registro piloto-imts-e01 · Versão 1 · Aprovado
 
 ### Público
 
@@ -158,7 +173,7 @@ Rascunho do piloto IMTS 2027–2030. O Soul Brand sustenta a identidade e o camp
 
 ## E02 | IMTS | Comparação sem pontuação de dados desconhecidos
 
-Registro piloto-imts-e02 · Versão 1 · Rascunho
+Registro piloto-imts-e02 · Versão 1 · Aprovado
 
 ### Critério
 
@@ -200,7 +215,7 @@ Rascunho do piloto IMTS 2027–2030. O Soul Brand sustenta a identidade e o camp
 
 ## E03 | IMTS | Recomendação exploratória com decisão comercial pendente
 
-Registro piloto-imts-e03 · Versão 1 · Rascunho
+Registro piloto-imts-e03 · Versão 1 · Aprovado
 
 ### ID
 
@@ -238,7 +253,7 @@ Rascunho do piloto IMTS 2027–2030. O Soul Brand sustenta a identidade e o camp
 
 ## F01 | IMTS | Evidências para o primeiro recorte comercial 2027–2030
 
-Registro piloto-imts-f01 · Versão 1 · Rascunho
+Registro piloto-imts-f01 · Versão 1 · Aprovado
 
 ### ID
 
@@ -292,7 +307,7 @@ Rascunho do piloto IMTS 2027–2030. O Soul Brand sustenta a identidade e o camp
 
 ## F02 | IMTS | Capacidades declaradas e disponibilidade a verificar
 
-Registro piloto-imts-f02 · Versão 1 · Rascunho
+Registro piloto-imts-f02 · Versão 1 · Aprovado
 
 ### Capacidade
 
@@ -334,7 +349,7 @@ Rascunho do piloto IMTS 2027–2030. O Soul Brand sustenta a identidade e o camp
 
 ## F03 | IMTS | Suficiência para explorar, sem antecipar escala
 
-Registro piloto-imts-f03 · Versão 1 · Rascunho
+Registro piloto-imts-f03 · Versão 1 · Aprovado
 
 ### Questão
 
@@ -376,7 +391,7 @@ Rascunho do piloto IMTS 2027–2030. O Soul Brand sustenta a identidade e o camp
 
 ## I01 | Carta de identidade IMTS | 2027–2030
 
-Registro piloto-imts-i01 · Versão 1 · Rascunho
+Registro piloto-imts-i01 · Versão 1 · Aprovado
 
 ### Propósito
 
@@ -499,7 +514,7 @@ RASCUNHO I01 para reconciliação editorial. Reaproveita a identidade aprovada, 
 
 ## P01 | Qualificação de oportunidades | indicador proposto do piloto
 
-Registro piloto-imts-p01 · Versão 1 · Rascunho
+Registro piloto-imts-p01 · Versão 1 · Aprovado
 
 ### Objetivo
 
@@ -561,7 +576,7 @@ Proposta inicial do piloto IMTS 2027–2030. Não constitui escolha comercial ap
 
 ## P02 | Descoberta e protótipo delimitado | iniciativa proposta
 
-Registro piloto-imts-p02 · Versão 1 · Rascunho
+Registro piloto-imts-p02 · Versão 1 · Aprovado
 
 ### Problema
 
@@ -615,7 +630,7 @@ Proposta inicial do piloto IMTS 2027–2030. Não constitui escolha comercial ap
 
 ## P03 | Condições econômicas e caixa | lacunas do piloto
 
-Registro piloto-imts-p03 · Versão 1 · Rascunho
+Registro piloto-imts-p03 · Versão 1 · Aprovado
 
 ### Receita
 
@@ -669,7 +684,7 @@ Proposta inicial do piloto IMTS 2027–2030. Não constitui escolha comercial ap
 
 ## V01 | V01 | Aprendizado da falha de controle de versão no Drive
 
-Registro piloto-imts-v01 · Versão 1 · Rascunho
+Registro piloto-imts-v01 · Versão 1 · Aprovado
 
 ### Origem
 
@@ -723,7 +738,7 @@ Rascunho de aplicação do método. Fatos técnicos descritos são distintos de 
 
 ## V02 | V02 | Confiança para avançar da ferramenta ao piloto estratégico
 
-Registro piloto-imts-v02 · Versão 1 · Rascunho
+Registro piloto-imts-v02 · Versão 1 · Aprovado
 
 ### Pergunta
 
@@ -765,7 +780,7 @@ Rascunho de aplicação do método. Fatos técnicos descritos são distintos de 
 
 ## X01 | X01 | Correção e confirmação das cópias do planejamento IMTS
 
-Registro piloto-imts-x01 · Versão 1 · Rascunho
+Registro piloto-imts-x01 · Versão 1 · Aprovado
 
 ### ID
 
@@ -819,7 +834,7 @@ Rascunho de aplicação do método. Fatos técnicos descritos são distintos de 
 
 ## X02 | X02 | Ensaio da continuidade entre editor, GitHub e Drive
 
-Registro piloto-imts-x02 · Versão 1 · Rascunho
+Registro piloto-imts-x02 · Versão 1 · Aprovado
 
 ### Hipótese
 
@@ -7149,4 +7164,4 @@ Uma história que continua sendo escrita, a cada dia, por aquilo que escolhemos 
 
 ## Histórico e decisões
 
-O arquivo continuidade.json da mesma cópia conserva integralmente as 16 revisões e 0 decisões editoriais, incluindo fontes e notas. A apresentação HTML utiliza a revisão aprovada mais recente de cada registro, mesmo quando há um rascunho posterior.
+O arquivo continuidade.json da mesma cópia conserva integralmente as 16 revisões e 16 decisões editoriais, incluindo fontes e notas. A apresentação HTML utiliza a revisão aprovada mais recente de cada registro, mesmo quando há um rascunho posterior.

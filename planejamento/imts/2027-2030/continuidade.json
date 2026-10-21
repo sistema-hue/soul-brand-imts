@@ -439,7 +439,152 @@
       "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX"
     }
   ],
-  "decisions": [],
-  "version": 2,
-  "createdAt": "2026-10-21T21:52:18.858Z"
+  "decisions": [
+    {
+      "id": 1,
+      "entryId": "piloto-imts-a01",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:00:47.269Z"
+    },
+    {
+      "id": 2,
+      "entryId": "piloto-imts-a02",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:00:48.238Z"
+    },
+    {
+      "id": 3,
+      "entryId": "piloto-imts-e01",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:00:49.211Z"
+    },
+    {
+      "id": 4,
+      "entryId": "piloto-imts-e02",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:00:50.184Z"
+    },
+    {
+      "id": 5,
+      "entryId": "piloto-imts-e03",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:00:51.161Z"
+    },
+    {
+      "id": 6,
+      "entryId": "piloto-imts-f01",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:00:52.136Z"
+    },
+    {
+      "id": 7,
+      "entryId": "piloto-imts-f02",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:00:53.109Z"
+    },
+    {
+      "id": 8,
+      "entryId": "piloto-imts-f03",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:00:54.082Z"
+    },
+    {
+      "id": 9,
+      "entryId": "piloto-imts-i01",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:00:55.202Z"
+    },
+    {
+      "id": 10,
+      "entryId": "piloto-imts-p01",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:00:56.175Z"
+    },
+    {
+      "id": 11,
+      "entryId": "piloto-imts-p02",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:00:57.147Z"
+    },
+    {
+      "id": 12,
+      "entryId": "piloto-imts-p03",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:00:58.101Z"
+    },
+    {
+      "id": 13,
+      "entryId": "piloto-imts-v01",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:00:59.048Z"
+    },
+    {
+      "id": 14,
+      "entryId": "piloto-imts-v02",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:01:00.009Z"
+    },
+    {
+      "id": 15,
+      "entryId": "piloto-imts-x01",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:01:00.975Z"
+    },
+    {
+      "id": 16,
+      "entryId": "piloto-imts-x02",
+      "version": 1,
+      "action": "approved",
+      "comment": "Aprovação editorial integral do percurso piloto. Hipóteses, lacunas e decisões operacionais pendentes permanecem explícitas.",
+      "actor": "D84kUf5i6DWuqAmcnX6WxoDeCTO7IxisV2pfivExYVXc5s4A03BDbX",
+      "createdAt": "2026-10-21T22:01:01.936Z"
+    }
+  ],
+  "version": 3,
+  "createdAt": "2026-10-21T22:01:04.016Z"
 }
