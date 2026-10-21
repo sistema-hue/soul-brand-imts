@@ -1,4 +1,12 @@
-# D.K.P. Soul Brand IMTS
+# D.K.P. | Soul Brand IMTS
+
+Versão 0 | 2026-10-21T14:03:00Z
+
+## Registro histórico preservado
+
+Os apontamentos abaixo pertencem à fonte histórica. O estado mais recente de aprovação está nos checkpoints de continuidade; as pendências históricas não substituem as reconciliações posteriores.
+
+### D.K.P. Soul Brand IMTS
 
 **Versão:** 0.1.0
 
@@ -32,6 +40,8 @@
 - `conteudo/*.md`: arquivos de aceite por capítulo.
 
 ---
+
+# Soul Brand IMTS
 
 ## Prefácio
 
@@ -69,7 +79,8 @@ CVO e Fundador da IMTS
 
 > “Seja o arquiteto de seu próprio sucesso, conhecendo-se profundamente e estabelecendo princípios sólidos que orientem suas decisões. A alta performance se constrói quando suas ações refletem sua essência e são acompanhadas de disciplina, responsabilidade e compromisso com aquilo que você deseja realizar.”
 
----
+
+# Soul Brand IMTS
 
 ## Alvo e Impacto
 
@@ -89,7 +100,8 @@ Queremos estimular um empreendedorismo capaz de combinar inovação ousada com e
 
 Acreditamos que sonhos ambiciosos merecem estratégias consistentes e compromisso com a execução. Quando conseguimos reunir essas capacidades, podemos desenvolver negócios que prosperem, contribuam para melhorar a vida das pessoas e deixem benefícios para as próximas gerações.
 
----
+
+# Soul Brand IMTS
 
 ## Origem e Trajetória
 
@@ -409,7 +421,8 @@ Porque esta é a nossa história. Uma história que continuamos escrevendo junto
 
 **E é uma história que está apenas começando.**
 
----
+
+# Soul Brand IMTS
 
 ## Essência Institucional
 
@@ -451,7 +464,8 @@ Essas quatro atitudes fazem parte de uma mesma essência. Sonhamos para imaginar
 
 É assim que desejamos construir a IMTS, preservando a coerência entre aquilo que acreditamos, a maneira como agimos e o legado que buscamos deixar.
 
----
+
+# Soul Brand IMTS
 
 ## Identidade Corporativa
 
@@ -926,7 +940,7 @@ Nossa ambição ultrapassa a formação de um portfólio empresarial. Desejamos 
 É dessa maneira que compreendemos nosso negócio: uma atividade empresarial voltada à construção de oportunidades, à integração de capacidades e ao desenvolvimento de empresas e projetos inovadores, escaláveis e sustentáveis, comprometidos com a excelência e com a geração de um legado duradouro.
 
 
-## 06 | Cultura Organizacional
+# 06 | Cultura Organizacional
 
 ### 06.1 | Tolerância Zero
 
@@ -1415,7 +1429,7 @@ Porque construir uma organização relevante não significa apenas reunir empres
 É essa cultura que queremos cultivar: uma força que conecta pessoas, fortalece empreendimentos e transforma nosso propósito em realizações capazes de gerar impacto positivo e deixar um legado duradouro.
 
 
-## 07 | Posicionamento Competitivo
+# 07 | Posicionamento Competitivo
 
 ### 07.1 | Ecossistema
 
@@ -2921,7 +2935,7 @@ Porque o verdadeiro valor de nosso posicionamento não estará apenas naquilo qu
 É dessa maneira que desejamos consolidar a IMTS: como um ecossistema empresarial capaz de transformar sua identidade em diferencial competitivo, suas capacidades em oportunidades e seu propósito em um legado de prosperidade sustentável e impacto positivo.
 
 
-## 08 | Referências Inspiradoras
+# 08 | Referências Inspiradoras
 
 ### 08.1 | Steve Jobs
 
@@ -6074,6 +6088,9 @@ Que liderar exige responsabilidade e cuidado.
 E que o verdadeiro valor de uma contribuição se revela nos benefícios que ela produz na vida de outras pessoas.
 
 É dessa maneira que Jesus Cristo integra nossas referências inspiradoras: como uma referência espiritual e ética que nos convida a agir com amor, servir com humildade e construir realizações capazes de contribuir para uma sociedade mais justa, digna e solidária.
+
+
+# Soul Brand IMTS
 
 ## 09 | Encerramento
 
