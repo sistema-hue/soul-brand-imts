@@ -928,7 +928,197 @@ Nossa ambição ultrapassa a formação de um portfólio empresarial. Desejamos 
 
 ## 06 | Cultura Organizacional
 
-> 06.1 aprovado, pendente de recuperação literal e sincronização.
+### 06.1 | Tolerância Zero
+
+#### Texto original integral
+
+**Tolerância Zero à**
+
+**Alienação:** A conexão com nosso ecossistema requer compromisso e engajamento.
+
+**Ingratidão:** A gratidão é o alicerce em nossa cultura que alimenta nosso propósito.
+
+**Mentira:** A honestidade é a pedra angular de todas as nossas interações e decisões.
+
+**Individualismo:** Valorizamos o trabalho em equipe e a colaboração.
+
+**Mediocridade:** A busca pela excelência continua está em nosso DNA.
+
+**Procrastinação:** Agimos de maneira intencional, decisiva e eficaz.
+
+**Negativismo:** Promovemos uma atitude positiva e construtiva em todos os aspectos.
+
+Texto original preservado conforme o HTML do projeto, com organização visual. A proposta abaixo é uma nova redação para reconciliação, conforme sua autorização.
+
+#### Declaração Sintética | Oração de Impacto
+
+*Acreditamos que uma cultura forte se constrói pela coerência entre aquilo em que acreditamos, aquilo que dizemos e aquilo que fazemos. Na IMTS, cultivamos o compromisso, a gratidão, a honestidade, a colaboração, a excelência, a iniciativa e a disposição construtiva diante dos desafios. Estabelecemos limites claros para atitudes que enfraquecem a confiança e comprometem nosso propósito coletivo. Queremos que cada pessoa participe com consciência e responsabilidade, transformando seus conhecimentos e capacidades em contribuições para um ecossistema íntegro, inovador e capaz de produzir valor e impacto positivo na sociedade.*
+
+#### Desenvolvimento Narrativo
+
+**Uma cultura reconhecida pelas atitudes**
+
+A cultura da IMTS se manifesta na maneira como participamos, decidimos, nos relacionamos e realizamos.
+
+Nossos princípios precisam encontrar expressão nas atitudes cotidianas, especialmente quando enfrentamos dificuldades ou precisamos fazer escolhas que afetam outras pessoas.
+
+Acreditamos que construir um ecossistema exige confiança e compromisso compartilhado.
+
+Por isso, estabelecemos limites para comportamentos que enfraquecem nossas relações e afastam nossas realizações do propósito que desejamos cumprir.
+
+Esses limites orientam nossa convivência e ajudam cada pessoa a compreender a responsabilidade de sua participação.
+
+Queremos desenvolver uma cultura na qual exista liberdade para contribuir, clareza para agir e responsabilidade pelas consequências das próprias escolhas.
+
+**Alienação | Compromisso e engajamento**
+
+Participar da IMTS exige disposição para compreender o contexto no qual atuamos e reconhecer como nossas atividades contribuem para o conjunto.
+
+A alienação enfraquece essa conexão quando se manifesta como indiferença persistente diante das responsabilidades assumidas, das necessidades de colaboração e das consequências do próprio trabalho.
+
+Queremos cultivar uma participação consciente.
+
+Isso significa buscar as informações necessárias, compreender os compromissos envolvidos e comunicar dificuldades que possam afetar uma entrega.
+
+Reconhecemos que ninguém conhece tudo e que dúvidas fazem parte da aprendizagem.
+
+Nossa intenção é criar condições para que as pessoas possam perguntar, aprender e contribuir com clareza.
+
+O compromisso se expressa na disposição de participar e de responder pelo papel que assumimos.
+
+**Ingratidão | Reconhecimento das contribuições**
+
+Nossas realizações dependem de conhecimentos, oportunidades, esforços e relações construídos com outras pessoas.
+
+A gratidão nos ajuda a reconhecer essas contribuições e a compreender que o desenvolvimento de um empreendimento reúne muitas participações.
+
+Na IMTS, queremos valorizar quem ensina, apoia, colabora e assume responsabilidades ao nosso lado.
+
+Reconhecer uma contribuição exige atenção e respeito.
+
+Queremos evitar atitudes que apaguem esforços, se apropriem indevidamente de realizações coletivas ou tratem o apoio recebido como algo sem valor.
+
+Ao mesmo tempo, compreendemos que gratidão e autonomia podem coexistir.
+
+Nossa intenção é construir relações nas quais reconhecimento, liberdade de julgamento e responsabilidade fortaleçam a confiança.
+
+**Mentira | Honestidade nas relações e decisões**
+
+A confiança depende da qualidade das informações que compartilhamos.
+
+Uma decisão construída sobre informações falsas pode comprometer recursos, prejudicar pessoas e produzir consequências para todo o ecossistema.
+
+Na IMTS, queremos comunicar com honestidade.
+
+Isso significa apresentar resultados reais, reconhecer limitações e distinguir aquilo que sabemos daquilo que ainda precisa ser compreendido.
+
+Queremos que erros e dificuldades possam ser comunicados com responsabilidade, permitindo correção e aprendizagem.
+
+Reconhecemos que uma informação equivocada pode decorrer de uma falha de compreensão e precisa ser esclarecida.
+
+Nossa intenção é enfrentar a falsificação deliberada, a ocultação enganosa e as práticas que manipulam a confiança de outras pessoas.
+
+A integridade exige compromisso com a verdade, inclusive quando ela revela algo que precisamos corrigir.
+
+**Individualismo | Colaboração e responsabilidade compartilhada**
+
+A IMTS reúne pessoas e empreendimentos com competências, objetivos e responsabilidades próprios.
+
+Acreditamos que essa diversidade pode ampliar nossas possibilidades quando encontra condições de colaboração.
+
+Queremos valorizar a iniciativa individual e sua contribuição para resultados coletivos.
+
+O individualismo que buscamos evitar se manifesta quando interesses particulares são conduzidos de maneira a prejudicar injustamente outras pessoas ou enfraquecer compromissos compartilhados.
+
+Isso pode ocorrer pela retenção deliberada de informações necessárias, pela apropriação de contribuições ou pela recusa injustificada de cooperação dentro das responsabilidades assumidas.
+
+Nossa intenção é desenvolver relações de reciprocidade.
+
+Queremos que as pessoas tenham espaço para realizar e crescer, reconhecendo também as condições que ajudam o conjunto a prosperar.
+
+**Mediocridade | Compromisso com a excelência**
+
+A excelência exige atenção à qualidade daquilo que entregamos e disposição para desenvolver nossas capacidades.
+
+Na IMTS, queremos evitar a acomodação persistente diante de falhas conhecidas e a indiferença perante melhorias necessárias.
+
+Reconhecemos que aprender envolve tentativas, dúvidas e resultados que podem ficar abaixo das expectativas.
+
+Uma dificuldade de execução precisa ser compreendida para que possamos identificar suas causas e oferecer uma resposta adequada.
+
+Queremos distinguir a necessidade de desenvolvimento da recusa em assumir responsabilidade pela qualidade.
+
+Nossa intenção é estabelecer expectativas claras, condições compatíveis de trabalho e oportunidades de aprendizagem.
+
+A busca pela excelência se fortalece quando conseguimos reconhecer problemas, corrigir caminhos e melhorar nossas entregas.
+
+**Procrastinação | Iniciativa e capacidade de execução**
+
+Uma intenção precisa encontrar movimento para se transformar em realização.
+
+Na IMTS, queremos agir com clareza sobre prioridades e responsabilidade pelos compromissos assumidos.
+
+A procrastinação compromete essa capacidade quando decisões e atividades necessárias são adiadas repetidamente, sem justificativa ou comunicação adequada.
+
+Queremos desenvolver iniciativa para começar, acompanhar e concluir o trabalho.
+
+Reconhecemos que algumas tarefas dependem de informações, recursos ou decisões que ainda não estão disponíveis.
+
+Nessas situações, esperamos que a dificuldade seja identificada e comunicada, permitindo reorganizar o caminho e avançar no que for possível.
+
+Nossa intenção é construir uma cultura de execução consciente, na qual planejamento, ação e acompanhamento contribuam para resultados concretos.
+
+**Negativismo | Uma postura construtiva diante dos desafios**
+
+Problemas precisam ser reconhecidos para que possam ser resolvidos.
+
+Acreditamos que a crítica fundamentada, a identificação de riscos e a divergência respeitosa contribuem para decisões melhores.
+
+Na IMTS, queremos preservar essas contribuições e desenvolver uma postura construtiva diante das dificuldades.
+
+O negativismo que buscamos evitar se manifesta na desqualificação recorrente das pessoas, no descrédito indiscriminado das iniciativas e na propagação de desânimo sem disposição para compreender ou contribuir.
+
+Queremos tratar desafios com seriedade e procurar respostas proporcionais às condições existentes.
+
+Isso exige ouvir, avaliar possibilidades e reconhecer quando uma proposta precisa ser revista.
+
+Nossa intenção é combinar realismo e iniciativa, cultivando a capacidade de transformar preocupações em contribuições úteis.
+
+**Clareza para orientar e responsabilidade para corrigir**
+
+Os sete limites apresentados precisam ser compreendidos em relação a comportamentos observáveis e aos compromissos assumidos.
+
+Queremos evitar julgamentos baseados apenas em impressões ou rótulos sobre as pessoas.
+
+Uma cultura responsável exige ouvir os envolvidos, compreender circunstâncias e distinguir erros, dificuldades e condutas deliberadas.
+
+Na IMTS, queremos que a identificação de um problema conduza a uma resposta coerente.
+
+Essa resposta pode envolver esclarecimento, aprendizagem, correção de práticas e decisões proporcionais à situação.
+
+Nossa intenção é preservar a confiança e criar condições para uma convivência íntegra, na qual as responsabilidades sejam compreensíveis e os problemas possam ser tratados com respeito.
+
+**O compromisso que fortalece nosso ecossistema**
+
+Queremos que nossa cultura seja reconhecida pela participação consciente e pela qualidade de nossas relações.
+
+Pelo compromisso com o que assumimos.
+
+Pela gratidão diante das contribuições recebidas.
+
+Pela honestidade nas informações e nas decisões.
+
+Pela colaboração entre pessoas e empreendimentos.
+
+Pela busca contínua da excelência.
+
+Pela iniciativa de transformar intenções em realizações.
+
+E pela disposição construtiva para enfrentar desafios.
+
+Acreditamos que esses compromissos fortalecem nossa capacidade de trabalhar juntos e produzir resultados sustentáveis.
+
+É dessa maneira que compreendemos a Tolerância Zero na IMTS: como a clareza dos limites que protegem nossa integridade e orientam a construção de um ecossistema capaz de aprender, realizar e contribuir positivamente para a sociedade.
 
 ### 06.2 | Condutas Proibidas
 
