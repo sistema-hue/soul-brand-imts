@@ -1,6 +1,6 @@
 # D.K.P. | Soul Brand IMTS
 
-Versão 0 | 2026-10-21T14:03:00Z
+Versão 1 | 2026-10-21T15:41:12.468Z
 
 ## Registro histórico preservado
 
@@ -41,7 +41,7 @@ Os apontamentos abaixo pertencem à fonte histórica. O estado mais recente de a
 
 ---
 
-# Soul Brand IMTS
+# Soul Brand
 
 ## Prefácio
 

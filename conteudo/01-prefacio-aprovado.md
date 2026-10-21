@@ -1,4 +1,4 @@
-# Soul Brand IMTS
+# Soul Brand
 
 ## Prefácio
 
