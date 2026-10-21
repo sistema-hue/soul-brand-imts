@@ -2,7 +2,7 @@
 
 Planejamento Estratégico IMTS 2027–2030
 
-Cópia 1 | 2026-10-21T21:27:22.255Z
+Cópia 2 | 2026-10-21T21:52:18.858Z
 
 ## Versões aprovadas para apresentação
 
@@ -10,7 +10,852 @@ Nenhum instrumento aprovado neste ciclo.
 
 ## Registros atuais
 
-Nenhum instrumento preenchido.
+## A01 | A01 | Leitura inicial das oportunidades comerciais qualificadas
+
+Registro piloto-imts-a01 · Versão 1 · Rascunho
+
+### Medida
+
+Proposta de indicador: proporção de oportunidades com problema, interlocutor, uso esperado, restrições e próximo passo documentados, dentro do conjunto de oportunidades efetivamente examinadas no piloto. Qualificação documental não significa venda, contrato ou receita.
+
+### Base
+
+Não informada. Não há nesta base uma carteira comercial datada e comparável que permita estabelecer a linha de base.
+
+### Alvo
+
+Proposta qualitativa inicial: tornar as oportunidades examinadas comparáveis e decidir quais merecem um próximo teste delimitado. Meta numérica, prazo e tamanho do conjunto ainda não definidos.
+
+### Natureza
+
+Definição e alvo propostos para revisão. Nenhum valor comercial observado foi fornecido. A confirmação técnica das cópias é uma evidência de ferramenta, não o valor deste indicador.
+
+### Atual
+
+Não calculável com as fontes disponíveis: faltam o número de oportunidades examinadas e os respectivos registros de qualificação. Não substituir informação ausente por zero.
+
+### Período
+
+Ciclo 2027–2030; janela inicial de observação do piloto ainda a definir. Registrar a data de cada análise para construir uma série comparável.
+
+### Perímetro
+
+Somente oportunidades incluídas explicitamente na exploração delimitada. IA e automação para B2B SMB e soluções B2G complexas são alternativas propostas, não segmentos já priorizados ou carteira existente.
+
+### Origem
+
+Registros comerciais que vierem a ser produzidos pelos instrumentos F01, E01 e X02. O Soul Brand fundamenta identidade e orientação; não fornece os valores de carteira necessários a este cálculo.
+
+### Qualidade
+
+Antes de calcular, verificar completude dos campos de qualificação, unicidade das oportunidades e mesma regra de inclusão no denominador. Contatos não examinados e registros incompletos devem aparecer separadamente.
+
+### Variação
+
+Não calculável enquanto não houver pelo menos duas observações em bases equivalentes. Percentual com denominador zero ou desconhecido deve ser apresentado como não calculável.
+
+### Explicações
+
+Variações futuras poderão decorrer de seleção de oportunidades, melhoria de registro ou mudança real de qualidade comercial. Investigar essas possibilidades; não atribuir automaticamente a variação ao método ou à ferramenta.
+
+### Decisão
+
+Preparar a definição operacional e os registros de origem; manter meta, janela e leitura comercial como pendências explícitas até existirem dados e decisão sobre o piloto.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1, 2026-10-21T15:41:12.468Z: 04 | Essência Institucional; 05.1 | Propósito; 05.2 | Visão de Futuro. Evidências operacionais comunicadas pelo agente principal: recibos planner da IMTS 2027–2030, snapshot 1/configuração 1, GitHub em 2026-10-21T21:27:29.162Z e Drive em 2026-10-21T21:34:07.468Z; publicação appgdep_6ad92f49c468819188160678bdf7da38. Baseline do projeto v1: 20 tarefas.
+
+### Notas
+
+Rascunho de aplicação do método. Fatos técnicos descritos são distintos de validação comercial ou impacto social. Propostas novas não recebem aprovação automática. Nenhuma receita, cliente, orçamento ou capacidade de entrega comercial foi presumida.
+
+---
+
+## A02 | A02 | Três painéis de acompanhamento da IMTS
+
+Registro piloto-imts-a02 · Versão 1 · Rascunho
+
+### Construção documental
+
+Baseline do projeto v1: 16/20 tarefas aceitas, 80%; faltam 4/20, 20%. Sprints 1 a 4 concluídas; Sprint 5 iniciada com zero tarefas aceitas. Os novos rascunhos do piloto não acrescentam tarefas concluídas antes de satisfazer seus critérios.
+
+### Desempenho empresarial
+
+Sem resultados comerciais mensurados nesta base. Receita, margem, caixa, conversão, carteira e custo de aquisição não informados. As alternativas IA/automação B2B SMB e B2G complexo são propostas de exploração, sem prioridade comercial já decidida.
+
+### Impacto
+
+Sem mudança social ou ambiental observada e atribuível ao piloto. O propósito institucional declara a contribuição desejada; os beneficiários, condições de mensuração, linha de base e efeitos ainda precisam ser explicitados por iniciativa.
+
+### Evidência
+
+Construção: baseline v1 e aceites S1–S4; recibos reais GitHub/Drive do snapshot 1/configuração 1. Negócio: registros comerciais ainda a produzir, sem valores disponíveis. Impacto: Soul Brand 05.1 e 05.2 como intenção institucional, sem evidência de realização.
+
+### Limites
+
+Os 80% medem cobertura de tarefas aceitas da baseline, com pesos iguais, não esforço restante, sucesso empresarial nem impacto. A confirmação técnica das cópias não valida demanda de mercado. Não combinar os três painéis em uma nota única que oculte lacunas.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1, 2026-10-21T15:41:12.468Z: 04 | Essência Institucional; 05.1 | Propósito; 05.2 | Visão de Futuro. Evidências operacionais comunicadas pelo agente principal: recibos planner da IMTS 2027–2030, snapshot 1/configuração 1, GitHub em 2026-10-21T21:27:29.162Z e Drive em 2026-10-21T21:34:07.468Z; publicação appgdep_6ad92f49c468819188160678bdf7da38. Baseline do projeto v1: 20 tarefas.
+
+### Notas
+
+Rascunho de aplicação do método. Fatos técnicos descritos são distintos de validação comercial ou impacto social. Propostas novas não recebem aprovação automática. Nenhuma receita, cliente, orçamento ou capacidade de entrega comercial foi presumida.
+
+---
+
+## E01 | IMTS | Duas alternativas para exploração comercial delimitada
+
+Registro piloto-imts-e01 · Versão 1 · Rascunho
+
+### Público
+
+A: gestor comprador e equipe usuária de uma pequena ou média empresa (B2B SMB). B: gestor responsável por operação pública territorial, usuários operacionais e cidadãos afetados (B2G Corp). O interlocutor real ainda não foi identificado neste registro.
+
+### Problema
+
+A, hipótese: retrabalho ou demora em um processo empresarial repetitivo com entradas e saídas observáveis. B, hipótese: informação territorial dispersa que dificulte acompanhar uma operação pública. Não há diagnóstico de cliente que confirme esses problemas em uma organização específica.
+
+### Valor
+
+A, valor a testar: reduzir trabalho repetitivo e melhorar previsibilidade sem complexidade desproporcional. B, valor a testar: melhorar visibilidade operacional e apoiar decisões com informação territorial adequada. Ganhos serão verificados contra uma linha de base real; ainda não estão quantificados.
+
+### Oferta
+
+A, proposta exploratória: qualificação do processo e protótipo de uma automação delimitada com critério de comparação. B, proposta exploratória: qualificação da necessidade territorial e demonstração de integração/visualização com dados permitidos. Nenhuma oferta foi publicada, vendida ou prometida.
+
+### Canal
+
+Proposta: partir de relacionamento existente e autorizado, caso disponível, para compreender o problema com o interlocutor adequado. Não foi confirmada uma base de contatos nem executado envio ou abordagem. O canal comercial só será escolhido após verificar acesso e natureza da organização.
+
+### Capacidades
+
+A: modelagem de processo, automação/IA quando pertinente, dados, segurança e sustentação. B: integração IoT/territorial quando necessária, dados, visualização, segurança e sustentação. Em ambos, demonstrar capacidade e disponibilidade antes de prometer implantação.
+
+### Economia a conhecer
+
+A conhecer em cada alternativa: custo de qualificação, construção e suporte; recursos comprometidos; preço e disposição de investir; duração e condições de contratação; recebimentos e desembolsos. Não há receita, margem, CAC ou ciclo de venda calculável nesta preparação.
+
+### Renúncias
+
+Proposta para o primeiro ensaio: limitar-se a uma oportunidade e a um problema observável; adiar integração ampla de todas as células, desenvolvimento genérico, múltiplos públicos simultâneos e promessa de escala. Trata-se de recomendação de foco, sem descarte estratégico de segmentos.
+
+### Hipótese crítica
+
+A oportunidade escolhida deve reunir problema relevante, interlocutor acessível e capacidade de realizar um ensaio proporcional. Se qualquer um desses elementos faltar, a exploração precisa mudar de recorte ou voltar à qualificação, mesmo que a tecnologia seja demonstrável.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1, 2026-10-21T15:41:12.468Z; 07.2 | Células; 07.3 | Segmentação; 07.10 | Proposta de Valor Única (PVU); 07.11 | Perfil Ideal de Cliente (PIP). Identidade de referência: I01 preparado a partir de 05.1–05.4.
+
+### Notas
+
+Rascunho do piloto IMTS 2027–2030. O Soul Brand sustenta a identidade e o campo de atuação; não comprova demanda, equipe disponível, capacidade instalada ou viabilidade comercial. Sínteses e propostas não herdam aprovação editorial. Nenhum contato externo, gasto ou compromisso comercial foi executado por este registro.
+
+---
+
+## E02 | IMTS | Comparação sem pontuação de dados desconhecidos
+
+Registro piloto-imts-e02 · Versão 1 · Rascunho
+
+### Critério
+
+Coerência com propósito; relevância do problema para usuários/beneficiários; acesso a comprador e processo; capacidade real de entrega; dependências e sustentação; condições econômicas; potencial de aprendizagem e consequências da solução.
+
+### Definição
+
+Aplicar os mesmos critérios a A (automação B2B SMB) e B (operação territorial B2G Corp). Para cada um, registrar evidência identificável, lacuna e implicação para o próximo compromisso. Não definir vencedor por sofisticação da tecnologia ou porte do cliente.
+
+### Avaliação
+
+Coerência institucional: ambas cabem nos campos descritos em 07.2 e 07.3, desde que resolvam necessidades reais e respeitem 07.11. Relevância concreta, acesso, capacidade alocável e economia: não avaliáveis com as fontes atuais. Menor escopo técnico de A é hipótese de desenho, não prova de menor custo ou venda mais rápida. Maior integração em B é possibilidade a delimitar, não benefício demonstrado.
+
+### Fonte
+
+Soul Brand IMTS, revisão 1, 2026-10-21T15:41:12.468Z; 07.2 | Células; 07.3 | Segmentação; 07.10 | Proposta de Valor Única (PVU); 07.11 | Perfil Ideal de Cliente (PIP). Identidade de referência: I01 preparado a partir de 05.1–05.4. Comparação elaborada para o piloto; sem entrevistas ou dados econômicos anexados.
+
+### Desconhecido
+
+Não informados: oportunidade real em cada recorte, responsável comprador, alternativas já utilizadas, tempo disponível, custo de entrega, preço, risco operacional, forma de contratação aplicável e condições de sustentação. Essas lacunas ficam como não avaliáveis, sem nota zero.
+
+### Sensibilidade
+
+Sem pesos numéricos nesta versão. A recomendação muda conforme acesso, relevância demonstrada e capacidade real: uma oportunidade B bem delimitada pode ser preferível a uma A sem interlocutor; uma A acessível pode permitir aprender antes de uma B ainda sem dados ou patrocínio operacional. Não calcular ranking enquanto os critérios decisivos permanecerem desconhecidos.
+
+### Condição de inversão
+
+Inverter a preferência exploratória se a oportunidade inicialmente escolhida não oferecer acesso, problema verificável ou capacidade de ensaio, enquanto a alternativa apresentar esses elementos com evidência. Registrar a nova evidência e o alcance da mudança, sem declarar vencedor permanente.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1, 2026-10-21T15:41:12.468Z; 07.2 | Células; 07.3 | Segmentação; 07.10 | Proposta de Valor Única (PVU); 07.11 | Perfil Ideal de Cliente (PIP). Identidade de referência: I01 preparado a partir de 05.1–05.4.
+
+### Notas
+
+Rascunho do piloto IMTS 2027–2030. O Soul Brand sustenta a identidade e o campo de atuação; não comprova demanda, equipe disponível, capacidade instalada ou viabilidade comercial. Sínteses e propostas não herdam aprovação editorial. Nenhum contato externo, gasto ou compromisso comercial foi executado por este registro.
+
+---
+
+## E03 | IMTS | Recomendação exploratória com decisão comercial pendente
+
+Registro piloto-imts-e03 · Versão 1 · Rascunho
+
+### ID
+
+IMTS-27-30-E03-01
+
+### Recomendação
+
+Recomenda-se preparar a qualificação de uma oportunidade delimitada de IA/automação B2B SMB e confrontá-la com uma oportunidade territorial B2G Corp. Começar pelo recorte que primeiro reúna acesso real, problema observável e capacidade de ensaio demonstrável. A é uma hipótese de entrada com escopo controlável, não prioridade comercial aprovada. Preservar B como alternativa pertinente, sem assumir compromisso de implantação em qualquer delas.
+
+### Decisão expressa ou pendente
+
+Pendente a decisão comercial sobre oportunidade, público inicial, limite de recursos e início de contato externo. As autorizações de desenvolver o método e a ferramenta não comprovam escolha desse recorte nem consentimento de clientes. Nenhum investimento, parceiro, contato ou contrato foi comprometido por este registro.
+
+### Alcance
+
+Proposta limitada a qualificar a necessidade, desenhar ensaio proporcional e identificar as condições de entrega. Não abrange lançamento comercial, promessa de resultado, contratação, coleta de dados de terceiros ou escala. A aplicação documental do método pode avançar com hipóteses e lacunas explícitas.
+
+### Renúncias
+
+Renúncias propostas para esse primeiro aprendizado: cobertura simultânea de vários segmentos, integração de todas as células e construção de produto completo antes de compreender o processo e o comprador. Ainda não há renúncia comercial aceita nem exclusão definitiva de uma célula.
+
+### Condição de revisão
+
+Rever após obter ficha de oportunidade sustentada, demonstrar ou refutar a capacidade do ensaio, identificar restrição material ou constatar falta de acesso. Se a evidência não sustentar o recorte, reduzir, trocar de alternativa ou complementar o diagnóstico. Preservar no histórico o motivo da revisão.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1, 2026-10-21T15:41:12.468Z; 07.2 | Células; 07.3 | Segmentação; 07.10 | Proposta de Valor Única (PVU); 07.11 | Perfil Ideal de Cliente (PIP). Identidade de referência: I01 preparado a partir de 05.1–05.4.
+
+### Notas
+
+Rascunho do piloto IMTS 2027–2030. O Soul Brand sustenta a identidade e o campo de atuação; não comprova demanda, equipe disponível, capacidade instalada ou viabilidade comercial. Sínteses e propostas não herdam aprovação editorial. Nenhum contato externo, gasto ou compromisso comercial foi executado por este registro.
+
+---
+
+## F01 | IMTS | Evidências para o primeiro recorte comercial 2027–2030
+
+Registro piloto-imts-f01 · Versão 1 · Rascunho
+
+### ID
+
+IMTS-27-30-F01-01
+
+### Questão
+
+Qual recorte de problema, público e solução merece a primeira exploração comercial delimitada da IMTS, preservando propósito e capacidade real de entrega?
+
+### Nível
+
+Negócio, com repercussão no portfólio do ecossistema. A unidade de análise será uma oportunidade concreta, não a validação conjunta das sete células.
+
+### Horizonte
+
+Horizonte estratégico 2027–2030. Preparação documental em 21/10/2026; o período de exploração ainda precisa ser definido conforme acesso e recursos disponíveis.
+
+### Públicos
+
+Alternativa A: gestores e usuários de pequenas e médias empresas, segmento B2B SMB, com processo repetitivo que possa ser observado. Alternativa B: gestores públicos e usuários/cidadãos de uma operação territorial, segmento B2G Corp. Contratante, usuário e beneficiário serão identificados separadamente em cada caso.
+
+### Afirmação
+
+Fato documental: 07.2 descreve sete campos de competência, incluindo IA e Automação e Cidades Inteligentes, IoT e Monitoramento Territorial; 07.3 distingue B2B SMB e B2G Corp. Hipótese A: uma automação delimitada para B2B SMB pode permitir aprender com menor escopo inicial. Hipótese B: uma solução territorial B2G Corp pode oferecer valor relevante, porém sua adequação e condições de realização precisam ser demonstradas. A comparação ainda não autoriza priorização definitiva.
+
+### Fonte
+
+Soul Brand IMTS, revisão 1, 2026-10-21T15:41:12.468Z; 07.2 | Células; 07.3 | Segmentação; 07.10 | Proposta de Valor Única (PVU); 07.11 | Perfil Ideal de Cliente (PIP). Identidade de referência: I01 preparado a partir de 05.1–05.4.
+
+### Data
+
+Fonte institucional: revisão 1 de 21/10/2026. Não há nesta preparação pesquisa de mercado, entrevistas registradas, carteira comercial datada ou série econômica do ciclo 2027–2030.
+
+### Natureza
+
+Fato: existência das declarações institucionais aprovadas. Síntese: dois recortes comparáveis para explorar. Hipótese: relevância, facilidade de acesso e capacidade de entrega em cada recorte. Proposta: protocolo de qualificação. Não há resultado comercial observado.
+
+### Limitação
+
+A fonte não informa tamanho acessível do mercado, demanda validada, contatos autorizados, responsável comprador, orçamento do cliente, preço aceitável, custos, tempo de contratação ou capacidade disponível. Não permite estimar receita nem afirmar vantagem competitiva comprovada.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1, 2026-10-21T15:41:12.468Z; 07.2 | Células; 07.3 | Segmentação; 07.10 | Proposta de Valor Única (PVU); 07.11 | Perfil Ideal de Cliente (PIP). Identidade de referência: I01 preparado a partir de 05.1–05.4.
+
+### Notas
+
+Rascunho do piloto IMTS 2027–2030. O Soul Brand sustenta a identidade e o campo de atuação; não comprova demanda, equipe disponível, capacidade instalada ou viabilidade comercial. Sínteses e propostas não herdam aprovação editorial. Nenhum contato externo, gasto ou compromisso comercial foi executado por este registro.
+
+---
+
+## F02 | IMTS | Capacidades declaradas e disponibilidade a verificar
+
+Registro piloto-imts-f02 · Versão 1 · Rascunho
+
+### Capacidade
+
+Mobilizar IA/automação, dados, segurança e infraestrutura para um processo empresarial delimitado; ou integrar IoT/monitoramento territorial, dados, segurança e infraestrutura em uma operação pública. As demais células continuam no horizonte institucional e não são descartadas por este recorte.
+
+### Disponibilidade conhecida
+
+Conhecido: o Soul Brand descreve essas competências como campos de desenvolvimento e colaboração. Não informado: equipe alocável, experiências demonstráveis, componentes reutilizáveis, parceiros comprometidos, disponibilidade de suporte e capacidade de implantação. Declaração de célula não equivale a capacidade operacional disponível.
+
+### Compromisso
+
+Não foi recuperado um registro consolidado de compromissos de pessoas, capital, atendimento ou projetos que permita afirmar disponibilidade líquida. Nenhuma pessoa, parceiro ou orçamento foi alocado por este instrumento.
+
+### Dependência
+
+Acesso autorizado ao processo e aos interlocutores; exemplo utilizável sem dados sensíveis; responsável capaz de explicar o problema; competência técnica demonstrável; infraestrutura proporcional; forma de contratação aplicável ao caso. Cada dependência será vinculada à alternativa correspondente.
+
+### Informação faltante
+
+Para cada oportunidade: problema e frequência, usuário e comprador, acesso a dados, volume e exceções, alternativas atuais, capacidade técnica comprovável, disponibilidade dos envolvidos, condições econômicas e operacionais e restrições reais de implantação.
+
+### Decisão afetada
+
+Definir qual hipótese pode receber um ensaio delimitado sem prometer entrega que a IMTS ainda não demonstrou conseguir sustentar. A lacuna afeta a ordem de exploração e o tamanho do compromisso, não a preservação do propósito.
+
+### Verificação
+
+Preparar ficha de oportunidade e roteiro de conversa; relacionar um exemplo verificável de capacidade por dependência; registrar disponibilidade efetiva e compromisso existente. Confrontar a ficha com um processo real somente quando houver interlocutor e acesso autorizados. Usar protótipo com dados sintéticos para dúvidas técnicas, mantendo separada a validação de demanda.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1, 2026-10-21T15:41:12.468Z; 07.2 | Células; 07.3 | Segmentação; 07.10 | Proposta de Valor Única (PVU); 07.11 | Perfil Ideal de Cliente (PIP). Identidade de referência: I01 preparado a partir de 05.1–05.4.
+
+### Notas
+
+Rascunho do piloto IMTS 2027–2030. O Soul Brand sustenta a identidade e o campo de atuação; não comprova demanda, equipe disponível, capacidade instalada ou viabilidade comercial. Sínteses e propostas não herdam aprovação editorial. Nenhum contato externo, gasto ou compromisso comercial foi executado por este registro.
+
+---
+
+## F03 | IMTS | Suficiência para explorar, sem antecipar escala
+
+Registro piloto-imts-f03 · Versão 1 · Rascunho
+
+### Questão
+
+As informações disponíveis sustentam iniciar uma exploração delimitada de IA/automação B2B SMB ou uma oportunidade de cidade inteligente B2G Corp?
+
+### Conhecido
+
+A IMTS possui propósito, visão, princípios e valores documentados; o Soul Brand descreve sete células, seis segmentos e perfil de cliente orientado a necessidades reais e valor sustentável. Esses elementos permitem formular critérios e hipóteses coerentes. Não há, neste conjunto de fontes, demonstração de demanda ou capacidade comercial por recorte.
+
+### Hipóteses
+
+A: um processo empresarial pequeno e observável pode produzir aprendizado com escopo controlado. B: uma necessidade territorial concreta pode justificar integração de competências em B2G Corp. Em ambas, permanecem hipóteses o acesso a interlocutores, a relevância do problema, a possibilidade de entregar e a disposição de investir.
+
+### Cenários
+
+Cenário A: existe empresa acessível com processo delimitado, exemplo de dados e responsável interessado em explicar a necessidade. Cenário B: existe órgão com problema territorial definido, interlocutor competente e condições de acesso. Cenário C: não há acesso ou capacidade demonstrável em nenhum dos recortes; nesse caso, preparar a evidência faltante antes de ampliar a promessa.
+
+### Limites
+
+Não há base para contratar equipe, assumir implantação, projetar receita ou selecionar uma célula como prioridade permanente. Não comparar ganho econômico atribuindo zero ao desconhecido. Não tratar um protótipo sintético como comprovação de benefício ao cliente.
+
+### Avanço permitido
+
+Avançar na comparação documental, no roteiro de qualificação e no desenho de um ensaio técnico sintético. A coleta externa depende de interlocutor e acesso disponíveis; não foi realizada. O ensaio e a conversa devem responder dúvidas específicas antes de qualquer recomendação de implantação ou escala.
+
+### Decisão ou pendência
+
+Decisão comercial pendente. Recomendação de trabalho: qualificar primeiro uma oportunidade concreta e acessível, confrontando-a com a alternativa; registrar por que ela permite aprender e quais evidências poderiam inverter a preferência.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1, 2026-10-21T15:41:12.468Z; 07.2 | Células; 07.3 | Segmentação; 07.10 | Proposta de Valor Única (PVU); 07.11 | Perfil Ideal de Cliente (PIP). Identidade de referência: I01 preparado a partir de 05.1–05.4.
+
+### Notas
+
+Rascunho do piloto IMTS 2027–2030. O Soul Brand sustenta a identidade e o campo de atuação; não comprova demanda, equipe disponível, capacidade instalada ou viabilidade comercial. Sínteses e propostas não herdam aprovação editorial. Nenhum contato externo, gasto ou compromisso comercial foi executado por este registro.
+
+---
+
+## I01 | Carta de identidade IMTS | 2027–2030
+
+Registro piloto-imts-i01 · Versão 1 · Rascunho
+
+### Propósito
+
+Nosso propósito é transformar a vida das pessoas por meio do empreendedorismo, das tecnologias e da inovação, gerando impacto positivo e sustentável e construindo um legado duradouro.
+
+### Públicos
+
+Síntese para o ciclo 2027–2030, sem nova decisão de prioridade comercial:
+
+Clientes e organizações contratantes: empreendedores e startups, empresas privadas e instituições públicas ou sociais que buscam aplicar tecnologias e inovação a necessidades relevantes. O Soul Brand descreve seis segmentos: B2G Corp, B2G SMB, B2B Corp, B2B SMB, B2C Digital e B2C Associativo.
+
+Usuários: pessoas que utilizam as soluções nos negócios, nos serviços públicos, nas experiências digitais e nas comunidades associativas. Quem contrata, quem utiliza e quem recebe o benefício podem ser pessoas diferentes.
+
+Beneficiários: empreendedores, colaboradores, cidadãos, comunidades e demais pessoas afetadas pelos resultados e pelas consequências das soluções. Identificar esses beneficiários por iniciativa será parte do diagnóstico, sem presumir benefício demonstrado.
+
+Rede de realização e continuidade: colaboradores, investidos, partnerships, associados, investidores e acionistas, conforme 05.5. Investidor ou parceiro não é automaticamente cliente ou usuário.
+
+A fonte reconhece a centralidade dos clientes, mas não determina uma ordem de entrada nos seis segmentos, quotas de atendimento ou alocação de recursos para 2027–2030. Essas escolhas permanecem abertas.
+
+### Transformação desejada
+
+Síntese da transformação desejada, não declaração de impacto já obtido:
+
+Ampliar as condições para que pessoas e organizações transformem ideias em empreendimentos e soluções relevantes, desenvolvam suas capacidades e construam prosperidade com responsabilidade econômica, social e ambiental.
+
+A contribuição pretendida combina empreendedorismo, tecnologias, inovação e colaboração: compreender necessidades reais, conectar competências e recursos, apoiar a execução e produzir benefícios que possam continuar ao longo do tempo.
+
+O planejamento de 2027–2030 deverá explicitar, por iniciativa, qual público recebe o benefício, qual mudança se espera favorecer e como observar essa mudança. Não há nesta carta linha de base, meta quantitativa ou comprovação de impacto.
+
+### Visão
+
+Construir um ecossistema empresarial exponencial, humano e sustentável, onde pessoas e negócios prosperem juntos, transformando sonhos em realizações e deixando um legado de impacto positivo para as próximas gerações.
+
+Horizonte desta aplicação: 2027–2030. A formulação acima é a visão institucional reaproveitada integralmente. Vinculá-la ao ciclo não a converte em promessa de realização integral até 2030. Marcos, indicadores e resultados esperados ainda serão definidos no percurso estratégico.
+
+### Valores
+
+Valores institucionais transcritos de 05.4, com suas declarações sintéticas:
+
+Empatia: Reconhecemos a humanidade de cada pessoa e buscamos compreender suas necessidades antes de decidir como podemos contribuir.
+
+Coragem: Temos coragem para imaginar novos caminhos, enfrentar incertezas e transformar nossas convicções em realizações.
+
+Protagonismo: Assumimos nosso papel na construção do futuro, respondendo pelas escolhas que fazemos e pelos compromissos que assumimos.
+
+Proatividade: Transformamos a capacidade de enxergar oportunidades na disposição de agir para torná-las possíveis.
+
+Gratidão: Valorizamos as pessoas que fazem parte da nossa história e reconhecemos que nossas conquistas também nascem das contribuições que recebemos.
+
+Felicidade: Queremos prosperar sem perder a alegria de viver, valorizando o equilíbrio, as relações humanas e o sentido das nossas realizações.
+
+Excelência: Buscamos ser melhores a cada dia, não apenas para alcançar nossos objetivos, mas para contribuir com o desenvolvimento das pessoas e do mundo ao nosso redor.
+
+### Princípios
+
+Princípios institucionais de 05.3, com suas declarações sintéticas:
+
+Propósito Centrado nas Pessoas: As pessoas são a razão de tudo o que construímos, e sua prosperidade é a medida mais significativa do nosso sucesso.
+
+Visão Transformadora: Enxergamos possibilidades além do presente e assumimos o compromisso de transformá-las em realidades que façam diferença.
+
+Protagonismo Ativo: Assumimos a responsabilidade pelas nossas escolhas e a coragem de agir para transformar aquilo em que acreditamos.
+
+Proatividade Visionária: Antecipamos oportunidades, enfrentamos desafios e preferimos a iniciativa responsável à espera por condições perfeitas.
+
+Cultura da Gratidão: Reconhecemos o valor das pessoas, das oportunidades e dos aprendizados que tornam nossa jornada possível.
+
+Cultivo da Felicidade: Cultivamos um ambiente onde prosperar também significa viver com propósito, equilíbrio, alegria e realização.
+
+Compromisso com a Excelência: Fazemos o melhor possível com os recursos que temos, aprimorando continuamente nossas capacidades e realizações.
+
+Limites de atuação sintetizados do capítulo 06: comunicar com honestidade, distinguir informações conhecidas de lacunas, colaborar com responsabilidade e buscar excelência sem confundir aprendizagem com recusa de compromisso. Não admitir desrespeito às pessoas, concorrência desleal entre operações, divulgação não autorizada de informações estratégicas ou sigilosas, assédio ou práticas abusivas ou ilegais.
+
+Esses limites orientam escolhas e condutas; não representam comprovação de que controles, canais de relato ou processos de tratamento já estejam implantados.
+
+### Critérios de escolha
+
+Proposta de tradução operacional da identidade para avaliar escolhas em 2027–2030. Estes critérios são uma nova formulação para revisão, sem pesos, notas de corte ou aprovação presumida:
+
+1. Contribuição ao propósito: qual necessidade humana ou empresarial é enfrentada, quem se beneficia e por que a atuação da IMTS pode contribuir?
+2. Integridade e respeito: a alternativa preserva dignidade humana, honestidade, confidencialidade legítima e lealdade entre operações? Incompatibilidades exigem ajuste ou descarte, sem compensação por retorno financeiro.
+3. Capacidade real de entrega: quais competências, recursos, compromissos e dependências sustentam a realização? O que ainda é hipótese?
+4. Sustentabilidade: quais condições econômicas, sociais e ambientais permitem manter o benefício e enfrentar consequências indesejadas?
+5. Excelência e proporcionalidade: a solução responde ao problema com qualidade e complexidade adequadas, utilizando os recursos com responsabilidade?
+6. Colaboração e contribuição ao ecossistema: a escolha conecta capacidades e produz valor compartilhado, respeitando a autonomia e os compromissos das operações?
+7. Aprendizagem e iniciativa responsável: qual ensaio delimitado permite reduzir a incerteza, que evidência será observada e em que condição revisar a escolha?
+8. Escalabilidade responsável: se houver razão para ampliar a iniciativa, quais condições preservam qualidade, consistência operacional e responsabilidade no uso dos recursos?
+
+Ausência de informação deve ser registrada como lacuna. Não atribuir zero, retorno projetado ou capacidade existente sem evidência. A ordem acima organiza a leitura e não define ranking de investimentos.
+
+### Mensagem central
+
+Proposta de mensagem central para revisão:
+
+A IMTS conecta pessoas, empresas, conhecimentos e tecnologias para transformar desafios e ideias em realizações. Por meio do empreendedorismo, da inovação e da colaboração, busca fortalecer negócios sustentáveis, desenvolver capacidades e gerar impacto positivo para as pessoas e para a sociedade.
+
+Esta mensagem resume a identidade institucional. Não afirma liderança de mercado, disponibilidade comprovada de capacidades, resultados financeiros ou impactos já realizados.
+
+### Fonte
+
+Soul Brand IMTS, revisão 1, atualizada em 21/10/2026 às 12:41:12 (America/Fortaleza; registro UTC 2026-10-21T15:41:12.468Z). Cópia de continuidade: github_live_document.json.
+
+Fontes por seção: 02 | Alvo e Impacto; 04 | Essência Institucional; 05.1 | Propósito; 05.2 | Visão de Futuro; 05.3 | Princípios; 05.4 | Valores; 05.5 | Prioridades; 05.6 | Nossa Missão; 05.7 | Nosso Negócio; 06.1 | Tolerância Zero; 06.2 | Condutas Proibidas; 07.3 | Segmentação; 07.8 | Público-Alvo; 07.11 | Perfil Ideal de Cliente (PIP).
+
+A aprovação histórica do Soul Brand permanece na fonte. Esta reorganização em I01 é um novo rascunho, e as sínteses, os critérios e a mensagem central não herdam aprovação automática. O horizonte 2027–2030 decorre do ciclo do planejamento, não de metas adicionais encontradas no Soul Brand.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1, atualizada em 21/10/2026 às 12:41:12 (America/Fortaleza; registro UTC 2026-10-21T15:41:12.468Z). Cópia de continuidade: github_live_document.json.
+
+Fontes por seção: 02 | Alvo e Impacto; 04 | Essência Institucional; 05.1 | Propósito; 05.2 | Visão de Futuro; 05.3 | Princípios; 05.4 | Valores; 05.5 | Prioridades; 05.6 | Nossa Missão; 05.7 | Nosso Negócio; 06.1 | Tolerância Zero; 06.2 | Condutas Proibidas; 07.3 | Segmentação; 07.8 | Público-Alvo; 07.11 | Perfil Ideal de Cliente (PIP).
+
+A aprovação histórica do Soul Brand permanece na fonte. Esta reorganização em I01 é um novo rascunho, e as sínteses, os critérios e a mensagem central não herdam aprovação automática. O horizonte 2027–2030 decorre do ciclo do planejamento, não de metas adicionais encontradas no Soul Brand.
+
+### Notas
+
+RASCUNHO I01 para reconciliação editorial. Reaproveita a identidade aprovada, sem reabrir os capítulos concluídos. Os critérios e a mensagem central são propostas novas. Sem nova decisão comercial, orçamento, meta quantitativa, atribuição de responsabilidades ou aprovação editorial. Não comprova sincronização externa. Conferir a correspondência da revisão de origem antes de importar; se a fonte mudar, reconciliar o rascunho.
+
+---
+
+## P01 | Qualificação de oportunidades | indicador proposto do piloto
+
+Registro piloto-imts-p01 · Versão 1 · Rascunho
+
+### Objetivo
+
+Identificar oportunidades nas quais uma necessidade relevante, a compatibilidade com a identidade IMTS e as condições reais de entrega possam ser demonstradas antes de ampliar compromissos comerciais.
+
+### Resultado
+
+Resultado pretendido: um conjunto rastreável de oportunidades qualificadas, com problema, público, interlocutor, condições de avaliação, capacidades exigidas e próximo passo verificável. Registrar separadamente as alternativas IA/automação B2B SMB e B2G Corp/cidades inteligentes. Nenhum conjunto de oportunidades reais foi apresentado nesta preparação.
+
+### Fórmula
+
+Indicador proposto: taxa de qualificação = oportunidades que atendem a todos os critérios de qualificação / oportunidades com triagem concluída × 100. Critérios: necessidade confirmada por evidência identificável; interlocutor e processo de decisão conhecidos; aderência ao propósito e limites institucionais; condições técnicas e econômicas para um próximo ensaio delimitado explicitadas. Informação ausente impede concluir a triagem; não a converter em resposta negativa ou oportunidade qualificada. Denominador zero: não calculável. Publicar também contagens e cobertura de triagem = triagens concluídas / oportunidades registradas × 100, para não ocultar as incompletas. Deduplicar por ID estável da combinação organização, problema e segmento; não contar reuniões como oportunidades distintas.
+
+### Unidade
+
+Percentual, acompanhado do número de oportunidades qualificadas, triagens concluídas, registros totais e triagens incompletas. Resultados por segmento, sem misturar bases distintas.
+
+### Período
+
+Proposta: consolidar a cada revisão do piloto, identificando a data de corte e o intervalo observado. A periodicidade definitiva e o início da coleta ainda não foram decididos; horizonte estratégico 2027–2030.
+
+### Perímetro
+
+Oportunidades efetivamente registradas no piloto e vinculadas a um problema específico. Separar B2B SMB/IA e automação de B2G Corp/cidades inteligentes. Não representa o mercado total nem todas as operações do ecossistema.
+
+### Fonte
+
+Soul Brand IMTS, revisão 1 (2026-10-21T15:41:12.468Z): 05.1 | Propósito; 05.2 | Visão de Futuro; 05.3 | Princípios; 05.4 | Valores; 07.2 | Células; 07.3 | Segmentação; 07.10 | Proposta de Valor Única (PVU); 07.11 | Perfil Ideal de Cliente (PIP). I01 preparado para o ciclo 2027–2030, ainda rascunho. Para calcular, acrescentar registros reais de descoberta, evidências de necessidades, triagem e verificação de capacidades; esses dados operacionais ainda não foram fornecidos.
+
+### Base
+
+Não informada. Não há contagem histórica comparável de oportunidades e triagens nesta base. A primeira observação válida poderá estabelecer a referência; ausência de dados não equivale a zero.
+
+### Alvo
+
+Proposta qualitativa: antes de recomendar ampliação de uma alternativa, tornar explícita a suficiência das evidências e as condições de um próximo teste proporcional. Meta numérica e prazo operacional permanecem a definir após a primeira leitura válida; não há alvo quantitativo aprovado.
+
+### Natureza
+
+Objetivo, critérios, fórmula, periodicidade e alvo qualitativo propostos. Identidade institucional reaproveitada da fonte. Linha de base e desempenho atual não observados nesta preparação.
+
+### Iniciativa
+
+P02 | Descoberta de necessidades e protótipo delimitado, com comparação entre alternativas e registro de capacidades, economia e limitações.
+
+### Condição de interpretação
+
+Qualificação indica prontidão para um próximo passo, não contratação, receita ou impacto social. Uma taxa maior pode resultar de seleção mais restrita ou mudança da cobertura; examinar contagens, critérios, segmento e incompletudes antes de comparar períodos. Sem base equivalente, não calcular evolução.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1 (2026-10-21T15:41:12.468Z): 05.1 | Propósito; 05.2 | Visão de Futuro; 05.3 | Princípios; 05.4 | Valores; 07.2 | Células; 07.3 | Segmentação; 07.10 | Proposta de Valor Única (PVU); 07.11 | Perfil Ideal de Cliente (PIP). I01 preparado para o ciclo 2027–2030, ainda rascunho.
+
+### Notas
+
+Proposta inicial do piloto IMTS 2027–2030. Não constitui escolha comercial aprovada, autorização de contratação ou gasto, resultado obtido ou aprovação editorial. Comparar IA/automação B2B SMB e soluções B2G Corp de cidades inteligentes com critérios equivalentes. Preservar lacunas como não informadas; atualizar com evidências durante a aplicação.
+
+---
+
+## P02 | Descoberta e protótipo delimitado | iniciativa proposta
+
+Registro piloto-imts-p02 · Versão 1 · Rascunho
+
+### Problema
+
+A identidade e o posicionamento descrevem competências e públicos, mas não demonstram por si sós quais necessidades específicas justificam uma oferta, quais recursos estão disponíveis ou qual alternativa comercial deve receber prioridade no ciclo 2027–2030.
+
+### Público
+
+Na alternativa A, empresas B2B SMB e pessoas que executam processos candidatos à IA/automação. Na alternativa B, organizações B2G Corp, equipes de gestão e usuários ou cidadãos afetados por soluções de cidades inteligentes. Identificar separadamente contratante, usuário e beneficiário em cada caso real.
+
+### Objetivo ou resultado-chave
+
+Reduzir a incerteza sobre necessidade, adequação da solução e condições de entrega, produzindo evidências utilizáveis na qualificação P01 e na comparação E02. As duas alternativas são hipóteses de exploração, sem prioridade comercial aprovada.
+
+### Entrega
+
+Dossiê curto de descoberta: problema e contexto; situação atual; evidências de relevância; pessoas envolvidas na decisão e no uso; capacidades e dependências; hipótese crítica; critérios de teste e registro dos resultados. Quando houver suficiência para avançar, acrescentar protótipo delimitado e reversível. Uma demonstração interna pode usar dados sintéticos claramente identificados.
+
+### Resultado esperado
+
+Permitir manter, reformular ou descartar a hipótese de valor e recomendar o próximo passo com alcance explícito. A entrega documental e o funcionamento de um protótipo não comprovam disposição de compra, viabilidade econômica, economia de recursos ou impacto.
+
+### Início
+
+Iniciar pela preparação interna do problema, roteiro e critérios. Descoberta com organizações reais depende de acesso a interlocutores e evidências disponíveis. Construir ou executar um protótipo externo somente após delimitar dados, recursos, responsabilidades e alcance concreto, sem presumir contratos ou autorizações existentes.
+
+### Predecessoras
+
+I01 como referência de identidade; F01–F03 para fontes, capacidades e suficiência; E01–E03 para alternativas e recomendação. Confirmar a versão vigente dessas entradas e registrar o que permanece proposto. Não é necessário levantar o mercado inteiro para preparar um ensaio pequeno.
+
+### Recursos
+
+Base documental e ferramenta do planejamento disponíveis para organizar o trabalho. Disponibilidade de especialistas, dedicação do proprietário, infraestrutura da solução, licenças, orçamento e dados do público: ainda não informada ou verificada para esta iniciativa comercial. Não tratar as sete células descritas no Soul Brand como equipe alocada.
+
+### Dependências
+
+Acesso ao problema e a interlocutores; disponibilidade dos dados necessários; capacidade de entregar o ensaio; segurança e limites do tratamento das informações. Na alternativa B2G, identificar ainda o processo institucional e as condições de contratação e continuidade relevantes ao caso, sem presumir sua resolução.
+
+### Critério de revisão
+
+Manter a exploração quando a necessidade estiver sustentada e o próximo teste couber nos meios confirmados. Ajustar público, problema ou solução se a evidência contradisser a hipótese. Interromper ou adiar quando não houver necessidade relevante, compatibilidade institucional ou condições proporcionais de entrega. Registrar a evidência e a razão da decisão, sem antecipar sucesso.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1 (2026-10-21T15:41:12.468Z): 05.1 | Propósito; 05.2 | Visão de Futuro; 05.3 | Princípios; 05.4 | Valores; 07.2 | Células; 07.3 | Segmentação; 07.10 | Proposta de Valor Única (PVU); 07.11 | Perfil Ideal de Cliente (PIP). I01 preparado para o ciclo 2027–2030, ainda rascunho.
+
+### Notas
+
+Proposta inicial do piloto IMTS 2027–2030. Não constitui escolha comercial aprovada, autorização de contratação ou gasto, resultado obtido ou aprovação editorial. Comparar IA/automação B2B SMB e soluções B2G Corp de cidades inteligentes com critérios equivalentes. Preservar lacunas como não informadas; atualizar com evidências durante a aplicação.
+
+---
+
+## P03 | Condições econômicas e caixa | lacunas do piloto
+
+Registro piloto-imts-p03 · Versão 1 · Rascunho
+
+### Receita
+
+Não informada. Para cada alternativa, levantar oferta delimitada, unidade de cobrança, preço, quantidade, período e perímetro. Só então separar receita realizada, contratada e projetada. B2B SMB e B2G Corp não compartilham automaticamente preço, volume ou ciclo de receita.
+
+### Deduções
+
+Não informadas. Identificar deduções incidentes na receita, como tributos e abatimentos efetivamente aplicáveis ao caso. Receita líquida = receita bruta − deduções identificadas. Não presumir regime, alíquota ou desconto; não repetir deduções em custos.
+
+### Custos
+
+Não informados. Levantar esforço de descoberta, desenvolvimento, implantação, suporte, infraestrutura, dados, segurança e continuidade conforme o escopo da alternativa. Distinguir gastos específicos da iniciativa e estrutura compartilhada; indicar período e natureza observada ou estimada.
+
+### Variáveis
+
+Não informadas. Examinar componentes que variam com utilização, implantação, clientes ou volume, tais como consumo de infraestrutura e serviços técnicos quando aplicáveis. Registrar sua regra de formação e o intervalo coberto. Ausência de valor não autoriza estimar custo variável zero.
+
+### Remunerações
+
+Não informada. Identificar trabalho próprio, serviços de terceiros, parceiros e eventuais comissões com suas condições reais. Classificar cada componente uma única vez como custo ou despesa apropriada; não descontar novamente no resultado o que já estiver incluído nos custos.
+
+### Rateio
+
+Critério de rateio não definido. Quando existirem custos compartilhados relevantes, escolher direcionador relacionado ao consumo ou benefício, documentar abrangência e informar o efeito do critério. Até lá, apresentar a lacuna e evitar uma rentabilidade artificialmente precisa.
+
+### Resultado
+
+Não calculável com os dados disponíveis. Modelo proposto: receita líquida menos custos e despesas atribuíveis ao mesmo período e perímetro, sem duplicidades. Se houver dados suficientes, distinguir margem de contribuição (receita líquida menos componentes variáveis) do resultado após estrutura atribuída. Nenhuma margem, retorno ou lucratividade foi demonstrada.
+
+### Recebimentos
+
+Não informados. Levantar momentos e condições de recebimento associados a contratos ou cenários explícitos, distinguindo previsão de entrada e entrada efetiva. Receita no período não equivale a caixa recebido; não presumir antecipação, parcelamento ou prazo de pagamento para qualquer segmento.
+
+### Desembolsos
+
+Não informados. Levantar datas e condições de pagamento de desenvolvimento, implantação, infraestrutura, remunerações e demais itens aplicáveis. Separar saídas previstas e efetivas. Saldo final de caixa = saldo inicial + recebimentos − desembolsos; os três componentes ainda exigem dados reais ou premissas explicitamente identificadas.
+
+### Premissas
+
+Este registro organiza a análise; não é previsão financeira. Ainda faltam preço, volume, escopo, esforço, disponibilidade de competências, custos, deduções, remunerações, rateio, calendário de entradas e saídas e saldo inicial pertinente. Não usar zero para preencher desconhecidos. Elaborar cenários separados por alternativa, com premissas e sensibilidade, quando houver base mínima; até lá não recomendar contratação, investimento ou escala com fundamento econômico.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1 (2026-10-21T15:41:12.468Z): 05.1 | Propósito; 05.2 | Visão de Futuro; 05.3 | Princípios; 05.4 | Valores; 07.2 | Células; 07.3 | Segmentação; 07.10 | Proposta de Valor Única (PVU); 07.11 | Perfil Ideal de Cliente (PIP). I01 preparado para o ciclo 2027–2030, ainda rascunho. A fonte orienta sustentabilidade e adequação, mas não fornece os dados econômico-financeiros exigidos para este cenário específico.
+
+### Notas
+
+Proposta inicial do piloto IMTS 2027–2030. Não constitui escolha comercial aprovada, autorização de contratação ou gasto, resultado obtido ou aprovação editorial. Comparar IA/automação B2B SMB e soluções B2G Corp de cidades inteligentes com critérios equivalentes. Preservar lacunas como não informadas; atualizar com evidências durante a aplicação.
+
+---
+
+## V01 | V01 | Aprendizado da falha de controle de versão no Drive
+
+Registro piloto-imts-v01 · Versão 1 · Rascunho
+
+### Origem
+
+Execução real do planejamento contextual: GitHub confirmado e Drive pendente por etag_required. Captura do proprietário de 21/10/2026 às 18:27 e diagnóstico técnico que identificou ausência de ETag forte na resposta de conteúdo.
+
+### Data
+
+21/10/2026, America/Fortaleza. GitHub confirmado às 18:27:29.162 e Drive às 18:34:07.468, conforme timestamps UTC dos recibos.
+
+### Natureza
+
+Fato técnico observado, correção realizada e aprendizado de validação. O novo texto deste instrumento é rascunho; não é aprovação editorial nem evidência comercial.
+
+### Antes
+
+O provedor recusava a gravação quando a leitura v3 de conteúdo não trazia ETag forte. A proteção evitava sobrescrita incondicional, mas os mocks iniciais não cobriam de forma suficiente a resposta real encontrada.
+
+### Depois
+
+Implementado caminho compatível: obter ETag dos metadados v2, reler o conteúdo, reconferir o mesmo ETag e usar PUT de mídia v2 com If-Match. Mantidas recusa de divergência, verificação por leitura/hash, recuperação parcial e confirmação por snapshot/configuração.
+
+### Decisão afetada
+
+Como conciliar continuidade automática e proteção de alterações externas. A solução adotada preservou a exigência de escrita condicional e mudou a obtenção e o uso do controle de versão.
+
+### Efeito esperado
+
+Reduzir pendências causadas pela ausência de ETag na resposta de conteúdo, sem permitir sobrescrita cega. O efeito foi observado na confirmação real da versão 1; não garante toda resposta futura do provedor.
+
+### Artefatos
+
+lib/planner-backup.ts; scripts/test-planner-backups.mjs; docs/ESTADO.json; registro de evolução e recibos planner. Publicação appgdep_6ad92f49c468819188160678bdf7da38, fonte 15b429aec1673245f61f44be64b5e8c5ddc2d9c0.
+
+### Revisão
+
+Correção publicada e testada com 41 grupos locais, incluindo cinco novos casos de compatibilidade e recuperação; revisão técnica relatada sem bloqueios. Os dois recibos reais versão 1/configuração 1 sustentam o fechamento da Sprint 4.
+
+### Lacuna
+
+Ampliar progressivamente a representatividade dos testes conforme novas respostas reais apareçam. Não há, nesta evidência, comprovação de retentativas contínuas com a página fechada nem de funcionamento comercial do piloto.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1, 2026-10-21T15:41:12.468Z: 04 | Essência Institucional; 05.1 | Propósito; 05.2 | Visão de Futuro. Evidências operacionais comunicadas pelo agente principal: recibos planner da IMTS 2027–2030, snapshot 1/configuração 1, GitHub em 2026-10-21T21:27:29.162Z e Drive em 2026-10-21T21:34:07.468Z; publicação appgdep_6ad92f49c468819188160678bdf7da38. Baseline do projeto v1: 20 tarefas.
+
+### Notas
+
+Rascunho de aplicação do método. Fatos técnicos descritos são distintos de validação comercial ou impacto social. Propostas novas não recebem aprovação automática. Nenhuma receita, cliente, orçamento ou capacidade de entrega comercial foi presumida.
+
+---
+
+## V02 | V02 | Confiança para avançar da ferramenta ao piloto estratégico
+
+Registro piloto-imts-v02 · Versão 1 · Rascunho
+
+### Pergunta
+
+O que a confirmação das cópias permite concluir e qual próximo avanço estratégico é sustentado pelas fontes disponíveis?
+
+### Fonte vigente
+
+Soul Brand IMTS revisão 1, 2026-10-21T15:41:12.468Z; recibos GitHub e Drive snapshot 1/configuração 1; baseline v1 com 16/20 tarefas aceitas; catálogo S.E.T.7 fonte 6, método set7-v1.
+
+### Natureza das afirmações
+
+Fatos: conteúdo institucional preservado e dois recibos reais da versão 1. Hipóteses: necessidades, atratividade e viabilidade das alternativas comerciais ainda a investigar. Recomendações: explorar oportunidades em escopo delimitado e produzir fontes comparáveis. Decisões: fechamento técnico S4 foi conferido pelo agente principal; não existe aqui uma decisão comercial final sobre segmento, oferta, orçamento ou meta.
+
+### Alternativas
+
+Aprofundar uma exploração delimitada de IA/automação B2B SMB; examinar oportunidades B2G complexas sob os mesmos critérios; ou complementar informação antes de qualquer teste com clientes. Nenhuma alternativa é declarada vencedora pela evidência técnica da sincronização.
+
+### Recomendação
+
+Prosseguir com o piloto documental e preparar uma comparação de oportunidades com problema, público, hipótese crítica, capacidade necessária e condições econômicas explícitos. Priorizar reversibilidade e aprendizado na proposta de teste, mantendo lacunas visíveis até a decisão de Ítalo.
+
+### Condição de mudança
+
+Reconciliar a recomendação se a identidade institucional mudar, se surgirem evidências comerciais que invertam a atratividade das alternativas ou se disponibilidade, restrições econômicas, integridade ou dependências impedirem o ensaio delimitado.
+
+### Decisão
+
+Prosseguimento do projeto autorizado pelo proprietário. Escolha comercial, metas, orçamento e aprovação dos novos instrumentos permanecem pendentes de formulação e homologação; esta recomendação não amplia a autorização para contratar, publicar ao público ou contatar terceiros.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1, 2026-10-21T15:41:12.468Z: 04 | Essência Institucional; 05.1 | Propósito; 05.2 | Visão de Futuro. Evidências operacionais comunicadas pelo agente principal: recibos planner da IMTS 2027–2030, snapshot 1/configuração 1, GitHub em 2026-10-21T21:27:29.162Z e Drive em 2026-10-21T21:34:07.468Z; publicação appgdep_6ad92f49c468819188160678bdf7da38. Baseline do projeto v1: 20 tarefas.
+
+### Notas
+
+Rascunho de aplicação do método. Fatos técnicos descritos são distintos de validação comercial ou impacto social. Propostas novas não recebem aprovação automática. Nenhuma receita, cliente, orçamento ou capacidade de entrega comercial foi presumida.
+
+---
+
+## X01 | X01 | Correção e confirmação das cópias do planejamento IMTS
+
+Registro piloto-imts-x01 · Versão 1 · Rascunho
+
+### ID
+
+IMTS-27-30-X01-001
+
+### Iniciativa
+
+Fundação da ferramenta de execução do S.E.T.7 e continuidade do planejamento IMTS 2027–2030.
+
+### Ação
+
+Corrigir a obtenção do controle de versão no Drive, publicar o ajuste e executar a cópia contextual autenticada, preservando a proteção contra sobrescrita e o recibo GitHub já confirmado.
+
+### Saída
+
+HTML, D.K.P./Markdown e JSON do snapshot 1/configuração 1 confirmados nos dois destinos do planejamento, com recibos localizáveis.
+
+### Aceite
+
+Concluir somente quando os três arquivos de cada provedor forem relidos e conferidos e houver recibos verificados para a mesma empresa, ciclo, snapshot e configuração. Testes simulados isolados não satisfazem este aceite real.
+
+### Predecessoras
+
+Conteúdo Soul Brand preservado, snapshot contextual imutável, destinos próprios IMTS e conexões autorizadas. GitHub já possuía confirmação antes da correção Drive.
+
+### Estado
+
+Concluída tecnicamente. O agente principal conferiu os dois recibos reais do snapshot 1/configuração 1. A Sprint 4 foi encerrada em 4/4 tarefas. Este novo registro do instrumento permanece rascunho editorial.
+
+### Evidência
+
+GitHub: commit 478abd0a88ed678b1e5bdb1bdd80a8e858d1bf97, recibo de 2026-10-21T21:27:29.162Z. Drive: recibo de 2026-10-21T21:34:07.468Z, três arquivos verificados por hash. Ajuste publicado no deployment appgdep_6ad92f49c468819188160678bdf7da38, fonte 15b429aec1673245f61f44be64b5e8c5ddc2d9c0.
+
+### Pendência
+
+Não há pendência da cópia técnica versão 1. Alterações posteriores exigirão novos snapshots e confirmações. Seguem abertas a aplicação estratégica S5, decisões sobre novas propostas e a homologação final.
+
+### Versão
+
+Baseline v1; entrega S4.4; snapshot 1; configuração 1; evidências de 21/10/2026. Não tratar a confirmação desta versão como confirmação de versões futuras.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1, 2026-10-21T15:41:12.468Z: 04 | Essência Institucional; 05.1 | Propósito; 05.2 | Visão de Futuro. Evidências operacionais comunicadas pelo agente principal: recibos planner da IMTS 2027–2030, snapshot 1/configuração 1, GitHub em 2026-10-21T21:27:29.162Z e Drive em 2026-10-21T21:34:07.468Z; publicação appgdep_6ad92f49c468819188160678bdf7da38. Baseline do projeto v1: 20 tarefas.
+
+### Notas
+
+Rascunho de aplicação do método. Fatos técnicos descritos são distintos de validação comercial ou impacto social. Propostas novas não recebem aprovação automática. Nenhuma receita, cliente, orçamento ou capacidade de entrega comercial foi presumida.
+
+---
+
+## X02 | X02 | Ensaio da continuidade entre editor, GitHub e Drive
+
+Registro piloto-imts-x02 · Versão 1 · Rascunho
+
+### Hipótese
+
+A ferramenta consegue preservar uma versão central e produzir cópias contextuais íntegras nos dois provedores, recuperando uma falha de integração sem substituir alterações externas de maneira incondicional.
+
+### Teste
+
+Executar a sincronização autenticada do snapshot 1/configuração 1. Para cada provedor, reler os três arquivos e comparar seu conteúdo com a captura central antes de registrar confirmação. Ensaios locais complementares examinam ETag ausente, metadados concorrentes, resposta 412 e recuperação parcial.
+
+### Limite autorizado
+
+Escopo técnico autorizado do projeto: planejamento IMTS 2027–2030, destinos existentes próprios, audiência privada e credenciais já cadastradas. Sem ampliar compartilhamento, contratar serviços ou realizar contato comercial.
+
+### Resultado observado
+
+O envio inicial confirmou GitHub e manteve Drive pendente porque a resposta de conteúdo não trouxe ETag forte. Após correção e nova execução autenticada, os recibos GitHub e Drive foram confirmados para snapshot 1/configuração 1. Os 41 grupos locais de teste foram relatados como aprovados; os provedores nesses testes eram simulados.
+
+### Fonte
+
+Recibos reais do contexto IMTS: GitHub 2026-10-21T21:27:29.162Z, commit 478abd0a88ed678b1e5bdb1bdd80a8e858d1bf97; Drive 2026-10-21T21:34:07.468Z, verificação dos três arquivos. Correção: deployment appgdep_6ad92f49c468819188160678bdf7da38. Teste local scripts/test-planner-backups.mjs, 41 grupos.
+
+### Interpretação
+
+O resultado sustenta o funcionamento observado desta versão e destas conexões. Não prova ausência de falhas futuras, operação contínua com a página fechada, escalabilidade comercial, demanda de clientes, retorno financeiro ou impacto social. O caso real expôs uma diferença que os primeiros mocks não representavam.
+
+### Decisão seguinte
+
+Prosseguir com o piloto estratégico e manter verificação por versão. Usar o aprendizado para cobrir variações reais de resposta dos provedores. A exploração comercial de IA/automação para B2B SMB e de soluções B2G complexas continua sendo proposta a qualificar, sem validação obtida por este ensaio técnico.
+
+### Fontes
+
+Soul Brand IMTS, revisão 1, 2026-10-21T15:41:12.468Z: 04 | Essência Institucional; 05.1 | Propósito; 05.2 | Visão de Futuro. Evidências operacionais comunicadas pelo agente principal: recibos planner da IMTS 2027–2030, snapshot 1/configuração 1, GitHub em 2026-10-21T21:27:29.162Z e Drive em 2026-10-21T21:34:07.468Z; publicação appgdep_6ad92f49c468819188160678bdf7da38. Baseline do projeto v1: 20 tarefas.
+
+### Notas
+
+Rascunho de aplicação do método. Fatos técnicos descritos são distintos de validação comercial ou impacto social. Propostas novas não recebem aprovação automática. Nenhuma receita, cliente, orçamento ou capacidade de entrega comercial foi presumida.
 
 ## Base documental
 
@@ -6304,4 +7149,4 @@ Uma história que continua sendo escrita, a cada dia, por aquilo que escolhemos 
 
 ## Histórico e decisões
 
-O arquivo continuidade.json da mesma cópia conserva integralmente as 0 revisões e 0 decisões editoriais, incluindo fontes e notas. A apresentação HTML utiliza a revisão aprovada mais recente de cada registro, mesmo quando há um rascunho posterior.
+O arquivo continuidade.json da mesma cópia conserva integralmente as 16 revisões e 0 decisões editoriais, incluindo fontes e notas. A apresentação HTML utiliza a revisão aprovada mais recente de cada registro, mesmo quando há um rascunho posterior.
