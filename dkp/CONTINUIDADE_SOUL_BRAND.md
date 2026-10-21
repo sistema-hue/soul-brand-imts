@@ -195,3 +195,15 @@ Este checkpoint posterior prevalece sobre as indicações antigas de "próximo 0
 - Testes locais de persistência, conflito, idempotência, propagação e integridade executados novamente com sucesso; checagem TypeScript sem erros. Cobertura permanece nove capítulos, 3112 blocos e 448194 caracteres. Nenhum conteúdo de produção alterado pelos testes.
 - Sem nova evidência de escrita hospedada ou sincronização externa por Salvar. Não promover o estado para concluído. A autorização do usuário está registrada; a pendência é capacidade técnica, não aprovação editorial.
 - Critério restante: descoberta de elegibilidade disponível; declaração das integrações permitidas; implementação e teste de salvamento autenticado com recibos GitHub/Drive e releitura dos dois destinos. Não anunciar prazo ou 100% antes desse ciclo real.
+
+
+## HTML-01 | Incremento de rastreabilidade publicado | 2026-10-21
+- Aprovação geral do subprojeto HTML recebida; continuidade autônoma autorizada. Não implica comprovação técnica de integrações indisponíveis.
+- Publicação privada v2 confirmada succeeded: source commit 5452346120fda9e2012c4959dfe21d8489a3e3b4; deployment appgdep_6ad8cdfb4c4c8191a2398e097da17e3a; mesmo endereço e audiência.
+- Implementada consulta persistente de pendências derivada das revisões imutáveis: dois destinos por versão salva, descontando recibos somente do mesmo provedor e versão. Reenvio idempotente não duplica obrigações. Consulta GET não efetua gravações. Não há executor externo habilitado.
+- Exportação HTML/MD/JSON aceita versão exata; links usam a versão exibida e histórico permite baixar revisões. Versão inexistente retorna 404; inválida retorna 400. Conteúdo aprovado e identidade visual preservados.
+- Quatorze cenários locais passaram, incluindo cinco novos grupos de verificação para fila, idempotência, recibos e exportações históricas. TypeScript e build passaram. Identidade sintética e SQLite em memória não equivalem a escrita real de visitante.
+- Leitura hospedada real verificou /api/sync-status, exportações versionadas, erros 404/400 e igualdade da revisão inicial com os nove capítulos canônicos. Versão viva encontrada 0; nenhuma escrita sintética em produção. Cobertura permanece 3112 blocos e 448194 caracteres.
+- Pacote de continuidade do editor atualizado no mesmo Drive ID 1IZrzXzjbMb7sbyaMKibN-57WO4yJiC06, incluindo código e evidências da v2. SHA-256 6709b8a7f333da853a37f2a6b8aecb96b9435d6327c8d70fd084228e790f27d3. Backup realizado pelo Work, não por Salvar no site.
+- Bloqueio permanece: descoberta de elegibilidade Sites não disponível. A fila preserva obrigações, mas não sincroniza GitHub/Drive por conta própria. Não anunciar 100% nem integração automática concluída. Restam executor externo com recibos reais e homologação de salvamento autenticado hospedado.
+- HTML-01: 5/6 entregas principais implementadas, 83,33%; 1/6 pendente, 16,67%. O aceite integral do subprojeto continua aberto. Esta contagem é de implementação, não de homologação final.
