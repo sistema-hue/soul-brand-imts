@@ -120,3 +120,14 @@ Este checkpoint posterior prevalece sobre as indicações antigas de "próximo 0
 - Commits: Markdown 78ef4f85c8edadf1af8534117fe77504a66cdbac; D.K.P. aa171a12c4f71ff2e50e0bc0531754ba3c8b49bd; HTML 5130117864079b81b90a3d40b1b9c0507ba22aa5.
 - Próxima etapa: 09 | Encerramento. Fonte: parágrafos finais do HTML após inspiracao-16, incluindo síntese das referências, convite, contatos e Compromisso com a Transformação; preservar conteúdo sem duplicar passagem repetida no HTML.
 - 08.13 aprovado continua pendente da redação integral exata. Não declarar capítulo 08 integralmente sincronizado enquanto essa lacuna existir. Preservar 06.1 e demais pendências. Sem nova comprovação de Drive ou publicação pública.
+
+
+## Sincronização verificada | 2026-10-21 | 09 Encerramento
+- Aprovação integral recebida explicitamente nesta conversa. Não repetir aprovação.
+- Criado conteudo/09-encerramento-aprovado.md; seção idêntica incluída na D.K.P.; HTML atualizado nos blocos finais, preservando os conteúdos anteriores, estilos e scripts.
+- Original integral com repetições históricas, oração de impacto e narrativa de 11 subtítulos preservados conforme proposta aprovada.
+- Releitura integral dos três destinos confirmou igualdade com as versões preparadas. Commits: Markdown 037625c486c397090eb8069d4e23915966ba939c; D.K.P. 051036673f11db17731cb890fe18f1c09ffe1755; HTML c8c5f192f273f58955bf7fa0b65add3655c7a546.
+- Últimas unidades sincronizadas nesta continuidade: 08.14 Henry Ford, 08.15 Ayrton Senna, 08.16 Jesus Cristo e 09 Encerramento.
+- A sequência de apresentação chegou ao Encerramento; isto não comprova conclusão integral do Soul Brand ou do Planejamento Estratégico 2027–2030.
+- Próxima tarefa: recuperar as redações exatas já aprovadas de 08.13 e 06.1, reconciliar destinos sem substituir por variantes rejeitadas ou históricas. Aprovações preservadas, sem necessidade de repetição.
+- Pendências independentes: exportação PDF consolidada, backup integral MD/HTML/PDF no Drive e sua verificação, editor HTML com salvamento persistente e propagação, verificação de publicação pública. Nenhuma dessas entregas foi declarada concluída.
