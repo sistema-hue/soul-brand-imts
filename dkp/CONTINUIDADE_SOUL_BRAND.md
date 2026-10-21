@@ -103,3 +103,12 @@ Este checkpoint posterior prevalece sobre as indicações antigas de "próximo 0
 - Próximo conteúdo editorial: 08.15 | Ayrton Senna. Apresentar original integral, declaração sintética, narrativa e seleção interativa das três decisões; não substituir controle interativo por texto [Confirmar decisão editorial].
 - 08.13 continua aprovado e pendente de recuperação da redação exata; não usar variantes rejeitadas, não declarar sequência 08.1–08.14 integralmente sincronizada.
 - Backup Drive e publicação pública não comprovados neste incremento. Demais pendências preservadas.
+
+
+## Sincronização verificada | 2026-10-21 | 08.15 Ayrton Senna
+- Usuário aprovou integralmente a proposta apresentada nesta conversa, respondendo à decisão editorial de 08.15. Aprovação preservada, não repetir.
+- Original integral organizado, oração de impacto e desenvolvimento narrativo (11 subtítulos) sincronizados sem reescrita editorial em Markdown, D.K.P. e HTML.
+- Releitura integral de cada arquivo confirmou igualdade com o conteúdo preparado; restante do HTML e conteúdos anteriores preservados.
+- Commits: Markdown 8639af4dfb8e3c6eb5b5bb760e16582c0e8584e6; D.K.P. 0e81ef2a9bf7494e79c4479bc238b68e59dc15d0; HTML e2fdc8b9b676a7122c53117b49966b69eed6d3af.
+- Próxima apresentação: 08.16 | Jesus Cristo, original integral + oração de impacto + desenvolvimento narrativo + seleção interativa das três opções. Ainda não aprovado.
+- Preservar 08.13 aprovado e pendente de recuperação da redação exata, 06.1 histórico e demais pendências anteriores. Sem comprovação de Drive integral ou publicação pública neste incremento.
