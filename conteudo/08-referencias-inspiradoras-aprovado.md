@@ -2355,3 +2355,255 @@ Que eficiência precisa contribuir para a qualidade e para a sustentabilidade.
 E que o valor de uma inovação também se revela nas possibilidades que ela torna acessíveis às pessoas.
 
 É dessa maneira que Henry Ford integra nossas referências inspiradoras: como uma trajetória da qual podemos aprender a organizar capacidades, transformar ideias em soluções e construir empreendimentos capazes de ampliar o acesso a realizações úteis, consistentes e socialmente responsáveis.
+
+### 08.15 | Ayrton Senna
+
+#### Texto original integral
+
+**O Mito da Fórmula 1**
+
+A trajetória de Ayrton Senna, um dos maiores pilotos de Fórmula 1 de todos os tempos, é marcada por talento excepcional, dedicação intensa e uma paixão profunda pelo automobilismo, deixando um legado que transcende o esporte.
+
+**Perfil:** Piloto de Fórmula 1 brasileiro, considerado um dos maiores da história do esporte.
+
+**Síntese:** Ganhou três campeonatos mundiais em 1988, 1990 e 1991. Conhecido por sua competência em condições adversas, especialmente na chuva.
+
+**Realizações:** Conquistou 41 vitórias em Grandes Prêmios e 65 poles positions, deixando um legado de excelência, paixão pelo esporte e intensa dedicação.
+
+**História**
+
+Nascido em 1960 em São Paulo, Brasil, Ayrton Senna da Silva começou sua carreira no kart aos 13 anos, demonstrando desde cedo um talento natural e uma determinação inabalável para vencer.
+
+Sua jornada no automobilismo o levou à Fórmula 1 em 1984, onde ele rapidamente se destacou como um dos pilotos mais habilidosos e carismáticos do circuito.
+
+Durante sua carreira na Fórmula 1, Senna conquistou três campeonatos mundiais (1988, 1990 e 1991), todos pela McLaren, e acumulou 41 vitórias em Grandes Prêmios.
+
+Conhecido por sua habilidade excepcional em condições de chuva, sua determinação feroz e sua busca incansável pela perfeição, Senna se tornou uma lenda do esporte. Seu comprometimento com a excelência e sua intensa rivalidade com pilotos como Alain Prost fizeram das corridas não apenas competições de velocidade, mas também dramáticos duelos de vontade e estratégia.
+
+Senna também era profundamente comprometido com o bem-estar de seu país, envolvendo-se em várias iniciativas de caridade no Brasil.
+
+Sua morte trágica em um acidente durante o Grande Prêmio de San Marino em 1994 chocou o mundo, mas seu legado continua vivo, inspirando novas gerações de pilotos e fãs de automobilismo.
+
+**Para explorar mais**
+
+Filme/Série/Documentário: “Senna” (2010). Documentário que aborda a vida e a carreira do piloto brasileiro Ayrton Senna, destacando suas vitórias, sua paixão pelo automobilismo e seu legado como um dos maiores pilotos de Fórmula 1 de todos os tempos.
+
+**Livro**
+
+“Ayrton Senna: A Life in Pictures” por Mario Donnini. Um livro ricamente ilustrado que conta a história de Senna através de fotografias e relatos, capturando a essência de sua carreira e vida pessoal.
+
+**Recursos Adicionais**
+
+Para aqueles inspirados pela paixão e pelo legado de Ayrton Senna e desejando aprender mais sobre sua vida, carreira e impacto, os seguintes recursos são recomendados:
+
+- Exposições e Museus: O Instituto Ayrton Senna, fundado por sua família, trabalha para expandir as oportunidades educacionais para crianças e jovens no Brasil e abriga uma exposição sobre sua vida e carreira.
+- Artigos e Sites: Sites dedicados ao automobilismo e canais de esportes frequentemente publicam retrospectivas e análises sobre a carreira de Senna, destacando suas conquistas, seu estilo de pilotagem e sua filosofia de vida.
+- Eventos e Homenagens: Corridas de Fórmula 1 e eventos automobilísticos ao redor do mundo continuam a prestar homenagens a Senna, reconhecendo sua contribuição inestimável para o esporte.
+
+**Frases Inspiradoras**
+
+> “Não existe prazer na vida maior do que superar desafios.”
+
+> “O medo me fascina.”
+
+Ayrton Senna é lembrado não apenas por suas vitórias e títulos, mas também por seu espírito indomável, sua ética de trabalho incansável e sua capacidade de inspirar e emocionar pessoas dentro e fora das pistas. Seu legado é um testemunho do poder da paixão, da dedicação e do desejo de deixar o mundo um pouco melhor do que se encontrou.
+
+> “Se você quer ser bem-sucedido, precisa ter dedicação total, buscar seu último limite e dar o melhor de si mesmo.”
+
+Essa frase atribuída a Ayrton Senna inspira empreendedores a se dedicarem inteiramente às suas visões, impulsionando inovações que vão além dos limites conhecidos, em busca de soluções tecnológicas que também respeitem e promovam a sustentabilidade.
+
+Texto histórico recuperado do HTML original, com organização visual e remoção da paginação 86. As afirmações biográficas e frases atribuídas permanecem como constam na fonte, sem verificação independente.
+
+#### Declaração Sintética | Oração de Impacto
+
+*Acreditamos que grandes realizações exigem paixão pelo que fazemos, disciplina para desenvolver nossas capacidades e coragem para enfrentar desafios com responsabilidade. Inspirados pela trajetória de Ayrton Senna, queremos cultivar a dedicação, a concentração e a busca contínua pela excelência, transformando talento e conhecimento em resultados consistentes. Na IMTS, buscamos unir preparação, sensibilidade e capacidade de execução para construir empreendimentos inovadores, escaláveis e sustentáveis, reconhecendo que cada conquista depende da colaboração entre pessoas. Queremos superar nossas próprias limitações, honrar a confiança de quem caminha conosco e transformar nossas realizações em oportunidades e impacto positivo para a sociedade.*
+
+#### Desenvolvimento Narrativo
+
+**A paixão como força para realizar**
+
+Acreditamos que a paixão pelo que fazemos pode fortalecer nossa disposição para aprender, enfrentar dificuldades e desenvolver capacidades.
+
+A trajetória de Ayrton Senna, apresentada no documento original, oferece uma referência dessa relação entre envolvimento pessoal e dedicação.
+
+Sua história nos convida a refletir sobre a importância de encontrar significado naquilo que construímos.
+
+Na IMTS, queremos cultivar esse vínculo com nossas realizações.
+
+Queremos que as pessoas compreendam o propósito de seu trabalho e reconheçam como suas contribuições participam de algo relevante.
+
+Entretanto, reconhecemos que entusiasmo precisa encontrar condições concretas de desenvolvimento.
+
+Nossa intenção é combinar paixão, conhecimento e organização, transformando a vontade de realizar em iniciativas capazes de produzir resultados consistentes.
+
+**O talento desenvolvido pela disciplina**
+
+Uma capacidade inicial pode abrir possibilidades, mas seu desenvolvimento exige prática, atenção e continuidade.
+
+Acreditamos que a excelência se constrói por meio de escolhas que se repetem ao longo do tempo.
+
+Preparar-se, observar resultados, reconhecer dificuldades e aperfeiçoar a execução são partes desse processo.
+
+Na IMTS, queremos cultivar uma disciplina orientada à aprendizagem e à realização.
+
+Reconhecemos que competências precisam ser desenvolvidas e que pessoas diferentes podem exigir caminhos distintos para ampliar suas capacidades.
+
+Nossa intenção é criar condições para que o conhecimento se transforme em prática e a experiência contribua para melhorar as entregas.
+
+Queremos valorizar o talento e também o trabalho necessário para desenvolvê-lo.
+
+**A preparação como fundamento do desempenho**
+
+Um resultado visível costuma reunir esforços que começaram muito antes de sua realização.
+
+Conhecimento, treinamento, planejamento e compreensão das condições de execução influenciam a qualidade das decisões.
+
+Acreditamos que essa preparação possui relevância para os empreendimentos que desejamos construir.
+
+Na IMTS, queremos compreender os desafios antes de enfrentá-los e desenvolver capacidades compatíveis com as responsabilidades assumidas.
+
+Isso significa conhecer nossas soluções, nossos recursos e as necessidades das pessoas envolvidas.
+
+Reconhecemos que a preparação precisa ser proporcional à tarefa e contribuir para sua execução.
+
+Nossa intenção é construir confiança sustentada por competência e experiência, ampliando nossa capacidade de agir com clareza.
+
+**A concentração no que precisa ser realizado**
+
+Projetos relevantes exigem atenção às decisões que influenciam seus resultados.
+
+A dispersão pode consumir recursos, dificultar a execução e afastar uma iniciativa de seus objetivos.
+
+Acreditamos que a concentração ajuda a reconhecer prioridades e orientar esforços.
+
+Na IMTS, queremos manter clareza sobre aquilo que cada empreendimento precisa entregar.
+
+Queremos compreender quais atividades contribuem para esse resultado e quais dificuldades precisam ser resolvidas.
+
+Reconhecemos que o foco exige escolhas e que essas escolhas precisam considerar o conjunto do projeto.
+
+Nossa intenção é aproximar visão estratégica e trabalho cotidiano, preservando a atenção necessária para transformar objetivos em realizações.
+
+**A capacidade de atuar em condições adversas**
+
+O texto original destaca a atuação de Senna em condições de chuva e diante de desafios competitivos.
+
+Essa referência nos convida a refletir sobre a importância de perceber mudanças e adaptar decisões.
+
+Na IMTS, reconhecemos que nossos empreendimentos também podem encontrar cenários diferentes daqueles inicialmente previstos.
+
+Recursos podem se tornar limitados. Necessidades podem mudar. Uma solução pode revelar dificuldades durante sua utilização.
+
+Queremos desenvolver capacidade para compreender essas condições e responder de maneira adequada.
+
+Acreditamos que a adaptação exige conhecimento, observação e discernimento.
+
+Nossa intenção é enfrentar dificuldades preservando a responsabilidade sobre pessoas, recursos e resultados.
+
+**A atenção aos detalhes e a qualidade das entregas**
+
+Pequenas escolhas podem influenciar significativamente uma experiência.
+
+Uma informação pouco clara, uma etapa mal executada ou uma dificuldade recorrente podem comprometer a qualidade de uma solução.
+
+Acreditamos que a atenção aos detalhes contribui para construir confiança.
+
+Na IMTS, queremos compreender os elementos que fazem diferença para quem utiliza nossos produtos e serviços.
+
+Queremos desenvolver entregas coerentes com o valor que nos propomos a oferecer.
+
+Entretanto, reconhecemos que a busca por qualidade exige critérios e prioridades.
+
+Nossa intenção é dedicar esforço aos aspectos que influenciam o funcionamento, a experiência e a continuidade das soluções, aprendendo com sua utilização.
+
+**A realização individual e a contribuição coletiva**
+
+Uma conquista pode ser associada a uma pessoa e, ao mesmo tempo, depender de muitas contribuições.
+
+Conhecimentos técnicos, preparação, organização e apoio participam da construção dos resultados.
+
+Acreditamos que reconhecer essa dimensão coletiva fortalece nossa compreensão sobre a excelência.
+
+Na IMTS, queremos integrar competências e construir relações de colaboração.
+
+Queremos que cada pessoa compreenda sua responsabilidade e reconheça a importância das demais contribuições.
+
+A confiança entre diferentes funções permite compartilhar informações, identificar problemas e melhorar decisões.
+
+Nossa intenção é desenvolver um ecossistema no qual capacidades individuais encontrem condições para produzir realizações coletivas.
+
+**A superação acompanhada de responsabilidade**
+
+Buscar melhores resultados pode estimular o desenvolvimento de novas capacidades.
+
+Ao mesmo tempo, reconhecer limites é parte da responsabilidade de quem decide e executa.
+
+Na IMTS, queremos cultivar uma ambição que considere as condições reais de realização.
+
+Acreditamos que superar dificuldades exige compreender riscos, preparar recursos e avaliar consequências.
+
+Reconhecemos que a persistência precisa caminhar ao lado da capacidade de interromper, corrigir ou mudar uma abordagem quando necessário.
+
+Nossa intenção é desenvolver uma cultura na qual o compromisso com resultados preserve a dignidade, a segurança e a sustentabilidade das pessoas e dos empreendimentos.
+
+Queremos avançar com coragem e discernimento.
+
+**A identidade brasileira e a contribuição para a sociedade**
+
+A presença de Ayrton Senna entre nossas referências também nos convida a refletir sobre pertencimento e contribuição.
+
+Uma realização pode despertar identificação e ampliar a percepção sobre aquilo que somos capazes de construir.
+
+Na IMTS, queremos desenvolver empreendimentos que reconheçam nossa origem e participem da criação de oportunidades.
+
+Acreditamos que conhecimento, tecnologia e capacidade empresarial podem contribuir para enfrentar problemas e ampliar possibilidades de desenvolvimento.
+
+Nossa intenção é conectar nossas ambições a necessidades concretas da sociedade.
+
+Queremos que os resultados alcançados fortaleçam nossa capacidade de contribuir e abram caminhos para novas realizações.
+
+**O legado construído além das conquistas**
+
+Um legado se expressa nos efeitos que permanecem e nas possibilidades que uma trajetória ajuda a abrir.
+
+Acreditamos que essa reflexão precisa participar da maneira como compreendemos nossos próprios resultados.
+
+Na IMTS, queremos construir empreendimentos capazes de produzir valor ao longo do tempo.
+
+Isso envolve desenvolver conhecimentos, fortalecer relações e criar condições para que outras pessoas também possam realizar.
+
+Reconhecemos que o impacto de uma iniciativa precisa ser observado em suas consequências concretas.
+
+Nossa intenção é fazer com que o crescimento amplie nossa capacidade de contribuir, aproximando resultados empresariais e benefícios para a sociedade.
+
+**O legado de Ayrton Senna para a IMTS**
+
+Não buscamos transformar a competição esportiva em um modelo obrigatório para nossas relações ou reproduzir integralmente uma trajetória individual.
+
+Nossa intenção é compreender os ensinamentos que podem fortalecer nossa cultura e nossa capacidade de realização.
+
+A paixão pelo que fazemos.
+
+A disciplina para desenvolver competências.
+
+A importância da preparação.
+
+A concentração nas prioridades.
+
+A atenção aos detalhes.
+
+A capacidade de adaptação.
+
+A colaboração entre pessoas.
+
+E a responsabilidade de transformar conquistas em oportunidades de contribuição.
+
+Queremos que esses princípios encontrem expressão na maneira como desenvolvemos nossas células tecnológicas, organizamos empreendimentos e construímos soluções.
+
+Acreditamos que a excelência exige dedicação e aprendizagem.
+
+Que grandes realizações dependem de capacidades individuais e coletivas.
+
+E que o valor de uma conquista também se revela nas possibilidades que ela cria para outras pessoas.
+
+É dessa maneira que Ayrton Senna integra nossas referências inspiradoras: como uma trajetória que nos convida a desenvolver nossas capacidades, enfrentar desafios com responsabilidade e transformar paixão e dedicação em realizações capazes de produzir valor e impacto positivo.
