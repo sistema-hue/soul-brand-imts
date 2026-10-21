@@ -2092,6 +2092,260 @@ E que o verdadeiro valor das realizações tecnológicas depende dos benefícios
 
 É dessa maneira que Elon Musk integra nossas referências inspiradoras: como uma trajetória da qual podemos aprender a pensar além dos limites estabelecidos, desenvolver competências e transformar possibilidades em realizações responsáveis e sustentáveis.
 
+### 08.13 | Mark Zuckerberg
+
+#### Texto original integral
+
+**Moldando a Comunicação Global**
+
+A trajetória de Mark Zuckerberg, cofundador e CEO do Facebook, agora conhecido como meta Platforms, Inc., é uma história de inovação na era digital, destacando como uma ideia surgida em um dormitório universitário pode transformar a maneira como o mundo se conecta e compartilha informações.
+
+**Perfil:** Cofundador e CEO do Facebook, agora meta Platforms, Inc., empreendedor e programador de computadores.
+
+**Síntese:** Criou o Facebook enquanto estudava em Harvard, transformando-o na maior rede social do mundo.
+
+**Realizações:** Revolucionou a forma como as pessoas se conectam e compartilham informações online, impactando a comunicação social, a publicidade e até a política global.
+
+**História**
+
+Nascido em 1984 em White Plains, Nova York, Zuckerberg demonstrou interesse por programação desde cedo. Enquanto estudava em Harvard, ele criou o “Facemash”, precursor do Facebook, que rapidamente evoluiu de um projeto de dormitório para uma plataforma global.
+
+Em 2004, o Facebook foi lançado, inicialmente restrito a estudantes de Harvard, mas logo expandiu para outras universidades e, eventualmente, para o público geral.
+
+O Facebook revolucionou a maneira como as pessoas interagem online, tornando-se a maior rede social do mundo, com bilhões de usuários ativos. Além de conectar amigos e familiares, transformou-se em uma plataforma poderosa para marketing, comunicação e até mesmo ativismo social.
+
+Sob a liderança de Zuckerberg, a empresa expandiu seu portfólio, adquirindo o Instagram, o WhatsApp e o Oculus VR, ampliando ainda mais seu impacto no mundo digital.
+
+Zuckerberg tem sido uma figura central em debates sobre privacidade de dados, desinformação e regulamentação da internet. Apesar das controvérsias, ele se comprometeu a transformar a meta em uma empresa que promove o desenvolvimento de tecnologias de realidade aumentada e virtual, visando criar o “metaverso”, um ambiente online imersivo que promete ser a próxima evolução da internet.
+
+**Para explorar mais**
+
+Filme/Série/Documentário: “The Social Network” (2010). Dirigido por David Fincher e roteirizado por Aaron Sorkin, este filme conta a história da criação do Facebook e as batalhas legais subsequentes.
+
+**Livro**
+
+“The Facebook Effect: The Inside Story of the Company That Is Connecting the World” por David Kirkpatrick. Oferece uma visão da história do Facebook e como Mark Zuckerberg transformou uma ideia de dormitório universitário em uma das empresas mais poderosas do mundo.
+
+**Recursos Adicionais**
+
+Para aqueles inspirados pela visão e impacto de Mark Zuckerberg e interessados em aprender mais sobre sua jornada e o Facebook, os seguintes recursos são recomendados:
+
+- Entrevistas e Palestras: Zuckerberg frequentemente participa de conferências e eventos, discutindo o futuro da tecnologia, o impacto das redes sociais e a visão da meta para o metaverso.
+- Sites e Artigos: O blog oficial do meta (about.fb.com/news/) oferece atualizações e insights sobre os novos desenvolvimentos da empresa e suas plataformas.
+- Documentários: Diversos documentários e séries, disponíveis em plataformas de streaming, exploram o impacto do Facebook na sociedade, a evolução das redes sociais e os desafios éticos e de privacidade enfrentados pela indústria.
+
+**Frases Inspiradoras**
+
+> “A questão mais importante que alguém pode se perguntar é: ‘O que estou fazendo para ajudar?’”
+
+> “Encontre essa coisa que você é super apaixonado.”
+
+A história de Mark Zuckerberg é um exemplo do impacto transformador que a tecnologia pode ter na sociedade. Ele navegou pelo rápido crescimento de sua empresa enfrentando tanto admiração quanto críticas, continuando a influenciar a forma como o mundo se comunica, se informa e se entretém.
+
+> “A maior risco é não correr riscos... Em um mundo que está mudando muito rapidamente, a única estratégia garantida de falha é não correr riscos.”
+
+Essa citação de Mark Zuckerberg desafia empreendedores a abraçar a incerteza e inovar com coragem, reconhecendo que a sustentabilidade ambiental e social exige novas abordagens e soluções ousadas.
+
+Texto histórico preservado conforme o HTML do projeto, com organização visual e remoção da paginação 80. As afirmações biográficas e frases atribuídas permanecem como constam na fonte, sem verificação independente. A proposta abaixo é uma nova redação para reconciliação.
+
+#### Declaração Sintética | Oração de Impacto
+
+*Acreditamos que conectar pessoas ganha significado quando amplia suas possibilidades de aprender, colaborar e realizar. Inspirados pela trajetória empreendedora de Mark Zuckerberg, queremos cultivar a iniciativa de transformar necessidades percebidas em soluções tecnológicas e desenvolver empreendimentos capazes de alcançar novos públicos com consistência. Na IMTS, buscamos integrar pessoas, conhecimentos e oportunidades em um ecossistema inovador, escalável e sustentável, no qual cada conexão possa contribuir para a criação de valor. Queremos crescer preservando a confiança, o respeito à privacidade e a responsabilidade pelas consequências de nossas escolhas, fazendo da tecnologia um instrumento para ampliar capacidades e produzir impacto positivo na sociedade.*
+
+#### Desenvolvimento Narrativo
+
+**A percepção de uma necessidade como ponto de partida**
+
+Acreditamos que uma oportunidade pode começar pela observação de algo próximo.
+
+Uma dificuldade de comunicação, uma necessidade de organização ou uma maneira limitada de compartilhar conhecimentos pode revelar possibilidades de desenvolvimento.
+
+A trajetória de Mark Zuckerberg, apresentada no documento original, nos convida a refletir sobre essa capacidade de reconhecer oportunidades nas relações humanas.
+
+Na IMTS, queremos cultivar atenção à realidade das pessoas.
+
+Queremos compreender como trabalham, aprendem, se comunicam e procuram realizar seus projetos.
+
+Reconhecemos que essa compreensão exige proximidade e disposição para ouvir.
+
+Nossa intenção é transformar necessidades percebidas em conhecimento para desenvolver soluções úteis e empreendimentos relevantes.
+
+**A iniciativa de construir uma primeira solução**
+
+Uma ideia precisa encontrar uma forma concreta para que suas possibilidades possam ser compreendidas.
+
+Desenvolver uma primeira solução permite observar como ela funciona e o que precisa ser aperfeiçoado.
+
+Acreditamos que essa iniciativa aproxima imaginação e aprendizagem.
+
+Na IMTS, queremos utilizar nossas competências para construir experiências que possam ser utilizadas e avaliadas.
+
+Isso exige definir uma finalidade, reconhecer os recursos disponíveis e concentrar esforços no que permite começar.
+
+Queremos aprender com a execução e utilizar esse conhecimento para orientar os próximos passos.
+
+Nossa intenção é desenvolver uma cultura na qual as ideias encontrem caminhos de realização e possam evoluir por meio de resultados concretos.
+
+**A proximidade com uma comunidade**
+
+O texto original apresenta uma iniciativa que começou em um ambiente universitário e ampliou seu alcance.
+
+Essa passagem oferece uma reflexão sobre o valor de compreender uma comunidade antes de expandir uma solução.
+
+Um contexto definido permite observar necessidades e reconhecer o que torna uma experiência relevante.
+
+Na IMTS, queremos desenvolver essa capacidade de compreensão.
+
+Queremos identificar para quem construímos e quais problemas nossas iniciativas podem ajudar a resolver.
+
+Reconhecemos que diferentes públicos podem apresentar expectativas e condições distintas.
+
+Nossa intenção é utilizar o conhecimento adquirido em cada contexto para orientar melhorias e desenvolver uma expansão consistente.
+
+**As conexões que se transformam em colaboração**
+
+Uma conexão pode aproximar pessoas que possuem necessidades, conhecimentos e capacidades complementares.
+
+Seu valor se amplia quando essa aproximação encontra condições para produzir uma contribuição.
+
+Na IMTS, queremos desenvolver relações que favoreçam a colaboração.
+
+Queremos que uma necessidade encontre conhecimento.
+
+Que uma oportunidade encontre competências.
+
+Que uma iniciativa encontre parceiros capazes de contribuir para sua realização.
+
+Acreditamos que essas relações precisam ser sustentadas por confiança e clareza sobre os compromissos envolvidos.
+
+Nossa intenção é construir um ecossistema no qual as conexões ajudem a transformar possibilidades em trabalho conjunto e realizações.
+
+**A plataforma como ambiente de geração de valor**
+
+Uma plataforma pode organizar recursos e facilitar interações entre diferentes participantes.
+
+Acreditamos que sua relevância depende da experiência que oferece e das possibilidades que ajuda a criar.
+
+Na IMTS, queremos compreender onde esse modelo pode contribuir para nossos empreendimentos.
+
+Isso exige identificar quem participa, quais necessidades estão envolvidas e como as relações podem ser facilitadas.
+
+Reconhecemos que o desenvolvimento tecnológico precisa ser acompanhado por capacidade de operação e atendimento.
+
+Nossa intenção é construir ambientes nos quais as pessoas encontrem utilidade, compreendam as formas de participação e tenham condições de realizar seus objetivos.
+
+Queremos que o valor de uma plataforma seja reconhecido em sua utilização.
+
+**O crescimento sustentado por capacidades**
+
+Ampliar o alcance de uma solução exige preparar o empreendimento para novas responsabilidades.
+
+Mais participantes podem demandar maior disponibilidade, suporte, segurança e qualidade de operação.
+
+Acreditamos que a escala precisa ser construída.
+
+Na IMTS, queremos compreender as condições que permitem crescer e reconhecer as limitações que precisam ser resolvidas.
+
+Isso envolve desenvolver competências, organizar recursos e acompanhar a experiência dos usuários.
+
+Reconhecemos que a expansão pode revelar necessidades que não estavam presentes no contexto inicial.
+
+Nossa intenção é ampliar nossas iniciativas de maneira compatível com a capacidade de entregar o valor prometido.
+
+**A integração entre diferentes competências**
+
+Um ecossistema pode reunir iniciativas com funções próprias e possibilidades de colaboração.
+
+Acreditamos que essa diversidade se torna mais valiosa quando existe compreensão sobre a contribuição de cada parte.
+
+Na IMTS, queremos integrar conhecimentos tecnológicos, capacidade empresarial e experiência de diferentes áreas.
+
+Queremos identificar onde uma competência pode contribuir para outra iniciativa e onde uma solução pode ampliar as possibilidades do conjunto.
+
+Reconhecemos que essa integração exige preservar responsabilidades e finalidades compreensíveis.
+
+Nossa intenção é desenvolver relações que facilitem a cooperação e melhorem nossa capacidade de enfrentar problemas.
+
+Queremos construir uma visão de conjunto sustentada por contribuições concretas.
+
+**A aprendizagem orientada pela experiência**
+
+Uma solução pode ser utilizada de maneiras diferentes daquelas inicialmente imaginadas.
+
+Observar essa experiência ajuda a compreender dificuldades, reconhecer benefícios e identificar necessidades de mudança.
+
+Na IMTS, queremos incorporar essa aprendizagem ao desenvolvimento de nossos empreendimentos.
+
+Queremos ouvir as pessoas e acompanhar os resultados de nossas escolhas.
+
+Acreditamos que decisões precisam poder ser revistas quando as evidências indicam outro caminho.
+
+Reconhecemos que experimentar exige limites e responsabilidade sobre os efeitos produzidos.
+
+Nossa intenção é aperfeiçoar nossas soluções por meio da experiência, preservando a disposição para corrigir falhas e desenvolver novas respostas.
+
+**A confiança e a responsabilidade sobre informações**
+
+As soluções digitais podem participar de aspectos importantes da vida das pessoas.
+
+Informações compartilhadas, relações construídas e atividades realizadas nesses ambientes exigem cuidado.
+
+O texto original menciona debates sobre privacidade e utilização de dados, oferecendo uma reflexão que precisa participar de nossa aprendizagem.
+
+Na IMTS, queremos considerar essas responsabilidades desde o desenvolvimento das iniciativas.
+
+Queremos que as pessoas encontrem informações compreensíveis sobre o funcionamento das soluções e sobre os compromissos envolvidos em sua utilização.
+
+Reconhecemos que a confiança depende das práticas que sustentam a experiência.
+
+Nossa intenção é tratar informações com responsabilidade e preservar o respeito pelas pessoas em nossas decisões tecnológicas e empresariais.
+
+**A atenção às consequências do alcance**
+
+Quanto mais uma solução participa da vida das pessoas, maior se torna a necessidade de compreender seus efeitos.
+
+Uma iniciativa pode ampliar oportunidades e também produzir dificuldades que precisam ser reconhecidas.
+
+Acreditamos que essa atenção faz parte da responsabilidade de empreender.
+
+Na IMTS, queremos observar como nossas soluções são utilizadas e desenvolver capacidade para responder aos problemas identificados.
+
+Queremos considerar os resultados econômicos e a qualidade das experiências que ajudamos a construir.
+
+Reconhecemos que benefícios e consequências podem se distribuir de maneiras diferentes entre os participantes.
+
+Nossa intenção é ampliar o valor produzido e corrigir práticas que comprometam nossos princípios e nossas relações.
+
+**O legado de Mark Zuckerberg para a IMTS**
+
+Nossa intenção ao reunir referências inspiradoras é aprender com contribuições que possam fortalecer nossa identidade e nossa capacidade de realização.
+
+A trajetória apresentada sobre Mark Zuckerberg nos convida a refletir sobre a relação entre iniciativa, conhecimento tecnológico e desenvolvimento empresarial.
+
+A percepção de necessidades próximas.
+
+A disposição para construir uma primeira solução.
+
+A aprendizagem com uma comunidade.
+
+O potencial das conexões.
+
+A integração de competências.
+
+A construção das condições para crescer.
+
+E a responsabilidade sobre informações e consequências.
+
+Queremos que esses aprendizados encontrem expressão na maneira como desenvolvemos nossas células tecnológicas, organizamos empreendimentos e construímos plataformas.
+
+Acreditamos que conectar pessoas pode ampliar capacidades.
+
+Que uma solução precisa demonstrar seu valor na experiência de quem a utiliza.
+
+E que o crescimento exige responsabilidade proporcional ao alcance conquistado.
+
+É dessa maneira que Mark Zuckerberg integra nossas referências inspiradoras: como uma trajetória da qual podemos aprender a reconhecer oportunidades, desenvolver soluções e transformar conexões em realizações capazes de produzir valor com consistência, confiança e responsabilidade.
+
 ### 08.14 | Henry Ford
 
 #### Texto original integral
