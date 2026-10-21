@@ -160,3 +160,15 @@ Este checkpoint posterior prevalece sobre as indicações antigas de "próximo 0
 - Releitura integral dos três destinos confirmou igualdade com as versões preparadas. Commits: Markdown 37ccc89fb86d1171496f8939f5fda720deb84f03; D.K.P. 7514ec5696a633d8089adb161bb9408f1bfdfd54; HTML 85e8b3e9421b780407ace6ffecde58e51cbfe600.
 - Reconciliação das duas lacunas: 2/2 concluídas (100% desta tarefa delimitada). 06.1 e 08.13 encerradas por novas versões aprovadas. Registros históricos de texto ausente permanecem como histórico, superados por estes checkpoints.
 - Próxima tarefa: PDF e backups reconciliados. Editor HTML persistente e propagação ainda pendentes; publicação pública não comprovada. Não confundir 100% das duas reconciliações com 100% do projeto completo.
+
+
+## Exportação e backup reconciliados | 2026-10-21
+- Fonte: snapshot completo (13 arquivos) do commit 1e96fef9f3e3562798174879d79887c87015d38c; inclui as reconciliações aprovadas de 06.1 e 08.13.
+- PDF de trabalho reconciliado: 162 páginas; revisão visual amostral das páginas 1, 31, 134 e 162 sem defeitos observados. Não comprova homologação integral nem publicação pública.
+- ZIP inclui repositório, referências de marca, ESTADO.json e manifesto SHA-256; CRC do ZIP e hashes dos arquivos internos conferidos.
+- Drive: ZIP 1lqdTvh9rbucQlRNSmFbwNIOqO1nkNQKx; PDF 1kLUtJ1hWauYC-BEP7_p6by_B6G-k8pj-. Ambos recuperados e comparados byte a byte: idênticos aos locais. ZIP SHA-256 9779e1567ec8107e3a7aa4b20ea76318fbfc679ba622afbbf8b6e85e6c32c0a7; PDF SHA-256 de0f0982a2c7a606dd0d260a21c9dd76cc3b1067b23d533d988a4716e8d54623.
+- HTML e MD separados atualizados preservando os IDs existentes do Drive: 1sTMDnW6VBpEi8fVcJlhnQw5UGqtzxOCW e 1ozYdFhlhF1YyAqRBElmxxO-u6rF_WdBL. Bytes também presentes no ZIP recuperado e verificado.
+- Arquivos persistentes: ZIP libfile_25ce3ea76da08191853c564e65697149; PDF libfile_d7f6484b83308191911ddf736071c0ad.
+- Tarefa delimitada de reconciliação: 2/2 concluídas, 100%; PDF e backup atualizados. Não há lacuna ativa dos textos 06.1 e 08.13.
+- Pendências restantes: editor HTML com salvamento persistente e propagação, homologação e publicação pública. Não existe backlog global reconciliado suficiente para calcular porcentagem de conclusão de todo o Planejamento Estratégico 2027–2030.
+- Este recibo posterior não integra retroativamente o snapshot fonte. Backups são versões deste incremento, não automação contínua.
