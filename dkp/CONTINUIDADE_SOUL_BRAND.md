@@ -143,3 +143,12 @@ Este checkpoint posterior prevalece sobre as indicações antigas de "próximo 0
 - Pesquisa adicional: Soul_Brand_IMTS_checkpoint.html v2 e CULTURA_ORGANIZACIONAL.md v1 foram lidos. A redação encontrada de 06.1 é identificada explicitamente como proposta ainda não aprovada, sem vínculo inequívoco com a aprovação posterior; não foi promovida a canônica. Nenhuma redação integral aprovada de 08.13 recuperada.
 - Próximo passo: recuperar o registro textual inequívoco dessas duas aprovações; editor HTML persistente continua independente e não implementado. Publicação pública não verificada.
 - Este recibo posterior não integra retroativamente o snapshot do commit fonte indicado. Cópias no Drive são backups deste incremento, sem sincronização automática contínua configurada.
+
+
+## Reconciliação concluída | 2026-10-21 | 06.1 Tolerância Zero
+- Usuário autorizou novas versões para reconciliação de 06.1 e 08.13 e aprovou integralmente a nova redação de 06.1 apresentada nesta conversa. Esta é a nova versão canônica, sem alegação de recuperação literal da redação histórica.
+- Sete conceitos originais, oração de impacto e narrativa integral com 10 subtítulos sincronizados em Markdown, D.K.P. e HTML, preservando demais seções. Releitura integral de cada destino confirmou igualdade com a versão preparada.
+- Commits: Markdown c65f636db9afdeda84c240b50af85cba7f20c44c; D.K.P. 3be798e593f818d4c6d45a009f932a0f8aad59c2; HTML d3dfa203240c0ea31d603a3205050b0ae6ad5f38.
+- Pendência ativa de 06.1 encerrada por reconciliação aprovada. Registros históricos acima permanecem como histórico e são superados por este checkpoint.
+- Próximo passo: apresentar nova versão de 08.13 Mark Zuckerberg para reconciliação e aprovação, sem reaproveitar como aprovadas as propostas rejeitadas. Após aprovação e sincronização, regenerar PDF e atualizar backups; cópias anteriores são snapshots históricos, não contêm esta reconciliação.
+- Editor HTML persistente com propagação continua pendente e publicação pública não foi verificada.
